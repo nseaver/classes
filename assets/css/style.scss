@@ -1,0 +1,22 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+/* Hide the default theme header */
+header {
+  display: none;
+}
+
+/* Adjust main content to use full width without header */
+.wrapper {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+section {
+  width: 100%;
+  float: none;
+}

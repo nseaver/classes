@@ -8,6 +8,11 @@ header {
   display: none;
 }
 
+/* Hide the HR at the top */
+hr:first-of-type {
+  display: none;
+}
+
 /* Adjust main content to use full width without header */
 .wrapper {
   width: 100%;

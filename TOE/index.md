@@ -8,7 +8,7 @@ layout: default
 #### Tuesday/Thursday, 3–4:15 PM; Eaton Hall 370
 
 Nick Seaver
-
+test
 nick.seaver@tufts.edu
 
 Office Hours: https://calendly.com/nick-seaver/office-hours

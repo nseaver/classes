@@ -14,7 +14,7 @@ Office Hours: https://calendly.com/nick-seaver/office-hours
 ## Overview
 This course is an intensive workshop in anthropological theory, focused on a particular kind of technology—what the anthropologist Alfred Gell called *technologies of enchantment*. Unlike stereotypical technologies that work on physical material, technologies of enchantment are designed with *psychological* goals. These technologies are complex, and they are much older than they seem. Under Gell's umbrella, we can include not only contemporary "tech" like social media algorithms or generative AI, but also apparently simple objects like mousetraps or imposing entryway doors.
 
-The course surveys a broad range of such technologies, as well as anthropological approaches to studying them. What distinguishes the anthropological approach from others you might encounter in other courses is an abiding interest in locating these technologies in social and cultural contexts: that is, technologies of enchantment are made by people in particular social positions, under particular interpretive frameworks for making sense of the world. We will also be relentlessly comparative, making sense of these technologies by bringing together diverse examples to explore their similarities and differences. "Technology" will take on a very broad meaning in this class, referring not only to physical artifacts, but also to a way of analyzing works of art, advertising, plans, scams, and magic tricks.
+The course surveys a broad range of such technologies, from fishing to phishing, as well as anthropological approaches to studying them. What distinguishes the anthropological approach from others you might encounter in other courses is an abiding interest in locating these technologies in social and cultural contexts: that is, technologies of enchantment are made by people in particular social positions, under particular interpretive frameworks for making sense of the world. We will also be relentlessly comparative, making sense of these technologies by bringing together diverse examples to explore their similarities and differences. "Technology" will take on a very broad meaning in this class, referring not only to physical artifacts, but also to a way of analyzing works of art, advertising, plans, scams, and magic tricks.
 
 We'll begin with an extended foray into the anthropology of traps and trapping, where humans devise devices that work on the minds of animal prey; then, we will broaden our scope to think of other kinds of practices and objects as trap-like. In the second half of the course, we turn to digital technologies—examining how designers, marketers, and platforms use interfaces, algorithms, and deceptive patterns to capture and hold attention.
 
@@ -27,13 +27,13 @@ The work in the course is designed to help you learn a few things:
 ## Assignments
 This is the basic break-down of assignments, deadlines, and how much of your grade they count for, so you can see everything at a glance. More detailed descriptions and specifications for submission will be on the corresponding Canvas assignment pages, where you will also be submitting your work.
 
-| **Assignment** | **Percentage** | **Deadline** |
-| ---- | ---- | ---- |
-| Trap analysis | 15% | 2/20 |
-| Trap design | 25% | 3/10 |
-| Interface analysis | 15% | 4/15 |
-| Collection | 25% | 5/8 |
-| Attendance | 20% | daily |
+| **Assignment**     | **Percentage** | **Deadline** |
+| ------------------ | -------------- | ------------ |
+| Trap analysis      | 15%            | 2/13         |
+| Trap design        | 25%            | 3/10         |
+| Interface analysis | 15%            | 4/17         |
+| Final Project      | 25%            | 5/8          |
+| Attendance         | 20%            | daily        |
 
 ### Reading
 Each class meeting has one or two assigned readings—book chapters or journal articles—which you should complete before we meet. The order of readings here is a gentle suggestion of the order in which you might want to read them. If a text is not readily available online, I've put a PDF of it in our Canvas files. If it is available online, I expect you to download it yourself using our library resources. (If you run into trouble finding something, please let me know ASAP so I can help you [and your classmates!] out.)
@@ -69,7 +69,7 @@ You know what this is. Details on the make-up policy are down below the course s
 
 ### 3. Thursday 1/22: Style and Function
 
-- Lemonnier, Pierre. 1993. "Introduction." In _Technological Choices: Transformation in Material Cultures Since the Neolithic_, edited by Pierre Lemonnier. New York: Routledge, 1–35.
+- ==Lemonnier, Pierre. 1993. "Introduction." In _Technological Choices: Transformation in Material Cultures Since the Neolithic_, edited by Pierre Lemonnier. New York: Routledge, 1–35.==
 - Seaver, Nick. 2013. "The Lost Wanderers: Technology and the Auxiliary Motive." *Medium*. https://medium.com/anthropology-and-algorithms/the-lost-wanderers-866b60a297ee.
 
 ### 4. Tuesday 1/27: Operatory Chains
@@ -89,7 +89,7 @@ You know what this is. Details on the make-up policy are down below the course s
 ### 7. Thursday 2/5: Traps and Hospitality
 
 - Swancutt, Katherine. 2012. "The Captive Guest: Spider Webs of Hospitality among the Nuosu of Southwest China." _Journal of the Royal Anthropological Institute_ 18 (s1): S103–116. [https://doi.org/10.1111/j.1467-9655.2012.01766.x](https://doi.org/10.1111/j.1467-9655.2012.01766.x).
-- Kelly, Ann H. 2012. "The Experimental Hut: Hosting Vectors." _Journal of the Royal Anthropological Institute_ 18 (s1): S145-S160. [https://doi.org/10.1111/j.1467-9655.2012.01769.x](https://doi.org/10.1111/j.1467-9655.2012.01769.x).
+- ==~~Kelly, Ann H. 2012. "The Experimental Hut: Hosting Vectors." _Journal of the Royal Anthropological Institute_ 18 (s1): S145-S160. [https://doi.org/10.1111/j.1467-9655.2012.01769.x](https://doi.org/10.1111/j.1467-9655.2012.01769.x).~~==
 
 ### 8. Tuesday 2/10: Traps and Art
 
@@ -106,9 +106,9 @@ You know what this is. Details on the make-up policy are down below the course s
 - Seaver, Nick. 2019. "Captivating Algorithms: Recommender Systems as Traps." _Journal of Material Culture_ 24 (4): 421–36. [https://doi.org/10.1177/1359183518820366](https://doi.org/10.1177/1359183518820366).
 - Miller, Daniel. 2000. "The Fame of Trinis: Websites as Traps." _Journal of Material Culture_ 5 (1): 5–24. [https://doi.org/10.1177/135918350000500101](https://doi.org/10.1177/135918350000500101).
 
-### No class 2/19 (Tufts Monday)
+### **Trap analysis assignment due 2/13**
 
-**Trap analysis assignment due 2/20**
+### No class 2/19 (Tufts Monday)
 
 ### 11. Tuesday 2/24: Gambling
 
@@ -145,7 +145,7 @@ You know what this is. Details on the make-up policy are down below the course s
 ### 19. Tuesday 3/31: Persuasive Design
 
 - Fogg, B. J., Gregory Cuellar, and David Danielson. 2009. "Motivating, Influencing, and Persuading Users: An Introduction to Captology." _Human Computer Interaction Fundamentals_, 109–22.
-- Valasek, Chad J. 2022. "Disciplining the Akratic User: Constructing Digital (Un) Wellness." _Mobile Media & Communication_ 10 (2): 235–50. [https://doi.org/10.1177/20501579211038796](https://doi.org/10.1177/20501579211038796).
+- ~~==Valasek, Chad J. 2022. "Disciplining the Akratic User: Constructing Digital (Un) Wellness." _Mobile Media & Communication_ 10 (2): 235–50. [https://doi.org/10.1177/20501579211038796](https://doi.org/10.1177/20501579211038796).~~==
 
 ### 20. Thursday 4/2: Deceptive Patterns
 *These are three human-computer interaction papers that catalog types of "dark" or "deceptive" design patterns. You don't need to read all of them in detail, but you should focus specifically on how they categorize the different types of pattern.*
@@ -169,18 +169,18 @@ You know what this is. Details on the make-up policy are down below the course s
 - McNealy, Jasmine E. 2022. "Platforms as Phish Farms: Deceptive Social Engineering at Scale." _New Media & Society_ 24 (7): 1677–94. [https://doi.org/10.1177/14614448221099228](https://doi.org/10.1177/14614448221099228).
 - Dhamija, Rachna, J. D. Tygar, and Marti Hearst. 2006. "Why Phishing Works." In _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_, 581–90. Montréal, Québec, Canada: ACM. [https://doi.org/10.1145/1124772.1124861](https://doi.org/10.1145/1124772.1124861).
 
-**Interface analysis due 4/15**
+**Interface analysis due 4/17**
 
 ### 24. Thursday 4/16: Scams
 
 - Burrell, Jenna. 2008. "Problematic Empowerment: West African Internet Scams as Strategic Misrepresentation." _Information Technologies & International Development_ 4 (4): 15–30.
 - Yogarajah, Yathukulan. 2024. "'Staging' economic performances: Comparing startup and Multi-Level Marketing cryptocurrency projects." Unpublished paper, under review. *(The author has kindly agreed to share this with us for the purposes of the class—please do not circulate beyond it.)*
 
-### 25. Tuesday 4/21: Collection Workshopping
-- *You'll bring your work-in-progress collections, share them with each other in small groups, and workshop them.*
+### 25. Tuesday 4/21: TBD
+
 
 ### 26. Thursday 4/23: Final Project Sharing
-*On the last day of class, you will present your collections to the class.*
+*On the last day of class, we will share our research for the final project with each other.*
 
 
 

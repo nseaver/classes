@@ -8,10 +8,9 @@ header {
   display: none;
 }
 
-/* Hide theme HRs (top and bottom) */
-section > hr:first-child,
-section > hr:last-child {
-  display: none;
+/* Remove border lines from section */
+section {
+  border: none;
 }
 
 /* Hide the footer */

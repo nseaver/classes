@@ -14,7 +14,7 @@ Office Hours: https://calendly.com/nick-seaver/office-hours
 ## Overview
 This course is an intensive workshop in anthropological theory, focused on a particular kind of technology—what the anthropologist Alfred Gell called *technologies of enchantment*. Unlike stereotypical technologies that work on physical material, technologies of enchantment are designed with *psychological* goals. These technologies are complex, and they are much older than they seem. Under Gell's umbrella, we can include not only contemporary "tech" like social media algorithms or generative AI, but also apparently simple objects like mousetraps or imposing entryway doors.
 
-The course surveys a broad range of such technologies, from fishing to phishing, as well as anthropological approaches to studying them. What distinguishes the anthropological approach from others you might encounter in other courses is an abiding interest in locating these technologies in social and cultural contexts: that is, technologies of enchantment are made by people in particular social positions, under particular interpretive frameworks for making sense of the world. We will also be relentlessly comparative, making sense of these technologies by bringing together diverse examples to explore their similarities and differences. "Technology" will take on a very broad meaning in this class, referring not only to physical artifacts, but also to a way of analyzing works of art, advertising, plans, scams, and magic tricks.
+The course surveys a broad range of such technical practices, from fishing to phishing, as well as anthropological approaches to studying them. What distinguishes the anthropological approach from others you might encounter in other courses is an abiding interest in locating these technologies in social and cultural contexts: that is, technologies of enchantment are made by people in particular social positions, under particular interpretive frameworks for making sense of the world. We will also be relentlessly comparative, making sense of these technologies by bringing together diverse examples to explore their similarities and differences. "Technology" will take on a very broad meaning in this class, referring not only to physical artifacts, but also to a way of analyzing works of art, advertising, plans, scams, and magic tricks.
 
 We'll begin with an extended foray into the anthropology of traps and trapping, where humans devise devices that work on the minds of animal prey; then, we will broaden our scope to think of other kinds of practices and objects as trap-like. In the second half of the course, we turn to digital technologies—examining how designers, marketers, and platforms use interfaces, algorithms, and deceptive patterns to capture and hold attention.
 
@@ -38,18 +38,23 @@ This is the basic break-down of assignments, deadlines, and how much of your gra
 ### Reading
 Each class meeting has one or two assigned readings—book chapters or journal articles—which you should complete before we meet. The order of readings here is a gentle suggestion of the order in which you might want to read them. If a text is not readily available online, I've put a PDF of it in our Canvas files. If it is available online, I expect you to download it yourself using our library resources. (If you run into trouble finding something, please let me know ASAP so I can help you [and your classmates!] out.)
 
-While reading, look for the main arguments, any interesting passages, points of confusion, etc. Minimally, you should be prepared to answer the question "what's one thing you found interesting about this text?," for every reading, every class meeting.
+While reading, look for the main arguments, any interesting passages, points of confusion, etc. Minimally, you should be prepared to answer the question "what's one thing you found interesting about this text?," for every reading, every class meeting. I expect that you’ll have the readings with you and be ready to refer to specific passages in them to support your claims and motivate your questions.
 
 ### *Reading encouragement program (up to 10%)*
 I expect that you will read all the texts assigned for a given day and come to class ready to discuss them. If it turns out that people are having trouble finding the motivation to read, I will implement a **reading encouragement program**. This will either require short reading responses to each assigned text or collaborative annotation of the texts using an online tool. Points will come from the attendance part of the grade, adjusted for how far into the term we are. (This is truly not intended to be punitive—it's just very important to the functioning of the class that you read!)
+
 ### Trap Analysis (15%)
-Following our day on operatory chains, you will choose a trap of some sort (broadly conceived) and analyze it, producing an operatory chain diagram and a short research memo about your trap.
+Following our day on operatory chains, you will choose a trap and analyze it, producing an operatory chain diagram and a short research memo about it.
+
 ### Trap Design (25%)
-Culminating our unit on traps, you will, in groups, design a trap of your own to catch some kind of prey. This can be as literal or metaphorical as you like (informed by class materials, of course), and it will be accompanied by a report analyzing it according to class themes. We will have some time in class to work on these together and to present them.
+Culminating the first half of the class, you will, in groups, design and prototype a trap of your own to catch some kind of prey. This can be as literal or figurative as you like (informed by class materials, of course), and it will be accompanied by a report analyzing it according to class themes. We will have some time in class to work on these together and to present them.
+
 ### Interface Analysis (15%)
 Following our day on the walkthrough method, you will choose a digital interface of some sort to analyze, examining the techniques it uses to influence and retain users.
-### Collection (25%)
-Your final project in the class will be a digital "exhibit" of technologies of enchantment, curated by you around a theme of your choice. Each item in your collection will be accompanied by an explanatory blurb (like gallery wall text), and you will write up a curatorial statement (a short paper) about your theme and how the collection fits together.
+
+### ==Final Project (25%)==
+==Our final==
+
 ### Attendance (20%)
 You know what this is. Details on the make-up policy are down below the course schedule.
 
@@ -57,15 +62,16 @@ You know what this is. Details on the make-up policy are down below the course s
 ## Schedule
 
 ### 1. Thursday 1/15: Technology and Enchantment
-*Read during class:*
+*During class:*
 
 - Gell, Alfred. 1988. "Technology and Magic." _Anthropology Today_ 4 (2): 6–9. [https://doi.org/10.2307/3033230](https://doi.org/10.2307/3033230).
+- Browse through the Pitt Rivers Museum collection of traps: http://tinyurl.com/pittriverstraps (This should take you to search results. If it doesn't, follow these steps: Navigate to the collection advanced search page; pick "Object" from the buttons at the top; put "trap" in the Description field; hit "search." Then you can check the box at the left of the results to show only results containing images—there should be about 355 of them.) 
 
 ### 2. Tuesday 1/20: Contraptions and the Mind
 
 - Mason, Otis T. 1900. "Traps of the Amerinds—A Study in Psychology and Invention." _American Anthropologist_ 2 (4): 657–675.
-- Wadley, Lyn. 2010. "Were Snares and Traps Used in the Middle Stone Age and Does It Matter? A Review and a Case Study from Sibudu, South Africa." Journal of Human Evolution 58 (2): 179–92. https://doi.org/10.1016/j.jhevol.2009.10.004. *(Only read the first two pages and the concluding remarks.*)
-- Browse through the Pitt Rivers Museum collection of traps: http://tinyurl.com/pittriverstraps (This should take you to search results. If it doesn't, follow these steps: Navigate to the collection advanced search page; pick "Object" from the buttons at the top; put "trap" in the Description field; hit "search." Then you can check the box at the left of the results to show only results containing images—there should be about 260 of them.) Pick three traps that you find interesting for whatever reason and note their accession numbers, e.g., 1999.29.10.
+- Wadley, Lyn. 2010. "Were Snares and Traps Used in the Middle Stone Age and Does It Matter? A Review and a Case Study from Sibudu, South Africa." Journal of Human Evolution 58 (2): 179–92. https://doi.org/10.1016/j.jhevol.2009.10.004. *(Only read the first two pages and the concluding remarks.*) ==maybe new wadley coming from ILL==
+- Pick three traps from the Pitt Rivers collection (see day 1) that you find interesting for whatever reason and note their accession numbers, e.g., 1999.29.10.
 
 ### 3. Thursday 1/22: Style and Function
 
@@ -79,17 +85,17 @@ You know what this is. Details on the make-up policy are down below the course s
 
 ### 5. Thursday 1/29: Trap Theory
 
-- Corsín Jiménez, Alberto, and Chloe Nahum-Claudel. 2019. "The Anthropology of Traps: Concrete Technologies and Theoretical Interfaces." _Journal of Material Culture_ 24 (4): 383–400. [https://doi.org/10.1177/1359183518820368](https://doi.org/10.1177/1359183518820368). *(This piece is the introduction to a collection of articles, many of which we'll be reading in this unit; it will refer to themes, theories, and thinkers that you haven't yet encountered, so take your time. Try to identify one or two ideas in here you find compelling enough to want to read more about.)*
+- Chiritoiu, Ana, and Chakad Ojani. 2024. “Introduction: Capture as an Anthropological Catchword.” _Social Analysis_ 68 (4): 1–18. [https://doi.org/10.3167/sa.2024.680401](https://doi.org/10.3167/sa.2024.680401). *(This piece is the introduction to a special issue on capture; it will refer to themes, theories, and thinkers that you haven't yet encountered, so take your time. Try to identify one or two ideas in here you find compelling enough to want to read more about.)*
 
-### 6. Tuesday 2/3: Traps and Cultural Context
+### 6. Tuesday 2/3: Traps and Cultural Context (or, Fishing)
 
 - Nahum-Claudel, Chloe. 2019. "From Mastery to Subjection: An Embodied Ethics of Entrapment in Amazonia." _Journal of Material Culture_ 24 (4): 473–490. [https://doi.org/10.1177/1359183519828767](https://doi.org/10.1177/1359183519828767).
 - Swanson, Heather Anne. 2019. "The Entrapment of Trap Design: Materiality, Political Economy and the Shifting Worlds of Fixed Gear Fishing Equipment." _Journal of Material Culture_ 24 (4): 401–20. [https://doi.org/10.1177/1359183519828769](https://doi.org/10.1177/1359183519828769).
 
-### 7. Thursday 2/5: Traps and Hospitality
+### 7. Thursday 2/5: Traps and Cunning
 
-- Swancutt, Katherine. 2012. "The Captive Guest: Spider Webs of Hospitality among the Nuosu of Southwest China." _Journal of the Royal Anthropological Institute_ 18 (s1): S103–116. [https://doi.org/10.1111/j.1467-9655.2012.01766.x](https://doi.org/10.1111/j.1467-9655.2012.01766.x).
-- ==~~Kelly, Ann H. 2012. "The Experimental Hut: Hosting Vectors." _Journal of the Royal Anthropological Institute_ 18 (s1): S145-S160. [https://doi.org/10.1111/j.1467-9655.2012.01769.x](https://doi.org/10.1111/j.1467-9655.2012.01769.x).~~==
+- Singleton, Benedict. 2014. "(Notes Towards) Speculative Design." In _Speculative Aesthetics_, edited by Robin Mackay, Luke Pendrell, and James Trafford. Falmouth: Urbanomic. https://xenopraxis.net/readings/singleton_speculativedesign.pdf
+- Jabban, Sinan. 2024. “‘One Step Ahead’: Tales of Treasure Traps, Limitation, and Possibility in Northwestern Turkey.” _Social Analysis_ 68 (4): 39–56. [https://doi.org/10.3167/sa.2024.680403](https://doi.org/10.3167/sa.2024.680403).
 
 ### 8. Tuesday 2/10: Traps and Art
 
@@ -101,12 +107,12 @@ You know what this is. Details on the make-up policy are down below the course s
 - Gell, Alfred. 1992. "The Technology of Enchantment and the Enchantment of Technology." In _Anthropology, Art and Aesthetics_, edited by Jeremy Coote and Anthony Shelton, 40–63. Oxford.
 - Derlon, Brigitte, and Monique Jeudy-Ballini. 2010. "The Theory of Enchantment and the Enchantment of Theory: The Art of Alfred Gell." _Oceania_ 80 (2): 129–42. [https://doi.org/10.1002/j.1834-4461.2010.tb00076.x](https://doi.org/10.1002/j.1834-4461.2010.tb00076.x).
 
+### **Trap analysis assignment due 2/13**
+
 ### 10. Tuesday 2/17: Traps and Computers
 
 - Seaver, Nick. 2019. "Captivating Algorithms: Recommender Systems as Traps." _Journal of Material Culture_ 24 (4): 421–36. [https://doi.org/10.1177/1359183518820366](https://doi.org/10.1177/1359183518820366).
 - Miller, Daniel. 2000. "The Fame of Trinis: Websites as Traps." _Journal of Material Culture_ 5 (1): 5–24. [https://doi.org/10.1177/135918350000500101](https://doi.org/10.1177/135918350000500101).
-
-### **Trap analysis assignment due 2/13**
 
 ### No class 2/19 (Tufts Monday)
 
@@ -120,12 +126,12 @@ You know what this is. Details on the make-up policy are down below the course s
 - Deleuze, Gilles. 1992. "Postscript on the Societies of Control." *October* 59: 3–7.
 - Cheney-Lippold, John. 2011. "A New Algorithmic Identity: Soft Biopolitics and the Modulation of Control." _Theory, Culture & Society_ 28 (6): 164–81. [https://doi.org/10.1177/0263276411424420](https://doi.org/10.1177/0263276411424420).
 
-### 13. Tuesday 3/3: The Trap
+### 13. Tuesday 3/3: Care and Control
 
-- Garrido Castellano, Carlos, and J. Griffith Rollefson. 2023. "Trapping Ecosystems: *Apeshit*'s Fugitive Politics of Post/Coloniality." _Journal of Popular Music Studies_ 35 (1): 20–45. [https://doi.org/10.1525/jpms.2023.35.1.20](https://doi.org/10.1525/jpms.2023.35.1.20).
+- Swancutt, Katherine. 2012. "The Captive Guest: Spider Webs of Hospitality among the Nuosu of Southwest China." _Journal of the Royal Anthropological Institute_ 18 (s1): S103–116. [https://doi.org/10.1111/j.1467-9655.2012.01766.x](https://doi.org/10.1111/j.1467-9655.2012.01766.x).
 - Ziv, Tali. 2023. "The Trap: Care and Mystification in Carceral Governance." _Ethnos_, October, 1–26. [https://doi.org/10.1080/00141844.2023.2264527](https://doi.org/10.1080/00141844.2023.2264527).
 
-### 14. Thursday 3/5: TBD
+### 14. Thursday 3/5: TBD ==(work day or DDS visit—move earlier?)
 
 ### 15. Tuesday 3/10: Trap Presentations 1
 
@@ -135,7 +141,7 @@ You know what this is. Details on the make-up policy are down below the course s
 
 ### 17. Tuesday 3/24: Magic
 
-- Jones, Graham. 2011. "An Apprenticeship in Cunning." In _Trade of the Tricks: Inside the Magician's Craft_, 34–76. University of California Press. [https://doi.org/10.1525/california/9780520270466.001.0001](https://doi.org/10.1525/california/9780520270466.001.0001).
+- Jones, Graham. 2011. "An Apprenticeship in Cunning." In _Trade of the Tricks: Inside the Magician's Craft_, 34–76. University of California Press. [https://doi.org/10.1525/california/9780520270466.001.0001](https://doi.org/10.1525/california/9780520270466.001.0001). ==shorten==
 
 ### 18. Thursday 3/26: Advertising
 
@@ -145,7 +151,7 @@ You know what this is. Details on the make-up policy are down below the course s
 ### 19. Tuesday 3/31: Persuasive Design
 
 - Fogg, B. J., Gregory Cuellar, and David Danielson. 2009. "Motivating, Influencing, and Persuading Users: An Introduction to Captology." _Human Computer Interaction Fundamentals_, 109–22.
-- ~~==Valasek, Chad J. 2022. "Disciplining the Akratic User: Constructing Digital (Un) Wellness." _Mobile Media & Communication_ 10 (2): 235–50. [https://doi.org/10.1177/20501579211038796](https://doi.org/10.1177/20501579211038796).~~==
+- Martin, Emily. 2022. "Persuasive Technology and Personhood on Social Media." _Science, Technology, & Human Values_ 50 (6). [https://doi.org/10.1177/01622439221137038](https://doi.org/10.1177/01622439221137038).
 
 ### 20. Thursday 4/2: Deceptive Patterns
 *These are three human-computer interaction papers that catalog types of "dark" or "deceptive" design patterns. You don't need to read all of them in detail, but you should focus specifically on how they categorize the different types of pattern.*
@@ -157,7 +163,7 @@ You know what this is. Details on the make-up policy are down below the course s
 ### 21. Tuesday 4/7: Walkthrough Method
 
 - Light, Ben, Jean Burgess, and Stefanie Duguay. 2018. "The Walkthrough Method: An Approach to the Study of Apps." _New Media & Society_ 20 (3): 881–900. [https://doi.org/10.1177/1461444816675438](https://doi.org/10.1177/1461444816675438).
-- Dieter, Michael and Nathaniel Tkacz. 2020. "The Patterning of Finance/Security: A Designerly Walkthrough of Challenger Banking Apps." _Computational Culture_ 7. http://computationalculture.net/the-patterning-of-finance-security
+- Dieter, Michael and Nathaniel Tkacz. 2020. "The Patterning of Finance/Security: A Designerly Walkthrough of Challenger Banking Apps." _Computational Culture_ 7. (PDF on Canvas.)
 
 ### 22. Thursday 4/9: Spam
 
@@ -169,14 +175,16 @@ You know what this is. Details on the make-up policy are down below the course s
 - McNealy, Jasmine E. 2022. "Platforms as Phish Farms: Deceptive Social Engineering at Scale." _New Media & Society_ 24 (7): 1677–94. [https://doi.org/10.1177/14614448221099228](https://doi.org/10.1177/14614448221099228).
 - Dhamija, Rachna, J. D. Tygar, and Marti Hearst. 2006. "Why Phishing Works." In _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_, 581–90. Montréal, Québec, Canada: ACM. [https://doi.org/10.1145/1124772.1124861](https://doi.org/10.1145/1124772.1124861).
 
-**Interface analysis due 4/17**
-
 ### 24. Thursday 4/16: Scams
 
 - Burrell, Jenna. 2008. "Problematic Empowerment: West African Internet Scams as Strategic Misrepresentation." _Information Technologies & International Development_ 4 (4): 15–30.
-- Yogarajah, Yathukulan. 2024. "'Staging' economic performances: Comparing startup and Multi-Level Marketing cryptocurrency projects." Unpublished paper, under review. *(The author has kindly agreed to share this with us for the purposes of the class—please do not circulate beyond it.)*
+- Swartz, Lana. 2022. "Theorizing the 2017 Blockchain ICO Bubble as a Network Scam." _New Media & Society_ 24 (7): 1695–713. [https://doi.org/10.1177/14614448221099224](https://doi.org/10.1177/14614448221099224).
 
-### 25. Tuesday 4/21: TBD
+### **Interface analysis due 4/17** ==TOO LATE—move earlier, need more runway before final project==
+
+### 25. Tuesday 4/21: Conversational AI Design ==MOVE EARLIER to scaffold final assignment==
+
+- Rodwell, Elizabeth. 2025. "Someone Behind This Technology: Conversation Designers in the Artificial Intelligence Loop." _Engineering Studies_. [https://doi.org/10.1080/19378629.2025.2575366](https://doi.org/10.1080/19378629.2025.2575366). ==OR "Between Code and Culture" in STHV—TBD==
 
 
 ### 26. Thursday 4/23: Final Project Sharing

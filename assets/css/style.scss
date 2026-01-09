@@ -13,6 +13,11 @@ hr:first-of-type {
   display: none;
 }
 
+/* Hide the footer */
+footer {
+  display: none;
+}
+
 /* Adjust main content to use full width without header */
 .wrapper {
   width: 100%;

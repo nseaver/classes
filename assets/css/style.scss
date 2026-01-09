@@ -8,8 +8,9 @@ header {
   display: none;
 }
 
-/* Hide the HR at the top */
-hr:first-of-type {
+/* Hide theme HRs (top and bottom) */
+section > hr:first-child,
+section > hr:last-child {
   display: none;
 }
 

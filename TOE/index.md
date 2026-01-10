@@ -74,7 +74,8 @@ You can miss two class meetings without penalty, and make up four more absences 
 
    - Mason, Otis T. 1900. "Traps of the Amerinds—A Study in Psychology and Invention." _American Anthropologist_ 2 (4): 657–675.
    - Wadley, Lyn. 2010. "[Were Snares and Traps Used in the Middle Stone Age and Does It Matter? A Review and a Case Study from Sibudu, South Africa](https://doi.org/10.1016/j.jhevol.2009.10.004)." _Journal of Human Evolution_ 58 (2): 179–92.<br>*(Only read the first two pages and the concluding remarks.)* ==maybe new wadley coming from ILL==
-   - Pick three traps from the Pitt Rivers collection (see day 1) that you find interesting for whatever reason and note their accession numbers, e.g., 1999.29.10.
+
+   Pick three traps from the Pitt Rivers collection (see day 1) that you find interesting for whatever reason and note their accession numbers, e.g., 1999.29.10.
 
 3. **Thursday 1/22: Style and Function**
 
@@ -84,7 +85,8 @@ You can miss two class meetings without penalty, and make up four more absences 
 4. **Tuesday 1/27: Operatory Chains**
 
    - Coupaye, Ludovic. 2022. "[Making 'Technology' Visible: Technical Activities and the Chaîne Opératoire](https://doi.org/10.1007/978-981-16-7084-8_2)." In _The Palgrave Handbook of the Anthropology of Technology_, ed. Bruun et al., 37–60. Springer.
-   - Choose an arbitrary technical process and sketch out an operatory chain diagram, following the examples in Coupaye's text.
+
+   Choose an arbitrary technical process and sketch out an operatory chain diagram, following the examples in Coupaye's text.
 
 5. **Thursday 1/29: Trap Theory**
 

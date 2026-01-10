@@ -11,7 +11,7 @@ layout: default
 
 Nick Seaver  
 [nick.seaver@tufts.edu](mailto:nick.seaver@tufts.edu)  
-Office Hours: [calendly.com/nick-seaver/office-hours](https://calendly.com/nick-seaver/office-hours)
+[Office Hours](https://calendly.com/nick-seaver/office-hours)
 
 ## Overview  
 This course is an intensive workshop in anthropological theory, focused on a particular kind of technology—what the anthropologist Alfred Gell called *technologies of enchantment*. Unlike stereotypical technologies that work on physical material, technologies of enchantment are designed with *psychological* goals. These technologies are complex, and they are much older than they seem. Under Gell's umbrella, we can include not only contemporary "tech" like social media algorithms or generative AI, but also apparently simple objects like mousetraps or imposing entryway doors.

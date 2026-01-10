@@ -31,7 +31,33 @@ section {
   float: none;
 }
 
-/* Reduce space under headings */
-h1, h2, h3, h4, h5, h6 {
+/* Heading spacing */
+h1 {
+  margin-bottom: 0;
+}
+
+h2, h3, h4, h5, h6 {
   margin-bottom: 0.25em;
+}
+
+/* More space above class day headings (h3) */
+h3 {
+  margin-top: 1.5em;
+}
+
+/* Space after dateline h4 */
+h4 {
+  margin-bottom: 0.5em;
+}
+
+/* Style h5 to match h4 */
+h5 {
+  font-size: 1em;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+/* Softer background */
+body {
+  background-color: #fffef5;
 }

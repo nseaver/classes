@@ -3,7 +3,7 @@ title: Technologies of Enchantment
 layout: default
 ---
 
-#### Spring 2026: ANTH 123    
+##### Spring 2026: ANTH 123    
 # Technologies of Enchantment    
 #### Tuesday/Thursday, 3–4:15 PM; Eaton Hall 370  
 

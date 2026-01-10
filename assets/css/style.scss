@@ -1,7 +1,7 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400&display=swap');
 @import "jekyll-theme-minimal";
 
 /* Hide theme chrome */
@@ -81,12 +81,12 @@ h5:first-of-type {
 }
 
 h1 {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 3em;
+  font-family: 'Fraunces', serif;
+  font-size: 3.2em;
   font-weight: 600;
   line-height: 1.0;
-  margin-bottom: 0.15em;
-  letter-spacing: -0.03em;
+  margin-bottom: 0.2em;
+  letter-spacing: -0.02em;
 }
 
 /* Dateline under title */
@@ -130,9 +130,16 @@ h2 + p {
   margin-left: 0;
 }
 
-/* Pull the intro text tighter */
+/* Instructor block - matches dateline style */
 h4 + p {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #666;
+  line-height: 1.8;
   margin-top: 0;
+  margin-bottom: 2em;
 }
 
 /* Lists */

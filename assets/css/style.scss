@@ -1,93 +1,144 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400&display=swap');
 @import "jekyll-theme-minimal";
 
-/* Hide the default theme header */
-header {
+/* Hide theme chrome */
+header, footer {
   display: none;
-}
-
-/* Remove border lines from section */
-section {
-  border: none;
-}
-
-/* Hide the footer */
-footer {
-  display: none;
-}
-
-/* Adjust main content to use full width without header */
-.wrapper {
-  width: 100%;
-  max-width: 650px;
-  margin: 0 auto;
-  padding: 20px;
-  padding-top: 10px;
 }
 
 section {
+  border: none;
   width: 100%;
   float: none;
 }
 
-/* Heading spacing */
-h1 {
-  margin-bottom: 0;
+/* Layout */
+.wrapper {
+  width: 100%;
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 40px 20px;
 }
 
-h2, h3, h4, h5, h6 {
-  margin-bottom: 0.25em;
-}
-
-/* More space above class day headings (h3) */
-h3 {
-  margin-top: 1.5em;
-}
-
-/* Space after dateline h4 */
-h4 {
-  margin-bottom: 0.5em;
-}
-
-/* Style h5 to match h4 */
-h5 {
-  font-size: 1em;
-  font-weight: bold;
-  margin-bottom: 0;
-}
-
-/* Softer background and typography */
+/* Base typography */
 body {
-  background-color: #fffef5;
-  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, sans-serif;
-  line-height: 1.6;
+  background-color: #fff;
+  font-family: 'IBM Plex Sans', -apple-system, sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #1a1a1a;
 }
 
-/* Muted link color */
+/* Links - subtle until hover */
 a {
-  color: #4a6fa5;
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: #ccc;
+  text-underline-offset: 2px;
 }
 
 a:hover {
-  color: #2d4a6f;
+  text-decoration-color: #e85d04;
 }
 
-/* More distinct h2 */
-h2 {
-  font-size: 1.4em;
-  font-weight: normal;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
-}
-
-/* Nav bar styling (first paragraph with links) */
+/* Nav bar - uppercase, tracked out */
 section > p:first-child {
-  font-size: 0.85em;
-  text-align: center;
-  padding: 0.5em 0;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.7em;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  text-align: left;
+  padding: 0;
+  margin-bottom: 3em;
+  border: none;
+}
+
+section > p:first-child a {
+  text-decoration: none;
+  margin-right: 1.5em;
+}
+
+section > p:first-child a:hover {
+  color: #e85d04;
+}
+
+/* Course header block */
+h5:first-of-type {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.75em;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #666;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 2.2em;
+  font-weight: 500;
+  line-height: 1.1;
+  margin-bottom: 0.2em;
+  letter-spacing: -0.02em;
+}
+
+/* Dateline under title */
+h4 {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.8em;
+  font-weight: 400;
+  color: #666;
   margin-bottom: 1.5em;
-  border-bottom: 1px solid #ddd;
+}
+
+/* Section headings - no underline, just scale */
+h2 {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.85em;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-top: 3em;
+  margin-bottom: 1em;
+  padding-bottom: 0;
+  border: none;
+}
+
+/* Class day headings */
+h3 {
+  font-size: 1.1em;
+  font-weight: 500;
+  margin-top: 2em;
+  margin-bottom: 0.3em;
+}
+
+/* Accent block - first paragraph after h2 gets a left border */
+h2 + p {
+  border-left: 3px solid #e85d04;
+  padding-left: 1em;
+  margin-left: 0;
+}
+
+/* Pull the intro text tighter */
+h4 + p {
+  margin-top: 0;
+}
+
+/* Lists */
+ul, ol {
+  padding-left: 1.2em;
+}
+
+li {
+  margin-bottom: 0.3em;
+}
+
+/* Horizontal rules if any */
+hr {
+  border: none;
+  border-top: 1px solid #eee;
+  margin: 3em 0;
 }

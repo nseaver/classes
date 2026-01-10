@@ -131,16 +131,13 @@ h2 + p {
   margin-left: 0;
 }
 
-/* Instructor block - matches dateline style */
+/* Instructor block - softer than dateline */
 h4 + p {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.75em;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: #666;
-  line-height: 1.8;
-  margin-top: 0;
-  margin-bottom: 2em;
+  font-size: 0.9em;
+  color: #444;
+  line-height: 1.6;
+  margin-top: 0.5em;
+  margin-bottom: 2.5em;
 }
 
 /* Lists */

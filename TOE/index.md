@@ -141,13 +141,9 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Swancutt, Katherine. 2012. "[The Captive Guest: Spider Webs of Hospitality among the Nuosu of Southwest China](https://doi.org/10.1111/j.1467-9655.2012.01766.x)." _Journal of the Royal Anthropological Institute_ 18 (s1): S103–116.
     - Ziv, Tali. 2023. "[The Trap: Care and Mystification in Carceral Governance](https://doi.org/10.1080/00141844.2023.2264527)." _Ethnos_, 1–26.
 
-14. **Thursday 3/5: TBD** ==(work day or DDS visit—move earlier?)
+14. **Thursday 3/5: TBD** <mark>(work day or DDS visit—move earlier?)</mark>
 
-15. **Tuesday 3/10: Trap Presentations 1**
-
-16. **Thursday 3/12: Trap Presentations 2**
-
-    <span class="schedule-note">Spring Break</span>
+<li class="double-day"><span class="day-number">15–16.</span><strong>Tues 3/10 & Thurs 3/12: Trap Presentations</strong><p><em>Student trap presentations</em></p><span class="schedule-note">Spring Break</span></li>
 
 17. **Tuesday 3/24: Magic**
 

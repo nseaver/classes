@@ -159,6 +159,25 @@ ol li::marker {
   font-size: 0.9em;
 }
 
+/* Combined day entry (e.g., presentation days) */
+.double-day {
+  list-style: none;
+  margin-left: -1.5em;
+}
+
+.double-day .day-number {
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 500;
+  font-size: 0.9em;
+  margin-right: 0.5em;
+}
+
+@media (min-width: 600px) {
+  .double-day {
+    margin-left: 0;
+  }
+}
+
 li {
   margin-bottom: 0.3em;
 }

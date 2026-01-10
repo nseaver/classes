@@ -65,7 +65,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 1. **Thursday 1/15: Technology and Enchantment**
 
-   *During class:*
+   <span class="day-label">During class</span>
 
    - Gell, Alfred. 1988. "[Technology and Magic](https://doi.org/10.2307/3033230)." _Anthropology Today_ 4 (2): 6–9.
    - Browse through the [Pitt Rivers Museum collection of traps](http://tinyurl.com/pittriverstraps). (This should take you to search results. If it doesn't, follow these steps: Navigate to the collection advanced search page; pick "Object" from the buttons at the top; put "trap" in the Description field; hit "search." Then you can check the box at the left of the results to show only results containing images—there should be about 355 of them.)

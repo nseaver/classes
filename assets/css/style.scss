@@ -180,11 +180,9 @@ li {
 }
 
 .schedule ol > li > p:first-child > strong,
-.schedule ol > li > strong:first-child,
-.schedule-note {
+.schedule ol > li > strong:first-child {
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 1em;
-  font-weight: bold;
+  font-size: 0.9em;
   letter-spacing: 0.02em;
   display: block;
 }
@@ -226,8 +224,12 @@ li {
   color: #333;
 }
 
-/* Schedule notes (deadlines, breaks) - spacing only, typography shared above */
+/* Schedule notes (deadlines, breaks) */
 .schedule-note {
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: bold;
+  letter-spacing: 0.02em;
+  display: block;
   margin-top: 2em;
 }
 

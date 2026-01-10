@@ -21,9 +21,10 @@ footer {
 /* Adjust main content to use full width without header */
 .wrapper {
   width: 100%;
-  max-width: 800px;
+  max-width: 650px;
   margin: 0 auto;
   padding: 20px;
+  padding-top: 10px;
 }
 
 section {
@@ -57,7 +58,26 @@ h5 {
   margin-bottom: 0;
 }
 
-/* Softer background */
+/* Softer background and typography */
 body {
   background-color: #fffef5;
+  font-family: Georgia, Charter, serif;
+  line-height: 1.6;
+}
+
+/* Muted link color */
+a {
+  color: #4a6fa5;
+}
+
+a:hover {
+  color: #2d4a6f;
+}
+
+/* More distinct h2 */
+h2 {
+  font-size: 1.4em;
+  font-weight: normal;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2em;
 }

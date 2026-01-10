@@ -38,7 +38,7 @@ This is the basic break-down of work you’ll have to complete in this class, al
 | Attendance         | 20%            | daily        |
 
 ### Reading  
-Each class meeting has one or two assigned readings—book chapters or journal articles—which you should complete before we meet. If a text is not readily available online, I've put a PDF of it in our class files on Canvas. If it is available online, I’ve linked it here, a you should download it yourself using our library resources. If you can’t get something, let me know so I can help you (and your classmates) out.
+Each class meeting has one or two assigned readings—book chapters or journal articles—which you should complete before we meet. If a text is not readily available online, I've put a PDF of it in our class files on Canvas. If it is available online, I’ve linked it here, and you should download it yourself using our library resources. If you can’t get something, let me know so I can help you (and your classmates) out.
 
 While reading, look for main arguments, interesting passages, connections to other readings, or points of confusion. Minimally, you should be prepared to answer the question "What's one thing you found interesting about this text?" for every reading, for every class meeting. I expect that you’ll have the texts with you and be ready to refer to specific passages in them to support your claims and motivate your questions.
 
@@ -97,42 +97,42 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 7. **Thursday 2/5: Traps and Cunning**
 
-   - Singleton, Benedict. 2014. "(Notes Towards) Speculative Design." In _Speculative Aesthetics_, edited by Robin Mackay, Luke Pendrell, and James Trafford. Falmouth: Urbanomic. [https://xenopraxis.net/readings/singleton_speculativedesign.pdf](https://xenopraxis.net/readings/singleton_speculativedesign.pdf)
-   - Jabban, Sinan. 2024. "'One Step Ahead': Tales of Treasure Traps, Limitation, and Possibility in Northwestern Turkey." _Social Analysis_ 68 (4): 39–56. [https://doi.org/10.3167/sa.2024.680403](https://doi.org/10.3167/sa.2024.680403).
+   - Singleton, Benedict. 2014. "[(Notes Towards) Speculative Design](https://xenopraxis.net/readings/singleton_speculativedesign.pdf)." In _Speculative Aesthetics_, ed. Mackay et al. Urbanomic.
+   - Jabban, Sinan. 2024. "['One Step Ahead': Tales of Treasure Traps, Limitation, and Possibility in Northwestern Turkey](https://doi.org/10.3167/sa.2024.680403)." _Social Analysis_ 68 (4): 39–56.
 
 8. **Tuesday 2/10: Traps and Art**
 
-   - Gell, Alfred. 1996. "Vogel's Net: Traps as Artworks and Artworks as Traps." _Journal of Material Culture_ 1 (1): 15–38. [https://doi.org/10.1177/135918359600100102](https://doi.org/10.1177/135918359600100102).
-   - Halloy, A. 2015. "Pierre Smith's Mind Traps: The Origin and Ramifications of a Theory of Ritual Efficacy." _Anthropological Theory_ 15 (3): 358–74. [https://doi.org/10.1177/1463499615594559](https://doi.org/10.1177/1463499615594559).
+   - Gell, Alfred. 1996. "[Vogel's Net: Traps as Artworks and Artworks as Traps](https://doi.org/10.1177/135918359600100102)." _Journal of Material Culture_ 1 (1): 15–38.
+   - Halloy, A. 2015. "[Pierre Smith's Mind Traps: The Origin and Ramifications of a Theory of Ritual Efficacy](https://doi.org/10.1177/1463499615594559)." _Anthropological Theory_ 15 (3): 358–74.
 
 9. **Thursday 2/12: Traps and Art 2**
 
-   - Gell, Alfred. 1992. "The Technology of Enchantment and the Enchantment of Technology." In _Anthropology, Art and Aesthetics_, edited by Jeremy Coote and Anthony Shelton, 40–63. Oxford.
-   - Derlon, Brigitte, and Monique Jeudy-Ballini. 2010. "The Theory of Enchantment and the Enchantment of Theory: The Art of Alfred Gell." _Oceania_ 80 (2): 129–42. [https://doi.org/10.1002/j.1834-4461.2010.tb00076.x](https://doi.org/10.1002/j.1834-4461.2010.tb00076.x).
+   - Gell, Alfred. 1992. "The Technology of Enchantment and the Enchantment of Technology." In _Anthropology, Art and Aesthetics_, ed. Coote and Shelton, 40–63. Oxford.
+   - Derlon, Brigitte, and Monique Jeudy-Ballini. 2010. "[The Theory of Enchantment and the Enchantment of Theory: The Art of Alfred Gell](https://doi.org/10.1002/j.1834-4461.2010.tb00076.x)." _Oceania_ 80 (2): 129–42.
 
    **Trap analysis assignment due 2/13**
 
 10. **Tuesday 2/17: Traps and Computers**
 
-    - Seaver, Nick. 2019. "Captivating Algorithms: Recommender Systems as Traps." _Journal of Material Culture_ 24 (4): 421–36. [https://doi.org/10.1177/1359183518820366](https://doi.org/10.1177/1359183518820366).
-    - Miller, Daniel. 2000. "The Fame of Trinis: Websites as Traps." _Journal of Material Culture_ 5 (1): 5–24. [https://doi.org/10.1177/135918350000500101](https://doi.org/10.1177/135918350000500101).
+    - Seaver, Nick. 2019. "[Captivating Algorithms: Recommender Systems as Traps](https://doi.org/10.1177/1359183518820366)." _Journal of Material Culture_ 24 (4): 421–36.
+    - Miller, Daniel. 2000. "[The Fame of Trinis: Websites as Traps](https://doi.org/10.1177/135918350000500101)." _Journal of Material Culture_ 5 (1): 5–24.
 
     **No class 2/19 (Tufts Monday)**
 
 11. **Tuesday 2/24: Gambling**
 
-    - Schull, Natasha Dow. 2005. "Digital Gambling: The Coincidence of Desire and Design." _The Annals of the American Academy of Political and Social Science_ 597: 65–81. [https://doi.org/10.1177/0002716204270435](https://doi.org/10.1177/0002716204270435).
-    - Pickles, Anthony. 2013. "'One-Man One-Man': How Slot Machines Facilitate Papua New Guineans' Shifting Relations to Each Other." In _Qualitative Research in Gambling_, edited by Rebecca Cassidy, Andrea Pisac, and Claire Loussouarn, 171–84. London: Routledge. [https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780203718872-15/one-man-one-man-anthony-pickles](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780203718872-15/one-man-one-man-anthony-pickles).
+    - Schull, Natasha Dow. 2005. "[Digital Gambling: The Coincidence of Desire and Design](https://doi.org/10.1177/0002716204270435)." _The Annals of the American Academy of Political and Social Science_ 597: 65–81.
+    - Pickles, Anthony. 2013. "['One-Man One-Man': How Slot Machines Facilitate Papua New Guineans' Shifting Relations to Each Other](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780203718872-15/one-man-one-man-anthony-pickles)." In _Qualitative Research in Gambling_, ed. Cassidy et al., 171–84. Routledge.
 
 12. **Thursday 2/26: Control Societies**
 
     - Deleuze, Gilles. 1992. "Postscript on the Societies of Control." *October* 59: 3–7.
-    - Cheney-Lippold, John. 2011. "A New Algorithmic Identity: Soft Biopolitics and the Modulation of Control." _Theory, Culture & Society_ 28 (6): 164–81. [https://doi.org/10.1177/0263276411424420](https://doi.org/10.1177/0263276411424420).
+    - Cheney-Lippold, John. 2011. "[A New Algorithmic Identity: Soft Biopolitics and the Modulation of Control](https://doi.org/10.1177/0263276411424420)." _Theory, Culture & Society_ 28 (6): 164–81.
 
 13. **Tuesday 3/3: Care and Control**
 
-    - Swancutt, Katherine. 2012. "The Captive Guest: Spider Webs of Hospitality among the Nuosu of Southwest China." _Journal of the Royal Anthropological Institute_ 18 (s1): S103–116. [https://doi.org/10.1111/j.1467-9655.2012.01766.x](https://doi.org/10.1111/j.1467-9655.2012.01766.x).
-    - Ziv, Tali. 2023. "The Trap: Care and Mystification in Carceral Governance." _Ethnos_, October, 1–26. [https://doi.org/10.1080/00141844.2023.2264527](https://doi.org/10.1080/00141844.2023.2264527).
+    - Swancutt, Katherine. 2012. "[The Captive Guest: Spider Webs of Hospitality among the Nuosu of Southwest China](https://doi.org/10.1111/j.1467-9655.2012.01766.x)." _Journal of the Royal Anthropological Institute_ 18 (s1): S103–116.
+    - Ziv, Tali. 2023. "[The Trap: Care and Mystification in Carceral Governance](https://doi.org/10.1080/00141844.2023.2264527)." _Ethnos_, 1–26.
 
 14. **Thursday 3/5: TBD** ==(work day or DDS visit—move earlier?)
 
@@ -144,51 +144,51 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 17. **Tuesday 3/24: Magic**
 
-    - Jones, Graham. 2011. "An Apprenticeship in Cunning." In _Trade of the Tricks: Inside the Magician's Craft_, 34–76. University of California Press. [https://doi.org/10.1525/california/9780520270466.001.0001](https://doi.org/10.1525/california/9780520270466.001.0001). ==shorten==
+    - Jones, Graham. 2011. "[An Apprenticeship in Cunning](https://doi.org/10.1525/california/9780520270466.001.0001)." In _Trade of the Tricks: Inside the Magician's Craft_, 34–76. UC Press. ==shorten==
 
 18. **Thursday 3/26: Advertising**
 
-    - Cochoy, F. 2007. "A Brief Theory of the 'Captation' of Publics: Understanding the Market with Little Red Riding Hood." _Theory, Culture & Society_ 24 (7–8): 203–23. [https://doi.org/10.1177/0263276407084704](https://doi.org/10.1177/0263276407084704).
-    - Lien, Marianne. 1997. "Reaching the Average Norwegian: The Pizza Superiora Film Project." In *Marketing and Modernity: An Ethnography of Marketing Practice*. Berg, 168–198.
+    - Cochoy, F. 2007. "[A Brief Theory of the 'Captation' of Publics: Understanding the Market with Little Red Riding Hood](https://doi.org/10.1177/0263276407084704)." _Theory, Culture & Society_ 24 (7–8): 203–23.
+    - Lien, Marianne. 1997. "Reaching the Average Norwegian: The Pizza Superiora Film Project." In *Marketing and Modernity*. Berg, 168–198.
 
 19. **Tuesday 3/31: Persuasive Design**
 
     - Fogg, B. J., Gregory Cuellar, and David Danielson. 2009. "Motivating, Influencing, and Persuading Users: An Introduction to Captology." _Human Computer Interaction Fundamentals_, 109–22.
-    - Martin, Emily. 2022. "Persuasive Technology and Personhood on Social Media." _Science, Technology, & Human Values_ 50 (6). [https://doi.org/10.1177/01622439221137038](https://doi.org/10.1177/01622439221137038).
+    - Martin, Emily. 2022. "[Persuasive Technology and Personhood on Social Media](https://doi.org/10.1177/01622439221137038)." _Science, Technology, & Human Values_ 50 (6).
 
 20. **Thursday 4/2: Deceptive Patterns**
 
     *These are three human-computer interaction papers that catalog types of "dark" or "deceptive" design patterns. You don't need to read all of them in detail, but you should focus specifically on how they categorize the different types of pattern.*
 
-    - Gray, Colin M., Yubo Kou, Bryan Battles, Joseph Hoggatt, and Austin L. Toombs. 2018. "The Dark (Patterns) Side of UX Design." In _Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems_, 1–14. Montreal QC Canada: ACM. [https://doi.org/10.1145/3173574.3174108](https://doi.org/10.1145/3173574.3174108).
-    - Mathur, Arunesh, Gunes Acar, Michael J. Friedman, Elena Lucherini, Jonathan Mayer, Marshini Chetty, and Arvind Narayanan. 2019. "Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites." _Proceedings of the ACM on Human-Computer Interaction_ 3 (CSCW): 1–32. [https://doi.org/10.1145/3359183](https://doi.org/10.1145/3359183).
-    - Monge Roffarello, Alberto, Kai Lukoff, and Luigi De Russis. 2023. "Defining and Identifying Attention Capture Deceptive Designs in Digital Interfaces." In _Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems_, 1–19. Hamburg Germany: ACM. [https://doi.org/10.1145/3544548.3580729](https://doi.org/10.1145/3544548.3580729).
+    - Gray, Colin M. et al. 2018. "[The Dark (Patterns) Side of UX Design](https://doi.org/10.1145/3173574.3174108)." _CHI '18_, 1–14. ACM.
+    - Mathur, Arunesh et al. 2019. "[Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites](https://doi.org/10.1145/3359183)." _CSCW_ 3: 1–32.
+    - Monge Roffarello, Alberto, Kai Lukoff, and Luigi De Russis. 2023. "[Defining and Identifying Attention Capture Deceptive Designs in Digital Interfaces](https://doi.org/10.1145/3544548.3580729)." _CHI '23_, 1–19. ACM.
 
 21. **Tuesday 4/7: Walkthrough Method**
 
-    - Light, Ben, Jean Burgess, and Stefanie Duguay. 2018. "The Walkthrough Method: An Approach to the Study of Apps." _New Media & Society_ 20 (3): 881–900. [https://doi.org/10.1177/1461444816675438](https://doi.org/10.1177/1461444816675438).
+    - Light, Ben, Jean Burgess, and Stefanie Duguay. 2018. "[The Walkthrough Method: An Approach to the Study of Apps](https://doi.org/10.1177/1461444816675438)." _New Media & Society_ 20 (3): 881–900.
     - Dieter, Michael and Nathaniel Tkacz. 2020. "The Patterning of Finance/Security: A Designerly Walkthrough of Challenger Banking Apps." _Computational Culture_ 7. (PDF on Canvas.)
 
 22. **Thursday 4/9: Spam**
 
     - Brunton, Finn. 2019. "Spam." In _The SAGE Handbook of Web History_, edited by Niels Brügger and Ian Milligan, 564–76. London ; Thousand Oaks, California: SAGE Publications.
-    - Ziewitz, Malte. 2019. "Rethinking Gaming: The Ethical Work of Optimization in Web Search Engines." _Social Studies of Science_ 49 (5): 707–31. [https://doi.org/10.1177/0306312719865607](https://doi.org/10.1177/0306312719865607).
+    - Ziewitz, Malte. 2019. "[Rethinking Gaming: The Ethical Work of Optimization in Web Search Engines](https://doi.org/10.1177/0306312719865607)." _Social Studies of Science_ 49 (5): 707–31.
 
 23. **Tuesday 4/14: Phishing**
 
-    - McNealy, Jasmine E. 2022. "Platforms as Phish Farms: Deceptive Social Engineering at Scale." _New Media & Society_ 24 (7): 1677–94. [https://doi.org/10.1177/14614448221099228](https://doi.org/10.1177/14614448221099228).
-    - Dhamija, Rachna, J. D. Tygar, and Marti Hearst. 2006. "Why Phishing Works." In _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_, 581–90. Montréal, Québec, Canada: ACM. [https://doi.org/10.1145/1124772.1124861](https://doi.org/10.1145/1124772.1124861).
+    - McNealy, Jasmine E. 2022. "[Platforms as Phish Farms: Deceptive Social Engineering at Scale](https://doi.org/10.1177/14614448221099228)." _New Media & Society_ 24 (7): 1677–94.
+    - Dhamija, Rachna, J. D. Tygar, and Marti Hearst. 2006. "[Why Phishing Works](https://doi.org/10.1145/1124772.1124861)." In _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_, 581–90. Montréal, Québec, Canada: ACM.
 
 24. **Thursday 4/16: Scams**
 
     - Burrell, Jenna. 2008. "Problematic Empowerment: West African Internet Scams as Strategic Misrepresentation." _Information Technologies & International Development_ 4 (4): 15–30.
-    - Swartz, Lana. 2022. "Theorizing the 2017 Blockchain ICO Bubble as a Network Scam." _New Media & Society_ 24 (7): 1695–713. [https://doi.org/10.1177/14614448221099224](https://doi.org/10.1177/14614448221099224).
+    - Swartz, Lana. 2022. "[Theorizing the 2017 Blockchain ICO Bubble as a Network Scam](https://doi.org/10.1177/14614448221099224)." _New Media & Society_ 24 (7): 1695–713.
 
     **Interface analysis due 4/17** ==TOO LATE—move earlier, need more runway before final project==
 
 25. **Tuesday 4/21: Conversational AI Design** ==MOVE EARLIER to scaffold final assignment==
 
-    - Rodwell, Elizabeth. 2025. "Someone Behind This Technology: Conversation Designers in the Artificial Intelligence Loop." _Engineering Studies_. [https://doi.org/10.1080/19378629.2025.2575366](https://doi.org/10.1080/19378629.2025.2575366). ==OR "Between Code and Culture" in STHV—TBD==
+    - Rodwell, Elizabeth. 2025. "[Someone Behind This Technology: Conversation Designers in the Artificial Intelligence Loop](https://doi.org/10.1080/19378629.2025.2575366)." _Engineering Studies_. ==OR "Between Code and Culture" in STHV—TBD==
 
 26. **Thursday 4/23: Final Project Sharing**
 

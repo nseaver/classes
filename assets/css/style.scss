@@ -34,16 +34,17 @@ body {
 
 /* Links - subtle until hover */
 a {
-  color: inherit;
-  text-decoration: underline;
-  text-decoration-color: #ccc;
-  text-decoration-thickness: 1px;
+  color: inherit !important;
+  text-decoration: underline !important;
+  text-decoration-color: #ccc !important;
+  text-decoration-thickness: 1px !important;
   text-underline-offset: 2px;
 }
 
 a:hover {
-  text-decoration-color: #4DB3FF;
-  text-decoration-thickness: 1px;
+  color: #4DB3FF !important;
+  text-decoration-color: #4DB3FF !important;
+  text-decoration-thickness: 1px !important;
   font-weight: inherit;
 }
 
@@ -81,10 +82,10 @@ h5:first-of-type {
 
 h1 {
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 2.6em;
+  font-size: 3em;
   font-weight: 600;
-  line-height: 1.05;
-  margin-bottom: 0.2em;
+  line-height: 1.0;
+  margin-bottom: 0.15em;
   letter-spacing: -0.03em;
 }
 

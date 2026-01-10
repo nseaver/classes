@@ -75,12 +75,14 @@ You can miss two class meetings without penalty, and make up four more absences 
    > This should take you to search results. If it doesn't, follow these steps: Navigate to the collection advanced search page; pick "Object" from the buttons at the top; put "trap" in the Description field; hit "search." Then you can check the box at the left of the results to show only results containing images—there should be about 355 of them.
 
 2. **Tuesday 1/20: Contraptions and the Mind**
+  
+Pick three traps from the Pitt Rivers collection (see day 1) that you find interesting for whatever reason and note their accession numbers, e.g., 1999.29.10.
 
    - Mason, Otis T. 1900. "Traps of the Amerinds—A Study in Psychology and Invention." _American Anthropologist_ 2 (4): 657–675.
    - Wadley, Lyn. 2010. "[Were Snares and Traps Used in the Middle Stone Age and Does It Matter? A Review and a Case Study from Sibudu, South Africa](https://doi.org/10.1016/j.jhevol.2009.10.004)." _Journal of Human Evolution_ 58 (2): 179–92. ==maybe new wadley coming from ILL==
      > Only read the first two pages and the concluding remarks.
 
-   Pick three traps from the Pitt Rivers collection (see day 1) that you find interesting for whatever reason and note their accession numbers, e.g., 1999.29.10.
+
 
 3. **Thursday 1/22: Style and Function**
 

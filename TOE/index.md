@@ -207,15 +207,18 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 > **Note:** This section is long and wordy. Read it all once; you may need to refer back to the attendance section in particular later on.
 
-### Grading  
-*Specifications*
+### Grading
+
+<span class="day-label">Specifications</span>
+
 Most assignments in this class will be graded pass/fail, according to whether you meet the requirements laid out in the assignment description. If you do not meet the requirements, you will usually have one chance to make a revision, following comments from me. This is called specifications grading, or "specs grading," and I've been using it across my classes for the past few years with some success. The philosophy behind it is that grades reward you for completing the work, not for achieving excellence. The point of most of the assignments in this class is not to be great, but to practice—and practicing is easier and more effective without the burden of performance. Details about revision timelines and specifications can be found in the assignment descriptions. If you have any uncertainty about the specifications for an assignment, please let me know ASAP, so I can clarify.
 
 You can think of the threshold for full credit as something like a B/B+ under typical grading, but as you'll see, the comparison to letter grades isn't always meaningful: Say you complete an assignment very well, but are missing one aspect of the specs—under a letter grade system, I might let it slide and just dock some points, but under specs grading you will have a 0 until you revise and fix the issue.
 
 The exceptions to this policy are the two larger assignments: the trap design and the final collection. These will be given conventional letter grades, as they should demonstrate what you've already had a chance to practice during class.
 
-*Letter grades*
+<span class="day-label">Letter grades</span>
+
 I use conventional percentage-to-letter conversions for your final grade; you can see what letter grade you'll get in the class on Canvas (and it will already reflect any rounding up that may be applied). I do not automatically give A+ grades based on percentages; since the difference between A and A+ does not affect your GPA, I reserve the A+ for students who've earned the A and demonstrate exceptional effort and achievement in the class.
 
 ### Conduct  

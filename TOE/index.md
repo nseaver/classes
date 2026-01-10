@@ -58,7 +58,7 @@ Following our day on the walkthrough method, you will choose a digital interface
 ==Our final==
 
 ### Attendance (20%)  
-You know what this is. Details on the make-up policy are down below the course schedule.
+You can miss two class meetings without penalty, and make up four more absences with some extra work. See details in the [policies]((#policies) section below.
 
 
 ## Schedule  

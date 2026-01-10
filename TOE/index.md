@@ -145,11 +145,11 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 15. **Tuesday 3/10: Trap Presentations 1**
 
-    *Student trap presentations*
+    The week before spring break, groups will present their traps in class.
 
 16. **Thursday 3/12: Trap Presentations 2**
 
-    *Student trap presentations*
+    Presentations continue.
 
     <span class="schedule-note">Spring Break</span>
 
@@ -203,7 +203,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 26. **Thursday 4/23: Final Project Sharing**
 
-    *On the last day of class, we will share our research for the final project with each other.*
+    On the last day of class, we will share our research for the final project with each other.
 
 </div>
 

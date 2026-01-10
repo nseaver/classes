@@ -198,6 +198,19 @@ td:nth-child(3) {
   font-family: 'IBM Plex Mono', monospace;
 }
 
+/* Blockquotes - recessive, secondary content */
+blockquote {
+  font-size: 0.9em;
+  color: #666;
+  margin: 0.5em 0 1.5em 0;
+  padding: 0;
+  border: none;
+}
+
+blockquote p {
+  margin: 0.5em 0;
+}
+
 /* Horizontal rules if any */
 hr {
   border: none;

@@ -7,7 +7,7 @@ layout: default
 
 ##### Spring 2026: ANTH 123    
 # Technologies of<br>Enchantment    
-#### Tuesday/Thursday, 3–4:15 PM · Eaton Hall 370  
+#### Tuesday/Thursday 3–4:15 PM · Eaton Hall 370  
 
 Nick Seaver  
 [nick.seaver@tufts.edu](mailto:nick.seaver@tufts.edu)  
@@ -43,7 +43,7 @@ Each class meeting has one or two assigned readings—book chapters or journal a
 While reading, look for the main arguments, any interesting passages, points of confusion, etc. Minimally, you should be prepared to answer the question "what's one thing you found interesting about this text?," for every reading, every class meeting. I expect that you’ll have the readings with you and be ready to refer to specific passages in them to support your claims and motivate your questions.
 
 ### *Reading encouragement program (up to 10%)*  
-I expect that you will read all the texts assigned for a given day and come to class ready to discuss them. If it turns out that people are having trouble finding the motivation to read, I will implement a **reading encouragement program**. This will either require short reading responses to each assigned text or collaborative annotation of the texts using an online tool. Points will come from the attendance part of the grade, adjusted for how far into the term we are. (This is truly not intended to be punitive—it's just very important to the functioning of the class that you read!)
+> I expect that you will read all the texts assigned for a given day and come to class ready to discuss them. If it turns out that people are having trouble finding the motivation to read, I will implement a *reading encouragement program*. This will either require short reading responses to each assigned text or collaborative annotation of the texts using an online tool. Points will come from the attendance part of the grade, adjusted for how far into the term we are. (This is truly not intended to be punitive—it's just very important to the functioning of the class that you read!)
 
 ### Trap Analysis (15%)  
 Following our day on operatory chains, you will choose a trap and analyze it, producing an operatory chain diagram and a short research memo about it.

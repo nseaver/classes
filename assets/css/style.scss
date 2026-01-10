@@ -37,11 +37,13 @@ a {
   color: inherit;
   text-decoration: underline;
   text-decoration-color: #ccc;
+  text-decoration-thickness: 1px;
   text-underline-offset: 2px;
 }
 
 a:hover {
   text-decoration-color: #e85d04;
+  text-decoration-thickness: 1px;
 }
 
 /* Nav bar - uppercase, tracked out */

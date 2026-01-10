@@ -61,7 +61,7 @@ section > p:first-child {
 }
 
 section > p:first-child a {
-  text-decoration: none;
+  text-decoration: none !important;
   margin-right: 1.5em;
 }
 

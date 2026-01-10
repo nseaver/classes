@@ -7,8 +7,8 @@ layout: default
 # Technologies of Enchantment
 #### Tuesday/Thursday, 3–4:15 PM; Eaton Hall 370
 
-Nick Seaver
-[nick.seaver@tufts.edu](mailto:nick.seaver@tufts.edu)
+Nick Seaver  
+[nick.seaver@tufts.edu](mailto:nick.seaver@tufts.edu)  
 Office Hours: [calendly.com/nick-seaver/office-hours](https://calendly.com/nick-seaver/office-hours)
 
 ## Overview

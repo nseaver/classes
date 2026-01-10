@@ -112,10 +112,12 @@ h2 {
   border: none;
 }
 
-/* Class day headings */
+/* Subheadings - subordinate to section headers */
 h3 {
   font-size: 1.1em;
-  font-weight: 500;
+  font-weight: 400;
+  font-style: italic;
+  color: #555;
   margin-top: 2em;
   margin-bottom: 0.3em;
 }

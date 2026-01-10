@@ -35,8 +35,8 @@ This is the basic break-down of work you’ll have to complete in this class, al
 | ------------------ | -------------- | ------------ |
 | Trap analysis      | 15%            | 2/13         |
 | Trap design        | 25%            | 3/10         |
-| ↳ Form groups      |                | 2/6          |
-| ↳ Proposal         |                | 2/23         |
+| &nbsp;&nbsp;*Form groups*  |          | 2/6          |
+| &nbsp;&nbsp;*Proposal*     |          | 2/23         |
 | Interface analysis | 15%            | 4/17         |
 | Final Project      | 25%            | 5/8          |
 | Attendance         | 20%            | daily        |

@@ -40,7 +40,7 @@ This is the basic break-down of work you’ll have to complete in this class, al
 ### Reading  
 Each class meeting has one or two assigned readings—book chapters or journal articles—which you should complete before we meet. If a text is not readily available online, I've put a PDF of it in our class files on Canvas. If it is available online, I’ve linked it here, and you should download it yourself using our library resources. If you can’t get something, let me know so I can help you (and your classmates) out.
 
-While reading, look for main arguments, interesting passages, connections to other readings, or points of confusion. Minimally, you should be prepared to answer the question "What's one thing you found interesting about this text?" for every reading, for every class meeting. I expect that you’ll have the texts with you and be ready to refer to specific passages in them to support your claims and motivate your questions.
+While reading, look for main arguments, interesting passages, connections to other readings, or points of confusion. Minimally, you should be prepared to answer the question "What's one thing you found interesting about this text?" for every reading, for every class meeting. I expect that you’ll have the texts with you and be ready to refer to specific passages in them to support your claims and motivate your questions. You should do the readings with your own intelligence, not an artificial one.
 
 > ### Reading encouragement program (up to 10%) 
 > It is very important to the functioning of this class that you read. If it turns out that people are having trouble finding the motivation to read, and this begins to impact class discussions, I will implement a *reading encouragement program*. This will either require short reading responses to each assigned text or collaborative annotation of the texts using an online tool. Points will come from the attendance part of the grade, adjusted for how far into the term we are.
@@ -117,14 +117,14 @@ You can miss two class meetings without penalty, and make up four more absences 
    - Gell, Alfred. 1992. "The Technology of Enchantment and the Enchantment of Technology." In _Anthropology, Art and Aesthetics_, ed. Coote and Shelton, 40–63. Oxford.
    - Derlon, Brigitte, and Monique Jeudy-Ballini. 2010. "[The Theory of Enchantment and the Enchantment of Theory: The Art of Alfred Gell](https://doi.org/10.1002/j.1834-4461.2010.tb00076.x)." _Oceania_ 80 (2): 129–42.
 
-   **Trap analysis assignment due 2/13**
+   <span class="schedule-note">Trap analysis assignment due 2/13</span>
 
 10. **Tuesday 2/17: Traps and Computers**
 
     - Seaver, Nick. 2019. "[Captivating Algorithms: Recommender Systems as Traps](https://doi.org/10.1177/1359183518820366)." _Journal of Material Culture_ 24 (4): 421–36.
     - Miller, Daniel. 2000. "[The Fame of Trinis: Websites as Traps](https://doi.org/10.1177/135918350000500101)." _Journal of Material Culture_ 5 (1): 5–24.
 
-    **No class 2/19 (Tufts Monday)**
+    <span class="schedule-note">No class 2/19 (Tufts Monday)</span>
 
 11. **Tuesday 2/24: Gambling**
 
@@ -147,7 +147,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 16. **Thursday 3/12: Trap Presentations 2**
 
-    **Spring Break**
+    <span class="schedule-note">Spring Break</span>
 
 17. **Tuesday 3/24: Magic**
 
@@ -191,7 +191,7 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Burrell, Jenna. 2008. "Problematic Empowerment: West African Internet Scams as Strategic Misrepresentation." _Information Technologies & International Development_ 4 (4): 15–30.
     - Swartz, Lana. 2022. "[Theorizing the 2017 Blockchain ICO Bubble as a Network Scam](https://doi.org/10.1177/14614448221099224)." _New Media & Society_ 24 (7): 1695–713.
 
-    **Interface analysis due 4/17** <mark>TOO LATE—move earlier, need more runway before final project</mark>
+    <span class="schedule-note">Interface analysis due 4/17</span> <mark>TOO LATE—move earlier, need more runway before final project</mark>
 
 25. **Tuesday 4/21: Conversational AI Design** <mark>MOVE EARLIER to scaffold final assignment</mark>
 

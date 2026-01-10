@@ -14,7 +14,9 @@ Nick Seaver
 [Office Hours](https://calendly.com/nick-seaver/office-hours)
 
 ## Overview  
-This course is an intensive workshop in anthropological theory, focused on a particular kind of technology—what the anthropologist Alfred Gell called *technologies of enchantment*. Unlike stereotypical technologies that work on physical material, technologies of enchantment are designed with *psychological* goals. These technologies are complex, and they are much older than they seem. Under Gell's umbrella, we can include not only contemporary "tech" like social media algorithms or generative AI, but also apparently simple objects like mousetraps or imposing entryway doors.
+This course is a workshop in the anthropology of technology, focused on devices designed for psychological goals.
+
+on a particular kind of technology—what the anthropologist Alfred Gell called *technologies of enchantment*. Unlike stereotypical technologies that work on physical material, technologies of enchantment are designed with *psychological* goals. These technologies are complex, and they are much older than they seem. Under Gell's umbrella, we can include not only contemporary "tech" like social media algorithms or generative AI, but also apparently simple objects like mousetraps or imposing entryway doors.
 
 The course surveys a broad range of such technical practices, from fishing to phishing, as well as anthropological approaches to studying them. What distinguishes the anthropological approach from others you might encounter in other courses is an abiding interest in locating these technologies in social and cultural contexts: that is, technologies of enchantment are made by people in particular social positions, under particular interpretive frameworks for making sense of the world. We will also be relentlessly comparative, making sense of these technologies by bringing together diverse examples to explore their similarities and differences. "Technology" will take on a very broad meaning in this class, referring not only to physical artifacts, but also to a way of analyzing works of art, advertising, plans, scams, and magic tricks.
 
@@ -33,6 +35,8 @@ This is the basic break-down of work you’ll have to complete in this class, al
 | ------------------ | -------------- | ------------ |
 | Trap analysis      | 15%            | 2/13         |
 | Trap design        | 25%            | 3/10         |
+| ↳ Form groups      |                | 2/6          |
+| ↳ Proposal         |                | 2/23         |
 | Interface analysis | 15%            | 4/17         |
 | Final Project      | 25%            | 5/8          |
 | Attendance         | 20%            | daily        |
@@ -107,6 +111,8 @@ You can miss two class meetings without penalty, and make up four more absences 
    - Singleton, Benedict. 2014. "[(Notes Towards) Speculative Design](https://xenopraxis.net/readings/singleton_speculativedesign.pdf)." In _Speculative Aesthetics_, ed. Mackay et al. Urbanomic.
    - Jabban, Sinan. 2024. "['One Step Ahead': Tales of Treasure Traps, Limitation, and Possibility in Northwestern Turkey](https://doi.org/10.3167/sa.2024.680403)." _Social Analysis_ 68 (4): 39–56.
 
+   <span class="schedule-note">Form trap design groups by 2/6</span>
+
 8. **Tuesday 2/10: Traps and Art**
 
    - Gell, Alfred. 1996. "[Vogel's Net: Traps as Artworks and Artworks as Traps](https://doi.org/10.1177/135918359600100102)." _Journal of Material Culture_ 1 (1): 15–38.
@@ -119,29 +125,33 @@ You can miss two class meetings without penalty, and make up four more absences 
 
    <span class="schedule-note">Trap analysis assignment due 2/13</span>
 
-10. **Tuesday 2/17: Traps and Computers**
+10. **Tuesday 2/17: Work day
+
+    This day is set aside for groups to work together on their midterm project proposals.
+
+    <span class="schedule-note">No class 2/19 (Tufts Monday)</span>
+
+    <span class="schedule-note">Trap proposals due 2/23</span>
+
+11. **Tuesday 2/24: Traps and Computers**
 
     - Seaver, Nick. 2019. "[Captivating Algorithms: Recommender Systems as Traps](https://doi.org/10.1177/1359183518820366)." _Journal of Material Culture_ 24 (4): 421–36.
     - Miller, Daniel. 2000. "[The Fame of Trinis: Websites as Traps](https://doi.org/10.1177/135918350000500101)." _Journal of Material Culture_ 5 (1): 5–24.
 
-    <span class="schedule-note">No class 2/19 (Tufts Monday)</span>
-
-11. **Tuesday 2/24: Gambling**
+12. **Thursday 2/26: Gambling**
 
     - Schull, Natasha Dow. 2005. "[Digital Gambling: The Coincidence of Desire and Design](https://doi.org/10.1177/0002716204270435)." _The Annals of the American Academy of Political and Social Science_ 597: 65–81.
     - Pickles, Anthony. 2013. "['One-Man One-Man': How Slot Machines Facilitate Papua New Guineans' Shifting Relations to Each Other](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780203718872-15/one-man-one-man-anthony-pickles)." In _Qualitative Research in Gambling_, ed. Cassidy et al., 171–84. Routledge.
 
-12. **Thursday 2/26: Control Societies**
+13. **Tuesday 3/3: Control Societies**
 
     - Deleuze, Gilles. 1992. "Postscript on the Societies of Control." *October* 59: 3–7.
     - Cheney-Lippold, John. 2011. "[A New Algorithmic Identity: Soft Biopolitics and the Modulation of Control](https://doi.org/10.1177/0263276411424420)." _Theory, Culture & Society_ 28 (6): 164–81.
 
-13. **Tuesday 3/3: Care and Control**
+14. **Thursday 3/5: Care and Control**
 
     - Swancutt, Katherine. 2012. "[The Captive Guest: Spider Webs of Hospitality among the Nuosu of Southwest China](https://doi.org/10.1111/j.1467-9655.2012.01766.x)." _Journal of the Royal Anthropological Institute_ 18 (s1): S103–116.
     - Ziv, Tali. 2023. "[The Trap: Care and Mystification in Carceral Governance](https://doi.org/10.1080/00141844.2023.2264527)." _Ethnos_, 1–26.
-
-14. **Thursday 3/5: TBD** <mark>(work day or DDS visit—move earlier?)</mark>
 
 15. **Tuesday 3/10: Trap Presentations 1**
 

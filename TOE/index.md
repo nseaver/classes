@@ -38,7 +38,7 @@ This is the basic break-down of work you’ll have to complete in this class, al
 | Attendance         | 20%            | daily        |
 
 ### Reading  
-Each class meeting has one or two assigned readings—book chapters or journal articles—which you should complete before we meet. If a text is not readily available online, I've put a PDF of it in our class files on Canvas. If it is available online, you should download it yourself using our library resources. If you can’t find something, let me know so I can help you (and your classmates) out.
+Each class meeting has one or two assigned readings—book chapters or journal articles—which you should complete before we meet. If a text is not readily available online, I've put a PDF of it in our class files on Canvas. If it is available online, I’ve linked it here, a you should download it yourself using our library resources. If you can’t get something, let me know so I can help you (and your classmates) out.
 
 While reading, look for main arguments, interesting passages, connections to other readings, or points of confusion. Minimally, you should be prepared to answer the question "What's one thing you found interesting about this text?" for every reading, for every class meeting. I expect that you’ll have the texts with you and be ready to refer to specific passages in them to support your claims and motivate your questions.
 
@@ -67,33 +67,33 @@ You can miss two class meetings without penalty, and make up four more absences 
 
    *During class:*
 
-   - Gell, Alfred. 1988. "Technology and Magic." _Anthropology Today_ 4 (2): 6–9. [https://doi.org/10.2307/3033230](https://doi.org/10.2307/3033230).
-   - Browse through the [Pitt Rivers Museum collection of traps](http://tinyurl.com/pittriverstraps) (This should take you to search results. If it doesn't, follow these steps: Navigate to the collection advanced search page; pick "Object" from the buttons at the top; put "trap" in the Description field; hit "search." Then you can check the box at the left of the results to show only results containing images—there should be about 355 of them.)
+   - Gell, Alfred. 1988. "[Technology and Magic](https://doi.org/10.2307/3033230)." _Anthropology Today_ 4 (2): 6–9.
+   - Browse through the [Pitt Rivers Museum collection of traps](http://tinyurl.com/pittriverstraps). (This should take you to search results. If it doesn't, follow these steps: Navigate to the collection advanced search page; pick "Object" from the buttons at the top; put "trap" in the Description field; hit "search." Then you can check the box at the left of the results to show only results containing images—there should be about 355 of them.)
 
 2. **Tuesday 1/20: Contraptions and the Mind**
 
    - Mason, Otis T. 1900. "Traps of the Amerinds—A Study in Psychology and Invention." _American Anthropologist_ 2 (4): 657–675.
-   - Wadley, Lyn. 2010. "Were Snares and Traps Used in the Middle Stone Age and Does It Matter? A Review and a Case Study from Sibudu, South Africa." Journal of Human Evolution 58 (2): 179–92. [https://doi.org/10.1016/j.jhevol.2009.10.004](https://doi.org/10.1016/j.jhevol.2009.10.004). *(Only read the first two pages and the concluding remarks.*) ==maybe new wadley coming from ILL==
+   - Wadley, Lyn. 2010. "[Were Snares and Traps Used in the Middle Stone Age and Does It Matter? A Review and a Case Study from Sibudu, South Africa](https://doi.org/10.1016/j.jhevol.2009.10.004)." _Journal of Human Evolution_ 58 (2): 179–92. *(Only read the first two pages and the concluding remarks.)* ==maybe new wadley coming from ILL==
    - Pick three traps from the Pitt Rivers collection (see day 1) that you find interesting for whatever reason and note their accession numbers, e.g., 1999.29.10.
 
 3. **Thursday 1/22: Style and Function**
 
    - ==Lemonnier, Pierre. 1993. "Introduction." In _Technological Choices: Transformation in Material Cultures Since the Neolithic_, edited by Pierre Lemonnier. New York: Routledge, 1–35.==
-   - Seaver, Nick. 2013. "The Lost Wanderers: Technology and the Auxiliary Motive." *Medium*. [https://medium.com/anthropology-and-algorithms/the-lost-wanderers-866b60a297ee](https://medium.com/anthropology-and-algorithms/the-lost-wanderers-866b60a297ee).
+   - Seaver, Nick. 2013. "[The Lost Wanderers: Technology and the Auxiliary Motive](https://medium.com/anthropology-and-algorithms/the-lost-wanderers-866b60a297ee)." *Medium*.
 
 4. **Tuesday 1/27: Operatory Chains**
 
-   - Coupaye, Ludovic. 2022. "Making 'Technology' Visible: Technical Activities and the _Chaîne Opératoire_." In _The Palgrave Handbook of the Anthropology of Technology_, edited by Maja Hojer Bruun, Ayo Wahlberg, Rachel Douglas-Jones, Cathrine Hasse, Klaus Hoeyer, Dorthe Brogård Kristensen, and Brit Ross Winthereik, 37–60. Singapore: Springer Nature Singapore. [https://doi.org/10.1007/978-981-16-7084-8_2](https://doi.org/10.1007/978-981-16-7084-8_2).
+   - Coupaye, Ludovic. 2022. "[Making 'Technology' Visible: Technical Activities and the Chaîne Opératoire](https://doi.org/10.1007/978-981-16-7084-8_2)." In _The Palgrave Handbook of the Anthropology of Technology_, ed. Bruun et al., 37–60. Springer.
    - Choose an arbitrary technical process and sketch out an operatory chain diagram, following the examples in Coupaye's text.
 
 5. **Thursday 1/29: Trap Theory**
 
-   - Chiritoiu, Ana, and Chakad Ojani. 2024. "Introduction: Capture as an Anthropological Catchword." _Social Analysis_ 68 (4): 1–18. [https://doi.org/10.3167/sa.2024.680401](https://doi.org/10.3167/sa.2024.680401). *(This piece is the introduction to a special issue on capture; it will refer to themes, theories, and thinkers that you haven't yet encountered, so take your time. Try to identify one or two ideas in here you find compelling enough to want to read more about.)*
+   - Chiritoiu, Ana, and Chakad Ojani. 2024. "[Introduction: Capture as an Anthropological Catchword](https://doi.org/10.3167/sa.2024.680401)." _Social Analysis_ 68 (4): 1–18. *(This piece is the introduction to a special issue on capture; it will refer to themes, theories, and thinkers that you haven't yet encountered, so take your time. Try to identify one or two ideas in here you find compelling enough to want to read more about.)*
 
 6. **Tuesday 2/3: Traps and Cultural Context (or, Fishing)**
 
-   - Nahum-Claudel, Chloe. 2019. "From Mastery to Subjection: An Embodied Ethics of Entrapment in Amazonia." _Journal of Material Culture_ 24 (4): 473–490. [https://doi.org/10.1177/1359183519828767](https://doi.org/10.1177/1359183519828767).
-   - Swanson, Heather Anne. 2019. "The Entrapment of Trap Design: Materiality, Political Economy and the Shifting Worlds of Fixed Gear Fishing Equipment." _Journal of Material Culture_ 24 (4): 401–20. [https://doi.org/10.1177/1359183519828769](https://doi.org/10.1177/1359183519828769).
+   - Nahum-Claudel, Chloe. 2019. "[From Mastery to Subjection: An Embodied Ethics of Entrapment in Amazonia](https://doi.org/10.1177/1359183519828767)." _Journal of Material Culture_ 24 (4): 473–490.
+   - Swanson, Heather Anne. 2019. "[The Entrapment of Trap Design: Materiality, Political Economy and the Shifting Worlds of Fixed Gear Fishing Equipment](https://doi.org/10.1177/1359183519828769)." _Journal of Material Culture_ 24 (4): 401–20.
 
 7. **Thursday 2/5: Traps and Cunning**
 

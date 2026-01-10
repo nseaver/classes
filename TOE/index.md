@@ -27,7 +27,7 @@ The work in the course is designed to help you learn a few things:
 3. To develop critical reading and writing skills, including the ability to analyze scholarly arguments and to make your own.
 
 ## Assignments  
-This is the basic break-down of assignments, deadlines, and how much of your grade they count for, so you can see everything at a glance. More detailed descriptions and specifications for submission will be on the corresponding Canvas assignment pages, where you will also be submitting your work.
+This is the basic break-down of work you’ll have to complete in this class, along with deadlines and how much of your grade they count for. You can find more detailed descriptions of assignments, along with grading specifications, on the Canvas assignment pages, where you will also be submitting your work.
 
 | **Assignment**     | **Percentage** | **Deadline** |
 | ------------------ | -------------- | ------------ |
@@ -42,7 +42,7 @@ Each class meeting has one or two assigned readings—book chapters or journal a
 
 While reading, look for main arguments, interesting passages, connections to other readings, or points of confusion. Minimally, you should be prepared to answer the question "What's one thing you found interesting about this text?" for every reading, for every class meeting. I expect that you’ll have the texts with you and be ready to refer to specific passages in them to support your claims and motivate your questions.
 
-> ### *Reading encouragement program (up to 10%)*  
+> ### Reading encouragement program (up to 10%) 
 > It is very important to the functioning of this class that you read. If it turns out that people are having trouble finding the motivation to read, and this begins to impact class discussions, I will implement a *reading encouragement program*. This will either require short reading responses to each assigned text or collaborative annotation of the texts using an online tool. Points will come from the attendance part of the grade, adjusted for how far into the term we are.
 
 ### Trap Analysis (15%)  

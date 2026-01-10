@@ -110,14 +110,14 @@ You can miss two class meetings without penalty, and make up four more absences 
    - Gell, Alfred. 1992. "The Technology of Enchantment and the Enchantment of Technology." In _Anthropology, Art and Aesthetics_, edited by Jeremy Coote and Anthony Shelton, 40–63. Oxford.
    - Derlon, Brigitte, and Monique Jeudy-Ballini. 2010. "The Theory of Enchantment and the Enchantment of Theory: The Art of Alfred Gell." _Oceania_ 80 (2): 129–42. [https://doi.org/10.1002/j.1834-4461.2010.tb00076.x](https://doi.org/10.1002/j.1834-4461.2010.tb00076.x).
 
-**Trap analysis assignment due 2/13**
+   **Trap analysis assignment due 2/13**
 
 10. **Tuesday 2/17: Traps and Computers**
 
     - Seaver, Nick. 2019. "Captivating Algorithms: Recommender Systems as Traps." _Journal of Material Culture_ 24 (4): 421–36. [https://doi.org/10.1177/1359183518820366](https://doi.org/10.1177/1359183518820366).
     - Miller, Daniel. 2000. "The Fame of Trinis: Websites as Traps." _Journal of Material Culture_ 5 (1): 5–24. [https://doi.org/10.1177/135918350000500101](https://doi.org/10.1177/135918350000500101).
 
-**No class 2/19 (Tufts Monday)**
+    **No class 2/19 (Tufts Monday)**
 
 11. **Tuesday 2/24: Gambling**
 
@@ -140,7 +140,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 16. **Thursday 3/12: Trap Presentations 2**
 
-**Spring Break**
+    **Spring Break**
 
 17. **Tuesday 3/24: Magic**
 
@@ -184,7 +184,7 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Burrell, Jenna. 2008. "Problematic Empowerment: West African Internet Scams as Strategic Misrepresentation." _Information Technologies & International Development_ 4 (4): 15–30.
     - Swartz, Lana. 2022. "Theorizing the 2017 Blockchain ICO Bubble as a Network Scam." _New Media & Society_ 24 (7): 1695–713. [https://doi.org/10.1177/14614448221099224](https://doi.org/10.1177/14614448221099224).
 
-**Interface analysis due 4/17** ==TOO LATE—move earlier, need more runway before final project==
+    **Interface analysis due 4/17** ==TOO LATE—move earlier, need more runway before final project==
 
 25. **Tuesday 4/21: Conversational AI Design** ==MOVE EARLIER to scaffold final assignment==
 

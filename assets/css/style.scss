@@ -1,7 +1,7 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400&display=swap');
 @import "jekyll-theme-minimal";
 
 /* Hide theme chrome */
@@ -42,8 +42,8 @@ a {
 }
 
 a:hover {
-  color: #4DB3FF !important;
-  text-decoration-color: #4DB3FF !important;
+  color: #000 !important;
+  text-decoration-color: #000 !important;
   text-decoration-thickness: 1px !important;
   font-weight: inherit;
 }
@@ -66,7 +66,7 @@ section > p:first-child a {
 }
 
 section > p:first-child a:hover {
-  color: #4DB3FF;
+  color: #000;
 }
 
 /* Course header block */
@@ -81,12 +81,13 @@ h5:first-of-type {
 }
 
 h1 {
-  font-family: 'Archivo Black', sans-serif;
-  font-size: clamp(1.6em, 10vw, 3.2em);
+  font-family: 'Anton', sans-serif;
+  font-size: clamp(2.5em, 15vw, 5em);
   font-weight: 400;
-  line-height: 1.0;
-  margin-bottom: 0.2em;
+  line-height: 0.9;
+  margin-bottom: 0.1em;
   letter-spacing: -0.02em;
+  text-transform: uppercase;
 }
 
 /* Dateline under title */
@@ -126,7 +127,7 @@ h3 {
 
 /* Accent block - bleeds into left margin */
 h2 + p {
-  border-left: 4px solid #4DB3FF;
+  border-left: 6px solid #000;
   padding-left: 1.5em;
   margin-left: -1.5em;
 }

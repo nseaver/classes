@@ -38,12 +38,12 @@ This is the basic break-down of assignments, deadlines, and how much of your gra
 | Attendance         | 20%            | daily        |
 
 ### Reading  
-Each class meeting has one or two assigned readings—book chapters or journal articles—which you should complete before we meet. The order of readings here is a gentle suggestion of the order in which you might want to read them. If a text is not readily available online, I've put a PDF of it in our Canvas files. If it is available online, I expect you to download it yourself using our library resources. (If you run into trouble finding something, please let me know ASAP so I can help you [and your classmates!] out.)
+Each class meeting has one or two assigned readings—book chapters or journal articles—which you should complete before we meet. If a text is not readily available online, I've put a PDF of it in our class files on Canvas. If it is available online, you should download it yourself using our library resources. If you can’t find something, let me know so I can help you (and your classmates) out.
 
-While reading, look for the main arguments, any interesting passages, points of confusion, etc. Minimally, you should be prepared to answer the question "what's one thing you found interesting about this text?," for every reading, every class meeting. I expect that you’ll have the readings with you and be ready to refer to specific passages in them to support your claims and motivate your questions.
+While reading, look for main arguments, interesting passages, connections to other readings, or points of confusion. Minimally, you should be prepared to answer the question "What's one thing you found interesting about this text?" for every reading, for every class meeting. I expect that you’ll have the texts with you and be ready to refer to specific passages in them to support your claims and motivate your questions.
 
-### *Reading encouragement program (up to 10%)*  
-> I expect that you will read all the texts assigned for a given day and come to class ready to discuss them. If it turns out that people are having trouble finding the motivation to read, I will implement a *reading encouragement program*. This will either require short reading responses to each assigned text or collaborative annotation of the texts using an online tool. Points will come from the attendance part of the grade, adjusted for how far into the term we are. (This is truly not intended to be punitive—it's just very important to the functioning of the class that you read!)
+> ### *Reading encouragement program (up to 10%)*  
+> It is very important to the functioning of this class that you read. If it turns out that people are having trouble finding the motivation to read, and this begins to impact class discussions, I will implement a *reading encouragement program*. This will either require short reading responses to each assigned text or collaborative annotation of the texts using an online tool. Points will come from the attendance part of the grade, adjusted for how far into the term we are.
 
 ### Trap Analysis (15%)  
 Following our day on operatory chains, you will choose a trap and analyze it, producing an operatory chain diagram and a short research memo about it.

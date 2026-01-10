@@ -15,146 +15,156 @@ section {
   float: none;
 }
 
-/* Layout */
+/* Layout - black border frame */
 .wrapper {
   width: 100%;
-  max-width: 680px;
+  max-width: 700px;
   margin: 0 auto;
-  padding: 40px 20px;
+  padding: 30px;
+  border: 3px solid #000;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 /* Base typography */
 body {
   background-color: #fff;
   font-family: 'IBM Plex Sans', -apple-system, sans-serif;
-  font-size: 16px;
-  line-height: 1.7;
-  color: #1a1a1a;
+  font-size: 15px;
+  line-height: 1.6;
+  color: #000;
 }
 
-/* Links - subtle until hover */
+/* Links - black, no fuss */
 a {
-  color: inherit !important;
+  color: #000 !important;
   text-decoration: underline !important;
-  text-decoration-color: #ccc !important;
   text-decoration-thickness: 1px !important;
   text-underline-offset: 2px;
 }
 
 a:hover {
-  color: #000 !important;
-  text-decoration-color: #000 !important;
-  text-decoration-thickness: 1px !important;
-  font-weight: inherit;
+  text-decoration-thickness: 2px !important;
 }
 
-/* Nav bar - uppercase, tracked out */
+/* Nav bar - tiny, tracked, top right energy */
 section > p:first-child {
   font-family: 'IBM Plex Mono', monospace;
-  font-size: clamp(0.5em, 2.5vw, 0.7em);
+  font-size: 0.55em;
   text-transform: uppercase;
-  letter-spacing: 0.15em;
+  letter-spacing: 0.2em;
   text-align: left;
   padding: 0;
-  margin-bottom: 3em;
+  margin-bottom: 2em;
   border: none;
 }
 
 section > p:first-child a {
   text-decoration: none !important;
-  margin-right: 1.5em;
+  margin-right: 2em;
 }
 
 section > p:first-child a:hover {
-  color: #000;
+  text-decoration: underline !important;
 }
 
-/* Course header block */
+/* Course header block - semester tag HOLLOW */
 h5:first-of-type {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.75em;
+  font-family: 'Anton', sans-serif;
+  font-size: 1.8em;
   font-weight: 400;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: #666;
-  margin-bottom: 0.5em;
+  letter-spacing: 0.05em;
+  color: transparent;
+  -webkit-text-stroke: 1.5px #000;
+  margin-bottom: 0.2em;
 }
 
+/* Title - MASSIVE */
 h1 {
   font-family: 'Anton', sans-serif;
-  font-size: clamp(2.5em, 15vw, 5em);
+  font-size: clamp(3em, 18vw, 6em);
   font-weight: 400;
-  line-height: 0.9;
-  margin-bottom: 0.1em;
+  line-height: 0.85;
+  margin-bottom: 0.15em;
   letter-spacing: -0.02em;
   text-transform: uppercase;
 }
 
-/* Dateline under title */
+/* Dateline - big, bold, a design moment */
 h4 {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.75em;
+  font-family: 'Anton', sans-serif;
+  font-size: 1.4em;
   font-weight: 400;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: #666;
-  margin-bottom: 1.5em;
+  letter-spacing: 0.02em;
+  color: #000;
+  margin-bottom: 1em;
 }
 
-/* Section headings - no underline, just scale */
-h2 {
+/* Instructor block - tiny, no separator */
+h4 + p {
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.85em;
-  font-weight: 500;
+  font-size: 0.7em;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
-  margin-top: 3em;
-  margin-bottom: 1em;
+  letter-spacing: 0.1em;
+  color: #000;
+  line-height: 1.8;
+  margin-top: 0;
+  margin-bottom: 3em;
+}
+
+/* Section headings - Anton, screaming */
+h2 {
+  font-family: 'Anton', sans-serif;
+  font-size: 2em;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  margin-top: 2.5em;
+  margin-bottom: 0.5em;
   padding-bottom: 0;
   border: none;
   scroll-margin-top: 3em;
 }
 
-/* Subheadings - subordinate to section headers */
+/* Subheadings */
 h3 {
-  font-size: 1.1em;
+  font-family: 'Anton', sans-serif;
+  font-size: 1.2em;
   font-weight: 400;
-  font-style: italic;
-  color: #555;
-  margin-top: 2em;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  color: #000;
+  margin-top: 1.5em;
   margin-bottom: 0.3em;
 }
 
-/* Accent block - bleeds into left margin */
+/* Accent block - thick black bar */
 h2 + p {
-  border-left: 6px solid #000;
-  padding-left: 1.5em;
+  border-left: 8px solid #000;
+  padding-left: 1em;
   margin-left: -1.5em;
 }
 
-/* Instructor block - softer than dateline */
-h4 + p {
-  font-size: 0.9em;
-  color: #444;
-  line-height: 1.6;
-  margin-top: 1.5em;
-  padding-top: 1.5em;
-  border-top: 1px solid #ddd;
-  margin-bottom: 2.5em;
-}
-
-/* Lists */
+/* Lists - tight */
 ul, ol {
   padding-left: 1.2em;
 }
 
 li {
-  margin-bottom: 0.3em;
+  margin-bottom: 0.2em;
 }
 
-/* Horizontal rules if any */
+/* Horizontal rules - thick black */
 hr {
   border: none;
-  border-top: 1px solid #eee;
-  margin: 3em 0;
+  border-top: 3px solid #000;
+  margin: 2em 0;
+}
+
+/* Superscript styling for times */
+sup {
+  font-size: 0.6em;
+  vertical-align: super;
 }

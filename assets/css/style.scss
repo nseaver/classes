@@ -171,6 +171,12 @@ ol > li > p:first-child {
   margin: 0;
 }
 
+/* Activity paragraphs and other non-title text in schedule */
+ol > li > p:not(:first-child) {
+  font-size: 0.88em;
+  color: #333;
+}
+
 ol > li > p:first-child > strong,
 ol > li > strong:first-child {
   font-family: 'IBM Plex Mono', monospace;

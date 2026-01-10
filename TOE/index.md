@@ -6,7 +6,7 @@ layout: default
 [Overview](#overview) [Assignments](#assignments) [Schedule](#schedule) [Policies](#policies)
 
 ##### Spring 2026: ANTH 123    
-# Technologies&nbsp;of<br>Enchantment    
+# Technologies of<br>Enchantment    
 #### Tuesday/Thursday, 3–4:15 PM; Eaton Hall 370  
 
 Nick Seaver  

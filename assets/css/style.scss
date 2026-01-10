@@ -185,7 +185,15 @@ ol ul {
 }
 
 ol ul li {
-  margin-bottom: 0.8em;
+  margin-bottom: 0;
+  padding: 0.6em 0;
+  border-bottom: 1px solid #eee;
+  font-size: 0.95em;
+  color: #333;
+}
+
+ol ul li:last-child {
+  border-bottom: none;
 }
 
 /* Tables */

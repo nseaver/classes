@@ -5,7 +5,7 @@ layout: default
 
 [Overview](#overview) [Assignments](#assignments) [Schedule](#schedule) [Policies](#policies)
 
-##### Spring 2026: ANTH 123    
+#### Spring 2026: ANTH 123    
 # Technologies of<br>Enchantment    
 #### Tuesday/Thursday 3–4:15 PM · Eaton Hall 370  
 

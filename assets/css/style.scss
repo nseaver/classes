@@ -117,12 +117,12 @@ h2 {
   scroll-margin-top: 3em;
 }
 
-/* Subheadings - subordinate to section headers */
+/* Subheadings - subordinate but visible */
 h3 {
-  font-size: 1.1em;
-  font-weight: 400;
-  font-style: italic;
-  color: #555;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.9em;
+  font-weight: 500;
+  color: #000;
   margin-top: 2em;
   margin-bottom: 0.3em;
 }

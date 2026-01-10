@@ -8,10 +8,8 @@ layout: default
 #### Tuesday/Thursday, 3–4:15 PM; Eaton Hall 370
 
 Nick Seaver
-test
-nick.seaver@tufts.edu
-
-Office Hours: https://calendly.com/nick-seaver/office-hours
+[nick.seaver@tufts.edu](mailto:nick.seaver@tufts.edu)
+Office Hours: [calendly.com/nick-seaver/office-hours](https://calendly.com/nick-seaver/office-hours)
 
 ## Overview
 This course is an intensive workshop in anthropological theory, focused on a particular kind of technology—what the anthropologist Alfred Gell called *technologies of enchantment*. Unlike stereotypical technologies that work on physical material, technologies of enchantment are designed with *psychological* goals. These technologies are complex, and they are much older than they seem. Under Gell's umbrella, we can include not only contemporary "tech" like social media algorithms or generative AI, but also apparently simple objects like mousetraps or imposing entryway doors.
@@ -67,18 +65,18 @@ You know what this is. Details on the make-up policy are down below the course s
 *During class:*
 
 - Gell, Alfred. 1988. "Technology and Magic." _Anthropology Today_ 4 (2): 6–9. [https://doi.org/10.2307/3033230](https://doi.org/10.2307/3033230).
-- Browse through the Pitt Rivers Museum collection of traps: http://tinyurl.com/pittriverstraps (This should take you to search results. If it doesn't, follow these steps: Navigate to the collection advanced search page; pick "Object" from the buttons at the top; put "trap" in the Description field; hit "search." Then you can check the box at the left of the results to show only results containing images—there should be about 355 of them.) 
+- Browse through the [Pitt Rivers Museum collection of traps](http://tinyurl.com/pittriverstraps) (This should take you to search results. If it doesn't, follow these steps: Navigate to the collection advanced search page; pick "Object" from the buttons at the top; put "trap" in the Description field; hit "search." Then you can check the box at the left of the results to show only results containing images—there should be about 355 of them.) 
 
 ### 2. Tuesday 1/20: Contraptions and the Mind
 
 - Mason, Otis T. 1900. "Traps of the Amerinds—A Study in Psychology and Invention." _American Anthropologist_ 2 (4): 657–675.
-- Wadley, Lyn. 2010. "Were Snares and Traps Used in the Middle Stone Age and Does It Matter? A Review and a Case Study from Sibudu, South Africa." Journal of Human Evolution 58 (2): 179–92. https://doi.org/10.1016/j.jhevol.2009.10.004. *(Only read the first two pages and the concluding remarks.*) ==maybe new wadley coming from ILL==
+- Wadley, Lyn. 2010. "Were Snares and Traps Used in the Middle Stone Age and Does It Matter? A Review and a Case Study from Sibudu, South Africa." Journal of Human Evolution 58 (2): 179–92. [https://doi.org/10.1016/j.jhevol.2009.10.004](https://doi.org/10.1016/j.jhevol.2009.10.004). *(Only read the first two pages and the concluding remarks.*) ==maybe new wadley coming from ILL==
 - Pick three traps from the Pitt Rivers collection (see day 1) that you find interesting for whatever reason and note their accession numbers, e.g., 1999.29.10.
 
 ### 3. Thursday 1/22: Style and Function
 
 - ==Lemonnier, Pierre. 1993. "Introduction." In _Technological Choices: Transformation in Material Cultures Since the Neolithic_, edited by Pierre Lemonnier. New York: Routledge, 1–35.==
-- Seaver, Nick. 2013. "The Lost Wanderers: Technology and the Auxiliary Motive." *Medium*. https://medium.com/anthropology-and-algorithms/the-lost-wanderers-866b60a297ee.
+- Seaver, Nick. 2013. "The Lost Wanderers: Technology and the Auxiliary Motive." *Medium*. [https://medium.com/anthropology-and-algorithms/the-lost-wanderers-866b60a297ee](https://medium.com/anthropology-and-algorithms/the-lost-wanderers-866b60a297ee).
 
 ### 4. Tuesday 1/27: Operatory Chains
 
@@ -96,7 +94,7 @@ You know what this is. Details on the make-up policy are down below the course s
 
 ### 7. Thursday 2/5: Traps and Cunning
 
-- Singleton, Benedict. 2014. "(Notes Towards) Speculative Design." In _Speculative Aesthetics_, edited by Robin Mackay, Luke Pendrell, and James Trafford. Falmouth: Urbanomic. https://xenopraxis.net/readings/singleton_speculativedesign.pdf
+- Singleton, Benedict. 2014. "(Notes Towards) Speculative Design." In _Speculative Aesthetics_, edited by Robin Mackay, Luke Pendrell, and James Trafford. Falmouth: Urbanomic. [https://xenopraxis.net/readings/singleton_speculativedesign.pdf](https://xenopraxis.net/readings/singleton_speculativedesign.pdf)
 - Jabban, Sinan. 2024. “‘One Step Ahead’: Tales of Treasure Traps, Limitation, and Possibility in Northwestern Turkey.” _Social Analysis_ 68 (4): 39–56. [https://doi.org/10.3167/sa.2024.680403](https://doi.org/10.3167/sa.2024.680403).
 
 ### 8. Tuesday 2/10: Traps and Art
@@ -121,7 +119,7 @@ You know what this is. Details on the make-up policy are down below the course s
 ### 11. Tuesday 2/24: Gambling
 
 - Schull, Natasha Dow. 2005. "Digital Gambling: The Coincidence of Desire and Design." _The Annals of the American Academy of Political and Social Science_ 597: 65–81. [https://doi.org/10.1177/0002716204270435](https://doi.org/10.1177/0002716204270435).
-- Pickles, Anthony. 2013. "'One-Man One-Man': How Slot Machines Facilitate Papua New Guineans' Shifting Relations to Each Other." In _Qualitative Research in Gambling_, edited by Rebecca Cassidy, Andrea Pisac, and Claire Loussouarn, 171–84. London: Routledge. https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780203718872-15/one-man-one-man-anthony-pickles.
+- Pickles, Anthony. 2013. "'One-Man One-Man': How Slot Machines Facilitate Papua New Guineans' Shifting Relations to Each Other." In _Qualitative Research in Gambling_, edited by Rebecca Cassidy, Andrea Pisac, and Claire Loussouarn, 171–84. London: Routledge. [https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780203718872-15/one-man-one-man-anthony-pickles](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780203718872-15/one-man-one-man-anthony-pickles).
 
 ### 12. Thursday 2/26: Control Societies
 

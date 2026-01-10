@@ -227,6 +227,7 @@ li {
 /* Schedule notes (deadlines, breaks) */
 .schedule-note {
   font-family: 'IBM Plex Mono', monospace;
+  font-size: 1.023em; /* counteract parent's 0.88em to match day heading's 0.9em */
   font-weight: bold;
   letter-spacing: 0.02em;
   display: block;

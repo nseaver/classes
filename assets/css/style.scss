@@ -160,22 +160,17 @@ ol li::marker {
 }
 
 /* Combined day entry (e.g., presentation days) */
-.double-day {
+.schedule .double-day {
   list-style: none;
-  margin-left: -1.5em;
+  margin-bottom: 2em;
 }
 
-.double-day .day-number {
+.schedule .double-day > strong {
   font-family: 'IBM Plex Mono', monospace;
-  font-weight: 500;
   font-size: 0.9em;
-  margin-right: 0.5em;
-}
-
-@media (min-width: 600px) {
-  .double-day {
-    margin-left: 0;
-  }
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  display: block;
 }
 
 li {

@@ -31,15 +31,15 @@ The work in the course is designed to help you learn a few things:
 ## Assignments  
 This is the basic break-down of work you’ll have to complete in this class, along with deadlines and how much of your grade they count for. You can find more detailed descriptions of assignments, along with grading specifications, on the Canvas assignment pages, where you will also be submitting your work.
 
-| **Assignment**     | **Percentage** | **Deadline** |
-| ------------------ | -------------- | ------------ |
-| Trap analysis      | 15%            | 2/13         |
-| Trap design        | 25%            | 3/10         |
-| &nbsp;&nbsp;*Form groups*  |          | 2/6          |
-| &nbsp;&nbsp;*Proposal*     |          | 2/23         |
-| Interface analysis | 15%            | 4/17         |
-| Final Project      | 25%            | 5/8          |
-| Attendance         | 20%            | daily        |
+| **Assignment**                                    | **Percentage** | **Deadline** |
+| ------------------------------------------------- | -------------- | ------------ |
+| Trap analysis                                     | 15%            | 2/13         |
+| Trap design                                       | 25%            | 3/10         |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Form groups* |                | 2/6          |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Proposal*    |                | 2/23         |
+| Interface analysis                                | 15%            | 4/17         |
+| Final Project                                     | 25%            | 5/8          |
+| Attendance                                        | 20%            | daily        |
 
 ### Reading  
 Each class meeting has one or two assigned readings—book chapters or journal articles—which you should complete before we meet. If a text is not readily available online, I've put a PDF of it in our class files on Canvas. If it is available online, I’ve linked it here, and you should download it yourself using our library resources. If you can’t get something, let me know so I can help you (and your classmates) out.

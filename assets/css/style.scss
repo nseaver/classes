@@ -70,8 +70,8 @@ section > p:first-child a:hover {
   color: #4DB3FF;
 }
 
-/* Course header block */
-h5:first-of-type {
+/* Course header block - semester line */
+h4:first-of-type {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 0.75em;
   font-weight: 400;
@@ -93,7 +93,7 @@ h1 {
 }
 
 /* Dateline under title */
-h4 {
+h1 + h4 {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 0.75em;
   font-weight: 400;

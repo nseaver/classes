@@ -42,7 +42,7 @@ a {
 }
 
 a:hover {
-  text-decoration-color: #e85d04;
+  text-decoration-color: #4DB3FF;
   text-decoration-thickness: 1px;
   font-weight: inherit;
 }
@@ -65,7 +65,7 @@ section > p:first-child a {
 }
 
 section > p:first-child a:hover {
-  color: #e85d04;
+  color: #4DB3FF;
 }
 
 /* Course header block */
@@ -124,7 +124,7 @@ h3 {
 
 /* Accent block - first paragraph after h2 gets a left border */
 h2 + p {
-  border-left: 3px solid #e85d04;
+  border-left: 3px solid #4DB3FF;
   padding-left: 1em;
   margin-left: 0;
 }

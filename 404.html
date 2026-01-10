@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script>
+    // Canonical folder names (correct casing)
+    // Add new courses here when created
+    var canonicalFolders = ['TOE', 'IAST', 'HTPA', 'CoC'];
+
+    var path = window.location.pathname;
+    var parts = path.split('/');
+
+    if (parts.length > 1) {
+      var folder = parts[1];
+      canonicalFolders.forEach(function(canonical) {
+        if (folder.toLowerCase() === canonical.toLowerCase() && folder !== canonical) {
+          parts[1] = canonical;
+          window.location.href = parts.join('/');
+        }
+      });
+    }
+  </script>
+</head>
+<body>
+  <p>Page not found. <a href="/">Return home</a></p>
+</body>
+</html>

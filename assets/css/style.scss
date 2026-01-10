@@ -117,6 +117,13 @@ h2 {
   scroll-margin-top: 3em;
 }
 
+/* Accent block - first paragraph after h2 */
+h2 + p {
+  border-left: 6px solid #4DB3FF;
+  padding-left: 1em;
+  margin-left: calc(-1em - 6px);
+}
+
 /* Subheadings - subordinate but visible */
 h3 {
   font-family: 'IBM Plex Mono', monospace;

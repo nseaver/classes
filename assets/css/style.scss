@@ -162,6 +162,17 @@ li {
   margin-bottom: 0.3em;
 }
 
+/* Reading lists under schedule items */
+ol ul {
+  list-style: none;
+  padding-left: 0;
+  line-height: 1.5;
+}
+
+ol ul li {
+  margin-bottom: 0.8em;
+}
+
 /* Tables */
 table {
   width: 100%;

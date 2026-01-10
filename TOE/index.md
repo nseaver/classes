@@ -7,7 +7,7 @@ layout: default
 
 ##### Spring 2026: ANTH 123    
 # Technologies of<br>Enchantment    
-#### Tuesday/Thursday, 3–4:15 PM; Eaton Hall 370  
+#### Tuesday/Thursday, 3–4:15 PM · Eaton Hall 370  
 
 Nick Seaver  
 [nick.seaver@tufts.edu](mailto:nick.seaver@tufts.edu)  

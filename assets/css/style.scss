@@ -103,25 +103,19 @@ h4 {
   margin-bottom: 1.5em;
 }
 
-/* Section headings - no underline, just scale */
+/* Section headings - blue highlight */
 h2 {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 0.85em;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.08em;
+  color: #4DB3FF;
   margin-top: 3em;
   margin-bottom: 1em;
   padding-bottom: 0;
   border: none;
   scroll-margin-top: 3em;
-}
-
-/* Accent block - first paragraph after h2 */
-h2 + p {
-  border-left: 6px solid #4DB3FF;
-  padding-left: 1em;
-  margin-left: calc(-1em - 6px);
 }
 
 /* Subheadings - subordinate but visible */

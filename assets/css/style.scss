@@ -162,11 +162,24 @@ li {
   margin-bottom: 0.3em;
 }
 
+/* Schedule days */
+ol > li {
+  margin-bottom: 2em;
+}
+
+ol > li > strong:first-child {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.9em;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
 /* Reading lists under schedule items */
 ol ul {
   list-style: none;
   padding-left: 0;
   line-height: 1.5;
+  margin-top: 0.8em;
 }
 
 ol ul li {

@@ -73,7 +73,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 2. **Tuesday 1/20: Contraptions and the Mind**
 
    - Mason, Otis T. 1900. "Traps of the Amerinds—A Study in Psychology and Invention." _American Anthropologist_ 2 (4): 657–675.
-   - Wadley, Lyn. 2010. "[Were Snares and Traps Used in the Middle Stone Age and Does It Matter? A Review and a Case Study from Sibudu, South Africa](https://doi.org/10.1016/j.jhevol.2009.10.004)." _Journal of Human Evolution_ 58 (2): 179–92. *(Only read the first two pages and the concluding remarks.)* ==maybe new wadley coming from ILL==
+   - Wadley, Lyn. 2010. "[Were Snares and Traps Used in the Middle Stone Age and Does It Matter? A Review and a Case Study from Sibudu, South Africa](https://doi.org/10.1016/j.jhevol.2009.10.004)." _Journal of Human Evolution_ 58 (2): 179–92.<br>*(Only read the first two pages and the concluding remarks.)* ==maybe new wadley coming from ILL==
    - Pick three traps from the Pitt Rivers collection (see day 1) that you find interesting for whatever reason and note their accession numbers, e.g., 1999.29.10.
 
 3. **Thursday 1/22: Style and Function**
@@ -88,7 +88,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 5. **Thursday 1/29: Trap Theory**
 
-   - Chiritoiu, Ana, and Chakad Ojani. 2024. "[Introduction: Capture as an Anthropological Catchword](https://doi.org/10.3167/sa.2024.680401)." _Social Analysis_ 68 (4): 1–18. *(This piece is the introduction to a special issue on capture; it will refer to themes, theories, and thinkers that you haven't yet encountered, so take your time. Try to identify one or two ideas in here you find compelling enough to want to read more about.)*
+   - Chiritoiu, Ana, and Chakad Ojani. 2024. "[Introduction: Capture as an Anthropological Catchword](https://doi.org/10.3167/sa.2024.680401)." _Social Analysis_ 68 (4): 1–18.<br>*(This piece is the introduction to a special issue on capture; it will refer to themes, theories, and thinkers that you haven't yet encountered, so take your time. Try to identify one or two ideas in here you find compelling enough to want to read more about.)*
 
 6. **Tuesday 2/3: Traps and Cultural Context (or, Fishing)**
 

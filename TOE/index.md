@@ -76,15 +76,15 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 ## Schedule
 
-01. **Thursday 1/15: Technology and Enchantment**
+1. **Thursday 1/15: Technology and Enchantment**
 
    ###### During class
 
    - Gell, Alfred. 1988. "[Technology and Magic](https://doi.org/10.2307/3033230)." _Anthropology Today_ 4 (2): 6–9.
-	Browse through the [Pitt Rivers Museum collection of traps](http://tinyurl.com/pittriverstraps).
+    Browse through the [Pitt Rivers Museum collection of traps](http://tinyurl.com/pittriverstraps).
    > This should take you to search results. If it doesn't, follow these steps: Navigate to the collection advanced search page; pick "Object" from the buttons at the top; put "trap" in the Description field; hit "search." Then you can check the box at the left of the results to show only results containing images—there should be about 355 of them.
 
-02. **Tuesday 1/20: Contraptions and the Mind**
+2. **Tuesday 1/20: Contraptions and the Mind**
 
    - Mason, Otis T. 1900. "Traps of the Amerinds—A Study in Psychology and Invention." _American Anthropologist_ 2 (4): 657–675.
    - Wadley, Lyn. 2010. "[Were Snares and Traps Used in the Middle Stone Age and Does It Matter? A Review and a Case Study from Sibudu, South Africa](https://doi.org/10.1016/j.jhevol.2009.10.004)." _Journal of Human Evolution_ 58 (2): 179–92. <mark>maybe new wadley coming from ILL</mark>
@@ -93,53 +93,53 @@ You can miss two class meetings without penalty, and make up four more absences 
     Pick three traps from the Pitt Rivers collection (see day 1) that you find interesting for whatever reason and note their accession numbers, e.g., 1999.29.10.
     
 
-03. **Thursday 1/22: Style and Function**
+3. **Thursday 1/22: Style and Function**
 
    - <mark>Lemonnier, Pierre. 1993. "Introduction." In _Technological Choices: Transformation in Material Cultures Since the Neolithic_, edited by Pierre Lemonnier. New York: Routledge, 1–35.</mark>
    - Seaver, Nick. 2013. "[The Lost Wanderers: Technology and the Auxiliary Motive](https://medium.com/anthropology-and-algorithms/the-lost-wanderers-866b60a297ee)." *Medium*.
 
-04. **Tuesday 1/27: Operatory Chains**
+4. **Tuesday 1/27: Operatory Chains**
 
    - Coupaye, Ludovic. 2022. "[Making 'Technology' Visible: Technical Activities and the Chaîne Opératoire](https://doi.org/10.1007/978-981-16-7084-8_2)." In _The Palgrave Handbook of the Anthropology of Technology_, ed. Bruun et al., 37–60. Springer.
 
    Choose an arbitrary technical process and sketch out an operatory chain diagram, following the examples in Coupaye's text.
 
-05. **Thursday 1/29: Trap Theory**
+5. **Thursday 1/29: Trap Theory**
 
    - Chiritoiu, Ana, and Chakad Ojani. 2024. "[Introduction: Capture as an Anthropological Catchword](https://doi.org/10.3167/sa.2024.680401)." _Social Analysis_ 68 (4): 1–18.
      > This piece is the introduction to a special issue on capture; it will refer to themes, theories, and thinkers that you haven't yet encountered, so take your time. Try to identify one or two ideas in here you find compelling enough to want to read more about.
 
-06. **Tuesday 2/3: Traps and Cultural Context (or, Fishing)**
+6. **Tuesday 2/3: Traps and Cultural Context (or, Fishing)**
 
    - Nahum-Claudel, Chloe. 2019. "[From Mastery to Subjection: An Embodied Ethics of Entrapment in Amazonia](https://doi.org/10.1177/1359183519828767)." _Journal of Material Culture_ 24 (4): 473–490.
    - Swanson, Heather Anne. 2019. "[The Entrapment of Trap Design: Materiality, Political Economy and the Shifting Worlds of Fixed Gear Fishing Equipment](https://doi.org/10.1177/1359183519828769)." _Journal of Material Culture_ 24 (4): 401–20.
 
-07. **Thursday 2/5: Traps and Cunning**
+7. **Thursday 2/5: Traps and Cunning**
 
    - Singleton, Benedict. 2014. "[(Notes Towards) Speculative Design](https://xenopraxis.net/readings/singleton_speculativedesign.pdf)." In _Speculative Aesthetics_, ed. Mackay et al. Urbanomic.
    - Jabban, Sinan. 2024. "['One Step Ahead': Tales of Treasure Traps, Limitation, and Possibility in Northwestern Turkey](https://doi.org/10.3167/sa.2024.680403)." _Social Analysis_ 68 (4): 39–56.
 
-	##### Form trap design groups by 2/6
+    ##### Form trap design groups by 2/6
 
-08. **Tuesday 2/10: Traps and Art**
+8. **Tuesday 2/10: Traps and Art**
 
    - Gell, Alfred. 1996. "[Vogel's Net: Traps as Artworks and Artworks as Traps](https://doi.org/10.1177/135918359600100102)." _Journal of Material Culture_ 1 (1): 15–38.
    - Halloy, A. 2015. "[Pierre Smith's Mind Traps: The Origin and Ramifications of a Theory of Ritual Efficacy](https://doi.org/10.1177/1463499615594559)." _Anthropological Theory_ 15 (3): 358–74.
 
-09. **Thursday 2/12: Traps and Art 2**
+9. **Thursday 2/12: Traps and Art 2**
 
    - Gell, Alfred. 1992. "The Technology of Enchantment and the Enchantment of Technology." In _Anthropology, Art and Aesthetics_, ed. Coote and Shelton, 40–63. Oxford.
    - Derlon, Brigitte, and Monique Jeudy-Ballini. 2010. "[The Theory of Enchantment and the Enchantment of Theory: The Art of Alfred Gell](https://doi.org/10.1002/j.1834-4461.2010.tb00076.x)." _Oceania_ 80 (2): 129–42.
 
-	##### Trap analysis assignment due 2/13
+    ##### Trap analysis assignment due 2/13
 
 10. **Tuesday 2/17: Work day**
 
     This day is set aside for groups to work together on their midterm project proposals.
 
-	##### No class 2/19 (Tufts Monday)
+    ##### No class 2/19 (Tufts Monday)
 
-	##### Trap proposals due 2/23
+    ##### Trap proposals due 2/23
 
 11. **Tuesday 2/24: Traps and Computers**
 
@@ -169,7 +169,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
     Presentations continue.
 
-	##### Spring Break
+    ##### Spring Break
 
 17. **Tuesday 3/24: Magic**
 
@@ -213,7 +213,7 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Burrell, Jenna. 2008. "Problematic Empowerment: West African Internet Scams as Strategic Misrepresentation." _Information Technologies & International Development_ 4 (4): 15–30.
     - Swartz, Lana. 2022. "[Theorizing the 2017 Blockchain ICO Bubble as a Network Scam](https://doi.org/10.1177/14614448221099224)." _New Media & Society_ 24 (7): 1695–713.
 
-	##### Interface analysis due 4/17 <mark>move earlier</mark>
+    ##### Interface analysis due 4/17 <mark>move earlier</mark>
 
 25. **Tuesday 4/21: Conversational AI Design** <mark>move earlier</mark>
 
@@ -250,8 +250,8 @@ I have a few ground rules for participation in this course:
 I do not like having attendance grades in my courses because I do not want to penalize students who have to miss class for any of the myriad reasons that can come up during the semester. However, this course has been designed around active collaboration during meeting times, and missing them means missing a substantial component of the class. I have experimented with eliminating attendance policies over the years, and I've learned that, for some students, extreme flexibility means that absences pile up until they have a hard time getting back into the class; this harms their work and deprives the rest of the class of their contributions. So, I'm using an attendance policy this semester that tries to balance those concerns:
 - **You can miss two course meetings, no explanation needed.** (Do not email me to explain yourself, feel bad about it, or whatever.) This policy does not apply to presentation days, where attendance is mandatory.
 - Beyond those two, **every other absence has to be made up with a supplementary assignment**, which is due within a week of your absence. There are no exceptions to this policy unless you arrange something with me *in advance*.
-	- The makeup assignment: Find a source cited in one of the class readings that interests you, read it, and write up a one-page précis summarizing it and describing what you find useful or interesting in it.
-	- The reason for the one-week deadline is that I want you to stay engaged with the course continuously during the term, even if you have to miss a meeting. If you have to miss class due to being very ill, getting back on top of things in one week may be hard. Let me know, and I can extend this deadline by a week, in certain conditions.
+    - The makeup assignment: Find a source cited in one of the class readings that interests you, read it, and write up a one-page précis summarizing it and describing what you find useful or interesting in it.
+    - The reason for the one-week deadline is that I want you to stay engaged with the course continuously during the term, even if you have to miss a meeting. If you have to miss class due to being very ill, getting back on top of things in one week may be hard. Let me know, and I can extend this deadline by a week, in certain conditions.
   - You can make up four absences in this way. At that point, you'll have missed six of our class meetings, and you should consider whether you actually are able to fully participate in the course. After four make-ups, further absences will affect your grade and cannot be made up.
   - This policy begins the very first day of class—so if you join late, you'll be using up permitted absences.
 

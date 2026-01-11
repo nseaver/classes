@@ -76,7 +76,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 ## Schedule
 
-1. **Thursday 1/15: Technology and Enchantment**
+01. **Thursday 1/15: Technology and Enchantment**
 
    ###### During class
 
@@ -84,7 +84,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 	Browse through the [Pitt Rivers Museum collection of traps](http://tinyurl.com/pittriverstraps).
    > This should take you to search results. If it doesn't, follow these steps: Navigate to the collection advanced search page; pick "Object" from the buttons at the top; put "trap" in the Description field; hit "search." Then you can check the box at the left of the results to show only results containing images—there should be about 355 of them.
 
-2. **Tuesday 1/20: Contraptions and the Mind**
+02. **Tuesday 1/20: Contraptions and the Mind**
 
    - Mason, Otis T. 1900. "Traps of the Amerinds—A Study in Psychology and Invention." _American Anthropologist_ 2 (4): 657–675.
    - Wadley, Lyn. 2010. "[Were Snares and Traps Used in the Middle Stone Age and Does It Matter? A Review and a Case Study from Sibudu, South Africa](https://doi.org/10.1016/j.jhevol.2009.10.004)." _Journal of Human Evolution_ 58 (2): 179–92. <mark>maybe new wadley coming from ILL</mark>
@@ -93,40 +93,40 @@ You can miss two class meetings without penalty, and make up four more absences 
     Pick three traps from the Pitt Rivers collection (see day 1) that you find interesting for whatever reason and note their accession numbers, e.g., 1999.29.10.
     
 
-3. **Thursday 1/22: Style and Function**
+03. **Thursday 1/22: Style and Function**
 
    - <mark>Lemonnier, Pierre. 1993. "Introduction." In _Technological Choices: Transformation in Material Cultures Since the Neolithic_, edited by Pierre Lemonnier. New York: Routledge, 1–35.</mark>
    - Seaver, Nick. 2013. "[The Lost Wanderers: Technology and the Auxiliary Motive](https://medium.com/anthropology-and-algorithms/the-lost-wanderers-866b60a297ee)." *Medium*.
 
-4. **Tuesday 1/27: Operatory Chains**
+04. **Tuesday 1/27: Operatory Chains**
 
    - Coupaye, Ludovic. 2022. "[Making 'Technology' Visible: Technical Activities and the Chaîne Opératoire](https://doi.org/10.1007/978-981-16-7084-8_2)." In _The Palgrave Handbook of the Anthropology of Technology_, ed. Bruun et al., 37–60. Springer.
 
    Choose an arbitrary technical process and sketch out an operatory chain diagram, following the examples in Coupaye's text.
 
-5. **Thursday 1/29: Trap Theory**
+05. **Thursday 1/29: Trap Theory**
 
    - Chiritoiu, Ana, and Chakad Ojani. 2024. "[Introduction: Capture as an Anthropological Catchword](https://doi.org/10.3167/sa.2024.680401)." _Social Analysis_ 68 (4): 1–18.
      > This piece is the introduction to a special issue on capture; it will refer to themes, theories, and thinkers that you haven't yet encountered, so take your time. Try to identify one or two ideas in here you find compelling enough to want to read more about.
 
-6. **Tuesday 2/3: Traps and Cultural Context (or, Fishing)**
+06. **Tuesday 2/3: Traps and Cultural Context (or, Fishing)**
 
    - Nahum-Claudel, Chloe. 2019. "[From Mastery to Subjection: An Embodied Ethics of Entrapment in Amazonia](https://doi.org/10.1177/1359183519828767)." _Journal of Material Culture_ 24 (4): 473–490.
    - Swanson, Heather Anne. 2019. "[The Entrapment of Trap Design: Materiality, Political Economy and the Shifting Worlds of Fixed Gear Fishing Equipment](https://doi.org/10.1177/1359183519828769)." _Journal of Material Culture_ 24 (4): 401–20.
 
-7. **Thursday 2/5: Traps and Cunning**
+07. **Thursday 2/5: Traps and Cunning**
 
    - Singleton, Benedict. 2014. "[(Notes Towards) Speculative Design](https://xenopraxis.net/readings/singleton_speculativedesign.pdf)." In _Speculative Aesthetics_, ed. Mackay et al. Urbanomic.
    - Jabban, Sinan. 2024. "['One Step Ahead': Tales of Treasure Traps, Limitation, and Possibility in Northwestern Turkey](https://doi.org/10.3167/sa.2024.680403)." _Social Analysis_ 68 (4): 39–56.
 
 	##### Form trap design groups by 2/6
 
-8. **Tuesday 2/10: Traps and Art**
+08. **Tuesday 2/10: Traps and Art**
 
    - Gell, Alfred. 1996. "[Vogel's Net: Traps as Artworks and Artworks as Traps](https://doi.org/10.1177/135918359600100102)." _Journal of Material Culture_ 1 (1): 15–38.
    - Halloy, A. 2015. "[Pierre Smith's Mind Traps: The Origin and Ramifications of a Theory of Ritual Efficacy](https://doi.org/10.1177/1463499615594559)." _Anthropological Theory_ 15 (3): 358–74.
 
-9. **Thursday 2/12: Traps and Art 2**
+09. **Thursday 2/12: Traps and Art 2**
 
    - Gell, Alfred. 1992. "The Technology of Enchantment and the Enchantment of Technology." In _Anthropology, Art and Aesthetics_, ed. Coote and Shelton, 40–63. Oxford.
    - Derlon, Brigitte, and Monique Jeudy-Ballini. 2010. "[The Theory of Enchantment and the Enchantment of Theory: The Art of Alfred Gell](https://doi.org/10.1002/j.1834-4461.2010.tb00076.x)." _Oceania_ 80 (2): 129–42.

@@ -32,6 +32,12 @@ body {
   color: #1a1a1a;
 }
 
+/* Highlights (from ==text== in Obsidian) */
+mark {
+  background: #FFF3B0;
+  padding: 0.1em 0.2em;
+}
+
 /* Links - subtle until hover */
 a {
   color: inherit !important;

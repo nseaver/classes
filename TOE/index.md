@@ -14,6 +14,7 @@ Nick Seaver
 [Office Hours](https://calendly.com/nick-seaver/office-hours)
 
 ## Overview  
+
 This course is a workshop in the anthropology of technology, focused on devices designed for psychological goals.
 
 on a particular kind of technology—what the anthropologist Alfred Gell called *technologies of enchantment*. Unlike stereotypical technologies that work on physical material, technologies of enchantment are designed with *psychological* goals. These technologies are complex, and they are much older than they seem. Under Gell's umbrella, we can include not only contemporary "tech" like social media algorithms or generative AI, but also apparently simple objects like mousetraps or imposing entryway doors.
@@ -23,12 +24,14 @@ The course surveys a broad range of such technical practices, from fishing to ph
 We'll begin with an extended foray into the anthropology of traps and trapping, where humans devise devices that work on the minds of animal prey; then, we will broaden our scope to think of other kinds of practices and objects as trap-like. In the second half of the course, we turn to digital technologies—examining how designers, marketers, and platforms use interfaces, algorithms, and deceptive patterns to capture and hold attention.
 
 ## Learning Objectives  
+
 The work in the course is designed to help you learn a few things:
 1. To locate texts, facts, and artifacts in broader social and cultural contexts, thinking critically and generously about concepts, canons, and taken-for-granted categories.
 2. To develop a command of a specialized area in the academic literature, following your own intellectual instincts.
 3. To develop critical reading and writing skills, including the ability to analyze scholarly arguments and to make your own.
 
 ## Assignments  
+
 This is the basic break-down of work you’ll have to complete in this class, along with deadlines and how much of your grade they count for. You can find more detailed descriptions of assignments, along with grading specifications, on the Canvas assignment pages, where you will also be submitting your work.
 
 | **Assignment**                                                                    | **Percentage** | **Deadline** |
@@ -42,6 +45,7 @@ This is the basic break-down of work you’ll have to complete in this class, al
 | Attendance                                                                        | 20%            | daily        |
 
 ### Reading  
+
 Each class meeting has one or two assigned readings—book chapters or journal articles—which you should complete before we meet. If a text is not readily available online, I've put a PDF of it in our class files on Canvas. If it is available online, I’ve linked it here, and you should download it yourself using our library resources. If you can’t get something, let me know so I can help you (and your classmates) out.
 
 While reading, look for main arguments, interesting passages, connections to other readings, or points of confusion. Minimally, you should be prepared to answer the question "What's one thing you found interesting about this text?" for every reading, for every class meeting. I expect that you’ll have the texts with you and be ready to refer to specific passages in them to support your claims and motivate your questions. You should do the readings with your own intelligence, not an artificial one.
@@ -50,18 +54,23 @@ While reading, look for main arguments, interesting passages, connections to oth
 > It is very important to the functioning of this class that you read. If it turns out that people are having trouble finding the motivation to read, and this begins to impact class discussions, I will implement a *reading encouragement program*. This will either require short reading responses to each assigned text or collaborative annotation of the texts using an online tool. Points will come from the attendance part of the grade, adjusted for how far into the term we are.
 
 ### Trap Analysis (15%)  
+
 Following our day on operatory chains, you will choose a trap and analyze it, producing an operatory chain diagram and a short research memo about it.
 
 ### Trap Design (25%)  
+
 Culminating the first half of the class, you will, in groups, design and prototype a trap of your own to catch some kind of prey. This can be as literal or figurative as you like (informed by class materials, of course), and it will be accompanied by a report analyzing it according to class themes. We will have some time in class to work on these together and to present them.
 
 ### Interface Analysis (15%)  
+
 Following our day on the walkthrough method, you will choose a digital interface of some sort to analyze, examining the techniques it uses to influence and retain users.
 
-### <mark>Final Project (25%)</mark>  
-<mark>Our final</mark>
+### Final Project (25%)
+
+<mark>DESCRIPTION TK</mark>
 
 ### Attendance (20%)  
+
 You can miss two class meetings without penalty, and make up four more absences with some extra work. See details in the [policies](#policies) section below.
 
 

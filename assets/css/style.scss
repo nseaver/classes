@@ -186,43 +186,30 @@ ol li::marker {
   font-size: 0.9em;
 }
 
-/* Combined day entry (e.g., presentation days) */
-.schedule .double-day {
-  list-style: none;
-  margin-bottom: 2em;
-}
-
-.schedule .double-day > strong {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.9em;
-  font-weight: 700;
-  letter-spacing: 0.02em;
-  display: block;
-}
-
 li {
   margin-bottom: 0.3em;
 }
 
-/* Schedule days */
-.schedule ol > li {
+/* Schedule days - ol with nested content */
+ol > li {
   margin-bottom: 2em;
 }
 
-.schedule ol > li > p:first-child {
+ol > li > p:first-child {
   margin: 0;
 }
 
-/* Activity paragraphs and other non-title text in schedule */
-.schedule ol > li > p:not(:first-child) {
+/* Activity paragraphs under schedule days */
+ol > li > p:not(:first-child) {
   font-size: 0.88em;
   color: #333;
   margin: 0;
   padding: 0.3em 0;
 }
 
-.schedule ol > li > p:first-child > strong,
-.schedule ol > li > strong:first-child {
+/* Day headings (bold in first paragraph) */
+ol > li > p:first-child > strong,
+ol > li > strong:first-child {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 0.9em;
   letter-spacing: 0.02em;
@@ -230,14 +217,14 @@ li {
 }
 
 /* Reading lists under schedule items */
-.schedule ol ul {
+ol ul {
   list-style: none;
   padding-left: 0;
   line-height: 1.5;
   margin: 0;
 }
 
-.schedule ol ul li {
+ol ul li {
   margin-bottom: 0;
   padding: 0.3em 0;
   font-size: 0.88em;
@@ -246,21 +233,21 @@ li {
   text-indent: -1.5em;
 }
 
-.schedule ol ul li blockquote {
+ol ul li blockquote {
   text-indent: 0;
   padding-left: 1em;
   margin: 0.5em 0 0 0;
 }
 
-/* Blockquotes after activity paragraphs */
-.schedule ol > li > blockquote {
+/* Blockquotes under schedule days */
+ol > li > blockquote {
   font-size: 0.88em;
   color: #333;
   margin: 0.3em 0 0.3em 1em;
 }
 
-/* Day-level notes (italic paragraphs before reading list) */
-.schedule ol > li > p em {
+/* Italic text in schedule day paragraphs */
+ol > li > p em {
   font-size: 0.88em;
   line-height: 1.5;
   color: #333;

@@ -76,8 +76,6 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 ## Schedule
 
-<div class="schedule" markdown="1">
-
 1. **Thursday 1/15: Technology and Enchantment**
 
    ###### During class
@@ -224,8 +222,6 @@ You can miss two class meetings without penalty, and make up four more absences 
 26. **Thursday 4/23: Final Project Sharing**
 
     On the last day of class, we will share our research for the final project with each other.
-
-</div>
 
 ## Policies  
 

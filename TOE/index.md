@@ -253,7 +253,7 @@ You don't need to [register with the StAAR Center](https://students.tufts.edu/st
 
 Email is the best way to reach me. Expect a reply within a day or two; if you don't hear back, please nudge me. I try to stay off of email evenings and weekends.
 
-I hold [office hours](https://calendly.com/nick-seaver/office-hours) several days a week, with online signups to make sure there is enough time for everyone who wants it. Office hours are not just for emergencies or problems; they are open time I set aside for students. You can sign up for a slot to talk about class, your academic program in general, or whatever else you're interested in. Make use of this time as often as you like.
+I hold office hours several days a week, with [online signups](https://calendly.com/nick-seaver/office-hours) to make sure there is enough time for everyone who wants it. Office hours are not just for emergencies or problems; they are open time I set aside for students. You can sign up for a slot to talk about class, your academic program in general, or whatever else you're interested in. Make use of this time as often as you like.
 
 ### Academic Integrity and AI
 

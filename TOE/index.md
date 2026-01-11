@@ -125,7 +125,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
    ##### Trap analysis assignment due 2/13
 
-10. **Tuesday 2/17: Work day
+10. **Tuesday 2/17: Work day**
 
     This day is set aside for groups to work together on their midterm project proposals.
 

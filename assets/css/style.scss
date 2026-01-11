@@ -195,7 +195,7 @@ ol > li + li {
   margin-top: 2em;
 }
 
-ol > li:not(:has(*)) + li {
+ol > li:not(:has(ul, blockquote, h5, h6, p)) + li {
   margin-top: 0;
 }
 

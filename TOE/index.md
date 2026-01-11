@@ -119,7 +119,7 @@ You can miss two class meetings without penalty, and make up four more absences 
    - Singleton, Benedict. 2014. "[(Notes Towards) Speculative Design](https://xenopraxis.net/readings/singleton_speculativedesign.pdf)." In _Speculative Aesthetics_, ed. Mackay et al. Urbanomic.
    - Jabban, Sinan. 2024. "['One Step Ahead': Tales of Treasure Traps, Limitation, and Possibility in Northwestern Turkey](https://doi.org/10.3167/sa.2024.680403)." _Social Analysis_ 68 (4): 39–56.
 
-    ##### Form trap design groups by 2/6
+   ##### Form trap design groups by 2/6
 
 8. **Tuesday 2/10: Traps and Art**
 
@@ -131,7 +131,7 @@ You can miss two class meetings without penalty, and make up four more absences 
    - Gell, Alfred. 1992. "The Technology of Enchantment and the Enchantment of Technology." In _Anthropology, Art and Aesthetics_, ed. Coote and Shelton, 40–63. Oxford.
    - Derlon, Brigitte, and Monique Jeudy-Ballini. 2010. "[The Theory of Enchantment and the Enchantment of Theory: The Art of Alfred Gell](https://doi.org/10.1002/j.1834-4461.2010.tb00076.x)." _Oceania_ 80 (2): 129–42.
 
-    ##### Trap analysis assignment due 2/13
+   ##### Trap analysis assignment due 2/13
 
 10. **Tuesday 2/17: Work day**
 

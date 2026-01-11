@@ -243,8 +243,16 @@ ol ul li {
   text-indent: -1.5em;
 }
 
-/* Blockquotes under schedule days (direct or nested in readings) */
-ol ul li blockquote,
+/* Blockquotes nested in readings */
+ol ul li blockquote {
+  font-size: 0.88em;
+  color: #333;
+  text-indent: 0;
+  padding-left: 1em;
+  margin: 0.5em 0 0 0;
+}
+
+/* Blockquotes direct under schedule days */
 ol > li > blockquote {
   font-size: 0.88em;
   color: #333;

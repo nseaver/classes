@@ -67,7 +67,7 @@ Following our day on the walkthrough method, you will choose a digital interface
 
 ### Final Project (25%)
 
-<mark markdown="span">DESCRIPTION TK</mark>
+
 
 ### Attendance (20%)  
 
@@ -81,13 +81,14 @@ You can miss two class meetings without penalty, and make up four more absences 
     ###### During class
 
     - Gell, Alfred. 1988. "[Technology and Magic](https://doi.org/10.2307/3033230)." _Anthropology Today_ 4 (2): 6–9.
+    
     Browse through the [Pitt Rivers Museum collection of traps](http://tinyurl.com/pittriverstraps).
     > This should take you to search results. If it doesn't, follow these steps: Navigate to the collection advanced search page; pick "Object" from the buttons at the top; put "trap" in the Description field; hit "search." Then you can check the box at the left of the results to show only results containing images—there should be about 355 of them.
 
 2.  **Tuesday 1/20: Contraptions and the Mind**
 
     - Mason, Otis T. 1900. "Traps of the Amerinds—A Study in Psychology and Invention." _American Anthropologist_ 2 (4): 657–675.
-    - Wadley, Lyn. 2010. "[Were Snares and Traps Used in the Middle Stone Age and Does It Matter? A Review and a Case Study from Sibudu, South Africa](https://doi.org/10.1016/j.jhevol.2009.10.004)." _Journal of Human Evolution_ 58 (2): 179–92. <mark markdown="span">maybe new wadley coming from ILL</mark>
+    - Wadley, Lyn. 2010. "[Were Snares and Traps Used in the Middle Stone Age and Does It Matter? A Review and a Case Study from Sibudu, South Africa](https://doi.org/10.1016/j.jhevol.2009.10.004)." _Journal of Human Evolution_ 58 (2): 179–92. 
      > Only read the first two pages and the concluding remarks.
 
     Pick three traps from the Pitt Rivers collection (see day 1) that you find interesting for whatever reason and note their accession numbers, e.g., 1999.29.10.
@@ -95,7 +96,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 3.  **Thursday 1/22: Style and Function**
 
-    - <mark markdown="span">Lemonnier, Pierre. 1993. "Introduction." In _Technological Choices: Transformation in Material Cultures Since the Neolithic_, edited by Pierre Lemonnier. New York: Routledge, 1–35.</mark>
+    - Lemonnier, Pierre. 1993. "Introduction." In _Technological Choices: Transformation in Material Cultures Since the Neolithic_, edited by Pierre Lemonnier. New York: Routledge, 1–35. 
     - Seaver, Nick. 2013. "[The Lost Wanderers: Technology and the Auxiliary Motive](https://medium.com/anthropology-and-algorithms/the-lost-wanderers-866b60a297ee)." *Medium*.
 
 4.  **Tuesday 1/27: Operatory Chains**
@@ -119,7 +120,7 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Singleton, Benedict. 2014. "[(Notes Towards) Speculative Design](https://xenopraxis.net/readings/singleton_speculativedesign.pdf)." In _Speculative Aesthetics_, ed. Mackay et al. Urbanomic.
     - Jabban, Sinan. 2024. "['One Step Ahead': Tales of Treasure Traps, Limitation, and Possibility in Northwestern Turkey](https://doi.org/10.3167/sa.2024.680403)." _Social Analysis_ 68 (4): 39–56.
 
-    ##### Form trap design groups by 2/6
+    ##### <mark markdown="span">Form trap design groups by 2/6</mark>
 
 8.  **Tuesday 2/10: Traps and Art**
 
@@ -131,7 +132,7 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Gell, Alfred. 1992. "The Technology of Enchantment and the Enchantment of Technology." In _Anthropology, Art and Aesthetics_, ed. Coote and Shelton, 40–63. Oxford.
     - Derlon, Brigitte, and Monique Jeudy-Ballini. 2010. "[The Theory of Enchantment and the Enchantment of Theory: The Art of Alfred Gell](https://doi.org/10.1002/j.1834-4461.2010.tb00076.x)." _Oceania_ 80 (2): 129–42.
 
-    ##### Trap analysis assignment due 2/13
+    ##### <mark markdown="span">Trap analysis assignment due 2/13</mark>
 
 10. **Tuesday 2/17: Work day**
 
@@ -139,7 +140,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
     ##### No class 2/19 (Tufts Monday)
 
-    ##### Trap proposals due 2/23
+    ##### <mark markdown="span">Trap proposals due 2/23</mark>
 
 11. **Tuesday 2/24: Traps and Computers**
 
@@ -170,7 +171,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 17. **Tuesday 3/24: Magic**
 
-    - Jones, Graham. 2011. "[An Apprenticeship in Cunning](https://doi.org/10.1525/california/9780520270466.001.0001)." In _Trade of the Tricks: Inside the Magician's Craft_, 34–76. UC Press. <mark markdown="span">shorten</mark>
+    - Jones, Graham. 2011. "[An Apprenticeship in Cunning](https://doi.org/10.1525/california/9780520270466.001.0001)." In _Trade of the Tricks: Inside the Magician's Craft_, 34–76. UC Press. 
 
 18. **Thursday 3/26: Advertising**
 
@@ -210,11 +211,11 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Burrell, Jenna. 2008. "Problematic Empowerment: West African Internet Scams as Strategic Misrepresentation." _Information Technologies & International Development_ 4 (4): 15–30.
     - Swartz, Lana. 2022. "[Theorizing the 2017 Blockchain ICO Bubble as a Network Scam](https://doi.org/10.1177/14614448221099224)." _New Media & Society_ 24 (7): 1695–713.
 
-    ##### Interface analysis due 4/17 <mark markdown="span">move earlier</mark>
+    ##### <mark markdown="span">Interface analysis due 4/17</mark> 
 
-25. **Tuesday 4/21: Conversational AI Design** <mark markdown="span">move earlier</mark>
+25. **Tuesday 4/21: Conversational AI Design** 
 
-    - Rodwell, Elizabeth. 2025. "[Someone Behind This Technology: Conversation Designers in the Artificial Intelligence Loop](https://doi.org/10.1080/19378629.2025.2575366)." _Engineering Studies_. <mark markdown="span">OR "Between Code and Culture" in STHV—TBD</mark>
+    - Rodwell, Elizabeth. 2025. "[Someone Behind This Technology: Conversation Designers in the Artificial Intelligence Loop](https://doi.org/10.1080/19378629.2025.2575366)." _Engineering Studies_. 
 
 26. **Thursday 4/23: Final Project Sharing**
 

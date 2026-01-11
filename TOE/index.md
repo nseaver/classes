@@ -185,7 +185,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 20. **Thursday 4/2: Deceptive Patterns**
 
-    *These are three human-computer interaction papers that catalog types of "dark" or "deceptive" design patterns. You don't need to read all of them in detail, but you should focus specifically on how they categorize the different types of pattern.*
+    > These are three human-computer interaction papers that catalog types of "dark" or "deceptive" design patterns. You don't need to read all of them in detail, but you should focus specifically on how they categorize the different types of pattern.
 
     - Gray, Colin M. et al. 2018. "[The Dark (Patterns) Side of UX Design](https://doi.org/10.1145/3173574.3174108)." _CHI '18_, 1–14. ACM.
     - Mathur, Arunesh et al. 2019. "[Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites](https://doi.org/10.1145/3359183)." _CSCW_ 3: 1–32.
@@ -194,7 +194,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 21. **Tuesday 4/7: Walkthrough Method**
 
     - Light, Ben, Jean Burgess, and Stefanie Duguay. 2018. "[The Walkthrough Method: An Approach to the Study of Apps](https://doi.org/10.1177/1461444816675438)." _New Media & Society_ 20 (3): 881–900.
-    - Dieter, Michael and Nathaniel Tkacz. 2020. "The Patterning of Finance/Security: A Designerly Walkthrough of Challenger Banking Apps." _Computational Culture_ 7. (PDF on Canvas.)
+    - Dieter, Michael and Nathaniel Tkacz. 2020. "The Patterning of Finance/Security: A Designerly Walkthrough of Challenger Banking Apps." _Computational Culture_ 7.
 
 22. **Thursday 4/9: Spam**
 

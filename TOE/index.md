@@ -278,4 +278,4 @@ In this course, you'll continue to learn the norms of citation and attribution s
 ### The Syllabus Is a Living Document  
 Everything in the plan laid out in this syllabus is subject to revision. Any changes will be discussed in class, and I won't impose them unilaterally unless a serious issue emerges. Please let me know if you run into (or anticipate) any trouble with the plan here, so we can fix it. The current version of the syllabus will always be linked from our Canvas site.
 
-This is version 2.0.
+#### Version 2.0

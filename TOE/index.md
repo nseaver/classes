@@ -220,8 +220,6 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 ## Policies  
 
-> **Note:** This section is long and wordy. Read it all once; you may need to refer back to the attendance section in particular later on.
-
 ### Grading
 
 ###### Specifications

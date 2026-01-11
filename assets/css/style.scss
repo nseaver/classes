@@ -33,7 +33,7 @@ body {
   text-wrap: pretty;
 }
 
-/* Highlights (from ==text== in Obsidian) - used for deadlines */
+/* Deadlines - highlighted text (==text== in Obsidian) */
 mark {
   background: none;
   color: #4DB3FF;
@@ -129,7 +129,7 @@ h3 {
   margin-bottom: 0.5em;
 }
 
-/* Schedule notes - breaks, no-class days */
+/* Break notes - h5 for schedule interruptions */
 h5 {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 0.9em;
@@ -208,7 +208,7 @@ ol > li > p:first-child {
   margin: 0;
 }
 
-/* Activity paragraphs under schedule days */
+/* Activities - instruction paragraphs under schedule days */
 ol > li > p:not(:first-child) {
   font-size: 0.88em;
   line-height: 1.5;
@@ -217,7 +217,7 @@ ol > li > p:not(:first-child) {
   padding: 0.3em 0;
 }
 
-/* Day headings (bold in first paragraph) */
+/* Day titles - bold heading for each schedule day */
 ol > li > p:first-child > strong,
 ol > li > strong:first-child {
   font-family: 'IBM Plex Mono', monospace;
@@ -226,7 +226,7 @@ ol > li > strong:first-child {
   display: block;
 }
 
-/* Reading lists under schedule items */
+/* Readings - citation lists under schedule days */
 ol ul {
   list-style: none;
   padding-left: 0;
@@ -243,7 +243,7 @@ ol ul li {
   text-indent: -1.5em;
 }
 
-/* Blockquotes nested in readings */
+/* Reading notes - blockquotes nested in readings */
 ol ul li blockquote {
   font-size: 0.88em;
   color: #333;
@@ -252,7 +252,7 @@ ol ul li blockquote {
   margin: 0.5em 0 0 0;
 }
 
-/* Blockquotes direct under schedule days */
+/* Activity notes - blockquotes direct under schedule days */
 ol > li > blockquote {
   font-size: 0.88em;
   color: #333;

@@ -105,12 +105,11 @@ h2 {
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: #000;
-  background: linear-gradient(to top, #4DB3FF 20%, transparent 20%);
-  padding: 0.1em 0.3em;
+  border-top: 3px solid #4DB3FF;
+  padding-top: 0.5em;
   margin-top: 2.5em;
   margin-bottom: 0.8em;
   scroll-margin-top: 3em;
-  display: inline-block;
 }
 
 /* Subheadings - subordinate but visible */

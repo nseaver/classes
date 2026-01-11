@@ -192,7 +192,7 @@ li {
 
 /* Schedule days - ol with nested content */
 ol > li {
-  margin-bottom: 2em;
+  margin-bottom: 0.5em;
 }
 
 ol > li > p:first-child {
@@ -222,6 +222,7 @@ ol ul {
   padding-left: 0;
   line-height: 1.5;
   margin: 0;
+  margin-bottom: 1.5em;
 }
 
 ol ul li {

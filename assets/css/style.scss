@@ -252,16 +252,16 @@ ol ul li blockquote {
   margin: 0.5em 0 0 0;
 }
 
-/* Activity notes - blockquotes direct under schedule days */
-ol > li > blockquote {
+/* Activity notes - blockquotes after activity paragraphs */
+ol > li > p:not(:first-of-type) + blockquote {
   font-size: 0.88em;
   color: #333;
   text-indent: 0;
   margin: 0.5em 0 0 1.5em;
 }
 
-/* Day notes - blockquote before readings (has ul sibling after) */
-ol > li > blockquote:has(~ ul) {
+/* Day notes - blockquote immediately after day title */
+ol > li > p:first-of-type + blockquote {
   font-size: 0.88em;
   color: #333;
   text-indent: 0;

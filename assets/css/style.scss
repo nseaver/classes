@@ -12,6 +12,8 @@
   --color-text: #1a1a1a;
   --color-text-secondary: #555;
   --color-border: #ccc;
+  --font-display: 'Anton', sans-serif;
+  --font-sans: 'IBM Plex Sans', -apple-system, sans-serif;
   --font-mono: 'IBM Plex Mono', monospace;
 }
 
@@ -37,7 +39,7 @@ section {
 /* Base typography */
 body {
   background-color: var(--color-bg);
-  font-family: 'IBM Plex Sans', -apple-system, sans-serif;
+  font-family: var(--font-sans);
   font-size: 16px;
   line-height: 1.7;
   color: var(--color-text);
@@ -62,6 +64,7 @@ a {
 a:hover {
   color: var(--color-accent) !important;
   text-decoration-color: var(--color-accent) !important;
+  font-weight: inherit !important;
 }
 
 /* Nav bar - uppercase, tracked out */
@@ -98,7 +101,7 @@ h4 {
 }
 
 h1 {
-  font-family: 'Anton', sans-serif;
+  font-family: var(--font-display);
   font-size: clamp(1.8em, 12vw, 5em);
   font-weight: 400;
   line-height: 0.9;
@@ -168,7 +171,7 @@ h4 + p {
   font-family: var(--font-mono);
   font-size: 0.8em;
   letter-spacing: 0.03em;
-  color: var(--color-text);
+  color: var(--color-text-secondary);
   line-height: 1.8;
   margin-top: 1.5em;
   margin-bottom: 3em;
@@ -197,7 +200,7 @@ ol li::marker {
   font-size: 0.9em;
 }
 
-li {
+ul > li {
   margin-bottom: 0.3em;
 }
 
@@ -277,7 +280,6 @@ ol > li > p:not(:first-of-type) + blockquote {
 ol > li > p:first-of-type + blockquote {
   font-size: 0.88em;
 }
-
 
 /* Tables */
 table {

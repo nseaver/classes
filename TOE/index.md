@@ -26,9 +26,9 @@ We'll begin with an extended foray into the anthropology of traps and trapping, 
 ## Learning Objectives  
 
 The work in the course is designed to help you learn a few things:
-1. To locate texts, facts, and artifacts in broader social and cultural contexts, thinking critically and generously about concepts, canons, and taken-for-granted categories.
-2. To develop a command of a specialized area in the academic literature, following your own intellectual instincts.
-3. To develop critical reading and writing skills, including the ability to analyze scholarly arguments and to make your own.
+1.  To locate texts, facts, and artifacts in broader social and cultural contexts, thinking critically and generously about concepts, canons, and taken-for-granted categories.
+2.  To develop a command of a specialized area in the academic literature, following your own intellectual instincts.
+3.  To develop critical reading and writing skills, including the ability to analyze scholarly arguments and to make your own.
 
 ## Assignments  
 

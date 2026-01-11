@@ -97,7 +97,7 @@ h1 + h4 {
   margin-bottom: 1.5em;
 }
 
-/* Section headings - highlighter effect */
+/* Section headings */
 h2 {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 1em;
@@ -105,13 +105,11 @@ h2 {
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: #000;
-  background: linear-gradient(to top, #4DB3FF 35%, transparent 35%);
-  padding: 0.1em 0.3em;
+  border-left: 4px solid #4DB3FF;
+  padding-left: 0.8em;
   margin-top: 2.5em;
   margin-bottom: 0.8em;
   scroll-margin-top: 3em;
-  display: inline-block;
-  min-width: 50%;
 }
 
 /* Subheadings - subordinate but visible */

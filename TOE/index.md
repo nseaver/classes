@@ -31,15 +31,15 @@ The work in the course is designed to help you learn a few things:
 ## Assignments  
 This is the basic break-down of work you’ll have to complete in this class, along with deadlines and how much of your grade they count for. You can find more detailed descriptions of assignments, along with grading specifications, on the Canvas assignment pages, where you will also be submitting your work.
 
-| **Assignment**                                    | **Percentage** | **Deadline** |
-| ------------------------------------------------- | -------------- | ------------ |
-| Trap analysis                                     | 15%            | 2/13         |
-| Trap design                                       | 25%            | 3/10         |
-| <span style="color:#666">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Form groups*</span> |                | 2/6  |
-| <span style="color:#666">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Proposal*</span>    |                | 2/23 |
-| Interface analysis                                | 15%            | 4/17         |
-| Final Project                                     | 25%            | 5/8          |
-| Attendance                                        | 20%            | daily        |
+| **Assignment**                                                                    | **Percentage** | **Deadline** |
+| --------------------------------------------------------------------------------- | -------------- | ------------ |
+| Trap analysis                                                                     | 15%            | 2/13         |
+| Trap design                                                                       | 25%            | 3/10         |
+| <span style="color:#666">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Form groups*</span> |                | 2/6          |
+| <span style="color:#666">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Proposal*</span>    |                | 2/23         |
+| Interface analysis                                                                | 15%            | 4/17         |
+| Final Project                                                                     | 25%            | 5/8          |
+| Attendance                                                                        | 20%            | daily        |
 
 ### Reading  
 Each class meeting has one or two assigned readings—book chapters or journal articles—which you should complete before we meet. If a text is not readily available online, I've put a PDF of it in our class files on Canvas. If it is available online, I’ve linked it here, and you should download it yourself using our library resources. If you can’t get something, let me know so I can help you (and your classmates) out.
@@ -71,7 +71,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 1. **Thursday 1/15: Technology and Enchantment**
 
-   <span class="day-label">During class</span>
+   ###### During class
 
    - Gell, Alfred. 1988. "[Technology and Magic](https://doi.org/10.2307/3033230)." _Anthropology Today_ 4 (2): 6–9.
    Browse through the [Pitt Rivers Museum collection of traps](http://tinyurl.com/pittriverstraps).
@@ -111,7 +111,7 @@ You can miss two class meetings without penalty, and make up four more absences 
    - Singleton, Benedict. 2014. "[(Notes Towards) Speculative Design](https://xenopraxis.net/readings/singleton_speculativedesign.pdf)." In _Speculative Aesthetics_, ed. Mackay et al. Urbanomic.
    - Jabban, Sinan. 2024. "['One Step Ahead': Tales of Treasure Traps, Limitation, and Possibility in Northwestern Turkey](https://doi.org/10.3167/sa.2024.680403)." _Social Analysis_ 68 (4): 39–56.
 
-   <span class="schedule-note">Form trap design groups by 2/6</span>
+   ##### Form trap design groups by 2/6
 
 8. **Tuesday 2/10: Traps and Art**
 
@@ -123,15 +123,15 @@ You can miss two class meetings without penalty, and make up four more absences 
    - Gell, Alfred. 1992. "The Technology of Enchantment and the Enchantment of Technology." In _Anthropology, Art and Aesthetics_, ed. Coote and Shelton, 40–63. Oxford.
    - Derlon, Brigitte, and Monique Jeudy-Ballini. 2010. "[The Theory of Enchantment and the Enchantment of Theory: The Art of Alfred Gell](https://doi.org/10.1002/j.1834-4461.2010.tb00076.x)." _Oceania_ 80 (2): 129–42.
 
-   <span class="schedule-note">Trap analysis assignment due 2/13</span>
+   ##### Trap analysis assignment due 2/13
 
 10. **Tuesday 2/17: Work day
 
     This day is set aside for groups to work together on their midterm project proposals.
 
-    <span class="schedule-note">No class 2/19 (Tufts Monday)</span>
+    ##### No class 2/19 (Tufts Monday)
 
-    <span class="schedule-note">Trap proposals due 2/23</span>
+    ##### Trap proposals due 2/23
 
 11. **Tuesday 2/24: Traps and Computers**
 
@@ -161,7 +161,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
     Presentations continue.
 
-    <span class="schedule-note">Spring Break</span>
+    ##### Spring Break
 
 17. **Tuesday 3/24: Magic**
 
@@ -205,7 +205,8 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Burrell, Jenna. 2008. "Problematic Empowerment: West African Internet Scams as Strategic Misrepresentation." _Information Technologies & International Development_ 4 (4): 15–30.
     - Swartz, Lana. 2022. "[Theorizing the 2017 Blockchain ICO Bubble as a Network Scam](https://doi.org/10.1177/14614448221099224)." _New Media & Society_ 24 (7): 1695–713.
 
-    <span class="schedule-note">Interface analysis due 4/17</span> <mark>TOO LATE—move earlier, need more runway before final project</mark>
+    ##### Interface analysis due 4/17
+<mark>TOO LATE—move earlier, need more runway before final project</mark>
 
 25. **Tuesday 4/21: Conversational AI Design** <mark>MOVE EARLIER to scaffold final assignment</mark>
 
@@ -223,7 +224,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 ### Grading
 
-<span class="day-label">Specifications</span>
+###### Specifications
 
 Most assignments in this class will be graded pass/fail, according to whether you meet the requirements laid out in the assignment description. If you do not meet the requirements, you will usually have one chance to make a revision, following comments from me. This is called specifications grading, or "specs grading," and I've been using it across my classes for the past few years with some success. The philosophy behind it is that grades reward you for completing the work, not for achieving excellence. The point of most of the assignments in this class is not to be great, but to practice—and practicing is easier and more effective without the burden of performance. Details about revision timelines and specifications can be found in the assignment descriptions. If you have any uncertainty about the specifications for an assignment, please let me know ASAP, so I can clarify.
 
@@ -231,7 +232,7 @@ You can think of the threshold for full credit as something like a B/B+ under ty
 
 The exceptions to this policy are the two larger assignments: the trap design and the final collection. These will be given conventional letter grades, as they should demonstrate what you've already had a chance to practice during class.
 
-<span class="day-label">Letter grades</span>
+###### Letter grades
 
 I use conventional percentage-to-letter conversions for your final grade; you can see what letter grade you'll get in the class on Canvas (and it will already reflect any rounding up that may be applied). I do not automatically give A+ grades based on percentages; since the difference between A and A+ does not affect your GPA, I reserve the A+ for students who've earned the A and demonstrate exceptional effort and achievement in the class.
 

@@ -3,7 +3,11 @@ title: Technologies of Enchantment
 layout: default
 ---
 
+<nav>
+
 [Overview](#overview) [Assignments](#assignments) [Schedule](#schedule) [Policies](#policies)
+
+</nav>
 
 #### Spring 2026: ANTH 123    
 # Technologies of Enchantment    

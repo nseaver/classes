@@ -73,7 +73,7 @@ a:focus-visible {
 }
 
 /* Nav bar - uppercase, tracked out */
-section > p:first-child {
+nav {
   font-family: var(--font-mono);
   font-size: clamp(0.45em, 2.5vw, 0.75em);
   text-transform: uppercase;
@@ -81,16 +81,19 @@ section > p:first-child {
   text-align: left;
   padding: 0;
   margin-bottom: 3em;
-  border: none;
   white-space: nowrap;
 }
 
-section > p:first-child a {
+nav p {
+  margin: 0;
+}
+
+nav a {
   text-decoration: none !important;
   margin-right: 1.5em;
 }
 
-section > p:first-child a:hover {
+nav a:hover {
   color: var(--color-accent);
 }
 

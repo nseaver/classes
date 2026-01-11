@@ -191,6 +191,14 @@ li {
 }
 
 /* Schedule days - ol with nested content */
+ol > li + li {
+  margin-top: 2em;
+}
+
+ol > li:not(:has(*)) + li {
+  margin-top: 0;
+}
+
 ol > li {
   margin-bottom: 0.5em;
 }

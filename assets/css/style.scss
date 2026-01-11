@@ -105,14 +105,12 @@ h2 {
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: #000;
+  border: 2px solid #4DB3FF;
+  padding: 0.3em 0.6em;
   margin-top: 2.5em;
   margin-bottom: 0.8em;
   scroll-margin-top: 3em;
-}
-
-h2::before {
-  content: "● ";
-  color: #4DB3FF;
+  display: inline-block;
 }
 
 /* Subheadings - subordinate but visible */

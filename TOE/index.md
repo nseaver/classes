@@ -162,12 +162,9 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Ziv, Tali. 2023. "[The Trap: Care and Mystification in Carceral Governance](https://doi.org/10.1080/00141844.2023.2264527)." _Ethnos_, 1–26.
 
 15. **Tuesday 3/10: Trap Presentations 1**
-
-    The week before spring break, groups will present their traps in class.
-
 16. **Thursday 3/12: Trap Presentations 2**
 
-    Presentations continue.
+    The week before spring break, groups will present their traps in class.
 
     ##### Spring Break
 

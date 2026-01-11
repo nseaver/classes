@@ -90,7 +90,8 @@ You can miss two class meetings without penalty, and make up four more absences 
    - Wadley, Lyn. 2010. "[Were Snares and Traps Used in the Middle Stone Age and Does It Matter? A Review and a Case Study from Sibudu, South Africa](https://doi.org/10.1016/j.jhevol.2009.10.004)." _Journal of Human Evolution_ 58 (2): 179–92. <mark>maybe new wadley coming from ILL</mark>
      > Only read the first two pages and the concluding remarks.
 
-   Pick three traps from the Pitt Rivers collection (see day 1) that you find interesting for whatever reason and note their accession numbers, e.g., 1999.29.10.
+    Pick three traps from the Pitt Rivers collection (see day 1) that you find interesting for whatever reason and note their accession numbers, e.g., 1999.29.10.
+    
 
 3. **Thursday 1/22: Style and Function**
 
@@ -118,7 +119,7 @@ You can miss two class meetings without penalty, and make up four more absences 
    - Singleton, Benedict. 2014. "[(Notes Towards) Speculative Design](https://xenopraxis.net/readings/singleton_speculativedesign.pdf)." In _Speculative Aesthetics_, ed. Mackay et al. Urbanomic.
    - Jabban, Sinan. 2024. "['One Step Ahead': Tales of Treasure Traps, Limitation, and Possibility in Northwestern Turkey](https://doi.org/10.3167/sa.2024.680403)." _Social Analysis_ 68 (4): 39–56.
 
-##### Form trap design groups by 2/6
+	##### Form trap design groups by 2/6
 
 8. **Tuesday 2/10: Traps and Art**
 
@@ -130,15 +131,15 @@ You can miss two class meetings without penalty, and make up four more absences 
    - Gell, Alfred. 1992. "The Technology of Enchantment and the Enchantment of Technology." In _Anthropology, Art and Aesthetics_, ed. Coote and Shelton, 40–63. Oxford.
    - Derlon, Brigitte, and Monique Jeudy-Ballini. 2010. "[The Theory of Enchantment and the Enchantment of Theory: The Art of Alfred Gell](https://doi.org/10.1002/j.1834-4461.2010.tb00076.x)." _Oceania_ 80 (2): 129–42.
 
-##### Trap analysis assignment due 2/13
+	##### Trap analysis assignment due 2/13
 
 10. **Tuesday 2/17: Work day**
 
     This day is set aside for groups to work together on their midterm project proposals.
 
-##### No class 2/19 (Tufts Monday)
+	##### No class 2/19 (Tufts Monday)
 
-##### Trap proposals due 2/23
+	##### Trap proposals due 2/23
 
 11. **Tuesday 2/24: Traps and Computers**
 
@@ -168,7 +169,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
     Presentations continue.
 
-##### Spring Break
+	##### Spring Break
 
 17. **Tuesday 3/24: Magic**
 
@@ -212,10 +213,9 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Burrell, Jenna. 2008. "Problematic Empowerment: West African Internet Scams as Strategic Misrepresentation." _Information Technologies & International Development_ 4 (4): 15–30.
     - Swartz, Lana. 2022. "[Theorizing the 2017 Blockchain ICO Bubble as a Network Scam](https://doi.org/10.1177/14614448221099224)." _New Media & Society_ 24 (7): 1695–713.
 
-##### Interface analysis due 4/17
-<mark>TOO LATE—move earlier, need more runway before final project</mark>
+	##### Interface analysis due 4/17 <mark>move earlier</mark>
 
-25. **Tuesday 4/21: Conversational AI Design** <mark>MOVE EARLIER to scaffold final assignment</mark>
+25. **Tuesday 4/21: Conversational AI Design** <mark>move earlier</mark>
 
     - Rodwell, Elizabeth. 2025. "[Someone Behind This Technology: Conversation Designers in the Artificial Intelligence Loop](https://doi.org/10.1080/19378629.2025.2575366)." _Engineering Studies_. <mark>OR "Between Code and Culture" in STHV—TBD</mark>
 

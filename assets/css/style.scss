@@ -260,11 +260,12 @@ ol > li > blockquote {
   margin: 0.5em 0 0 1.5em;
 }
 
-/* Day notes - italic intro text applying to the whole day */
-ol > li > p em {
+/* Day notes - blockquote before readings (has ul sibling after) */
+ol > li > blockquote:has(~ ul) {
   font-size: 0.88em;
-  line-height: 1.5;
   color: #333;
+  text-indent: 0;
+  margin: 0.5em 0 0 0;
 }
 
 

@@ -211,6 +211,7 @@ ol > li > p:first-child {
 /* Activity paragraphs under schedule days */
 ol > li > p:not(:first-child) {
   font-size: 0.88em;
+  line-height: 1.5;
   color: #333;
   margin: 0;
   padding: 0.3em 0;
@@ -242,17 +243,14 @@ ol ul li {
   text-indent: -1.5em;
 }
 
-ol ul li blockquote {
-  text-indent: 0;
-  padding-left: 1em;
-  margin: 0.5em 0 0 0;
-}
-
-/* Blockquotes under schedule days */
+/* Blockquotes under schedule days (direct or nested in readings) */
+ol ul li blockquote,
 ol > li > blockquote {
   font-size: 0.88em;
   color: #333;
-  margin: 0.3em 0 0.3em 1em;
+  text-indent: 0;
+  padding-left: 1em;
+  margin: 0.5em 0 0 0;
 }
 
 /* Italic text in schedule day paragraphs */

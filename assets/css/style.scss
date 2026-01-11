@@ -294,6 +294,14 @@ td:nth-child(3) {
   font-family: 'IBM Plex Mono', monospace;
 }
 
+/* Italicized table cells = sub-items (indent + gray) */
+td em {
+  color: #666;
+  font-style: italic;
+  padding-left: 1.5em;
+  display: inline-block;
+}
+
 /* Blockquotes - recessive, secondary content */
 blockquote {
   font-size: 0.95em;

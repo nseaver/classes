@@ -6,7 +6,7 @@ layout: default
 [Overview](#overview) [Assignments](#assignments) [Schedule](#schedule) [Policies](#policies)
 
 #### Spring 2026: ANTH 123    
-# Technologies of<br>Enchantment    
+# Technologies of Enchantment    
 #### Tuesday/Thursday 3–4:15 PM · Eaton Hall 370  
 
 Nick Seaver  
@@ -35,8 +35,8 @@ This is the basic break-down of work you’ll have to complete in this class, al
 | --------------------------------------------------------------------------------- | -------------- | ------------ |
 | Trap analysis                                                                     | 15%            | 2/13         |
 | Trap design                                                                       | 25%            | 3/10         |
-| <span style="color:#666">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Form groups*</span> |                | 2/6          |
-| <span style="color:#666">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Proposal*</span>    |                | 2/23         |
+| *Form groups*  |                | 2/6          |
+| *Proposal*     |                | 2/23         |
 | Interface analysis                                                                | 15%            | 4/17         |
 | Final Project                                                                     | 25%            | 5/8          |
 | Attendance                                                                        | 20%            | daily        |

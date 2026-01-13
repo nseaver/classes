@@ -379,11 +379,18 @@ hr {
     break-inside: avoid;
   }
 
-  /* Page setup with page numbers */
+  /* Keep headings with following content */
+  h1, h2, h3, h4, h5, h6 {
+    break-after: avoid;
+  }
+
+  /* Page setup with footer */
   @page {
     margin: 0.75in;
     @bottom-center {
-      content: counter(page);
+      content: "ANTH 123 · Spring 2026 · " counter(page);
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 9pt;
     }
   }
 }

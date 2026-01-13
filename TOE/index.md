@@ -154,8 +154,8 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Swancutt, Katherine. 2012. "[The Captive Guest: Spider Webs of Hospitality among the Nuosu of Southwest China](https://doi.org/10.1111/j.1467-9655.2012.01766.x)." _Journal of the Royal Anthropological Institute_ 18 (s1): S103–116.
     - Ziv, Tali. 2025. "[The Trap: Care and Mystification in Carceral Governance](https://doi.org/10.1080/00141844.2023.2264527)." _Ethnos_ 90 (2): 287–312.
 
-15. **Tuesday  3/10: <mark markdown="span">Trap Presentations</mark>**
-16. **Thursday 3/12: <mark markdown="span">Trap Presentations</mark>**
+15. **Tuesday  3/10: <mark markdown="span">Presentations</mark>**
+16. **Thursday 3/12: <mark markdown="span">Presentations</mark>**
 
     The week before spring break, groups will present their traps in class.
 

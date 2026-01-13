@@ -2,10 +2,7 @@
 title: Technologies of Enchantment
 layout: default
 ---
-
-<nav markdown="1">
 [Overview](#overview) [Assignments](#assignments) [Schedule](#schedule) [Policies](#policies)
-</nav>
 
 #### Spring 2026: ANTH 123    
 # Technologies of Enchantment    
@@ -17,59 +14,55 @@ Nick Seaver
 
 ## Overview  
 
-This course is a workshop in the anthropology of technology, focused on devices designed for psychological goals.
+This course is a workshop in anthropological theory, focusing on technologies made to entice, lure, and persuade—what the anthropologist Alfred Gell called *technologies of enchantment*. Unlike stereotypical technologies (hammers, trains, and so on) that we tend to think of as essentially physical, technologies of enchantment foreground psychological effects, encouraging us to think beyond basic material functions and to consider the forms of knowledge, power, and social organization that go into the production of technological objects.
 
-on a particular kind of technology—what the anthropologist Alfred Gell called *technologies of enchantment*. Unlike stereotypical technologies that work on physical material, technologies of enchantment are designed with *psychological* goals. These technologies are complex, and they are much older than they seem. Under Gell's umbrella, we can include not only contemporary "tech" like social media algorithms or generative AI, but also apparently simple objects like mousetraps or imposing entryway doors.
-
-The course surveys a broad range of such technical practices, from fishing to phishing, as well as anthropological approaches to studying them. What distinguishes the anthropological approach from others you might encounter in other courses is an abiding interest in locating these technologies in social and cultural contexts: that is, technologies of enchantment are made by people in particular social positions, under particular interpretive frameworks for making sense of the world. We will also be relentlessly comparative, making sense of these technologies by bringing together diverse examples to explore their similarities and differences. "Technology" will take on a very broad meaning in this class, referring not only to physical artifacts, but also to a way of analyzing works of art, advertising, plans, scams, and magic tricks.
-
-We'll begin with an extended foray into the anthropology of traps and trapping, where humans devise devices that work on the minds of animal prey; then, we will broaden our scope to think of other kinds of practices and objects as trap-like. In the second half of the course, we turn to digital technologies—examining how designers, marketers, and platforms use interfaces, algorithms, and deceptive patterns to capture and hold attention.
+The course begins with an extended exploration of one of humanity’s earliest complex technologies: animal traps, which require their makers to model other minds and devise devices that work at a distance. From there, we will broaden our scope to consider less lethal trap-like objects, such as artworks, slot machines, and social media, which work on our own animal minds in similar ways. By the end of the course, we will have drawn a line from mousetraps to AI chatbots, using anthropology’s comparative method to think differently about what technology is and how it works.
 
 ## Learning Objectives  
 
-The work in the course is designed to help you learn a few things:
-1.  To locate texts, facts, and artifacts in broader social and cultural contexts, thinking critically and generously about concepts, canons, and taken-for-granted categories.
+This course has been designed to help you learn a few things:
+1.  To analyze how social, cultural, and institutional contexts relate to technological design.
 2.  To develop a command of a specialized area in the academic literature, following your own intellectual instincts.
-3.  To develop critical reading and writing skills, including the ability to analyze scholarly arguments and to make your own.
+3.  To apply academic concepts and methods to real-world technologies.
 
 ## Assignments  
 
-This is the basic break-down of work you’ll have to complete in this class, along with deadlines and how much of your grade they count for. You can find more detailed descriptions of assignments, along with grading specifications, on the Canvas assignment pages, where you will also be submitting your work.
+Your work in this class will consist of regular reading, class attendance, and four major assignments: two analytic reports, in which you’ll use course methods to analyze objects of your choice (one trap and one digital interface), and two larger group-based projects, in which you’ll design a trap and study an AI chatbot.
 
-| **Assignment**                                                                    | **Percentage** | **Deadline** |
-| --------------------------------------------------------------------------------- | -------------- | ------------ |
-| Trap analysis                                                                     | 15%            | 2/13         |
-| Trap design                                                                       | 25%            | 3/10         |
-| *Form groups*  |                | 2/6          |
-| *Proposal*     |                | 2/23         |
-| Interface analysis                                                                | 15%            | 4/17         |
-| Final Project                                                                     | 25%            | 5/8          |
-| Attendance                                                                        | 20%            | daily        |
+You can see grading weight, primary deadlines, and brief descriptions here. More detailed descriptions, along with grading specifications, will be on the Canvas assignment pages, where you will also be submitting your work. (Note that the primary deadlines for the two big assignments correspond to in-class presentations. There are intermediate deadlines before then and final submissions after then, listed in the schedule below and on Canvas.)
+
+| **Assignment**     | **Percentage** | **Deadline** |
+| ------------------ | -------------- | ------------ |
+| Trap analysis      | 15%            | 2/13         |
+| Trap design        | 25%            | 3/10         |
+| Interface analysis | 15%            | 4/17         |
+| Chatbot Study      | 25%            | 5/8          |
+| Attendance         | 20%            | daily        |
 
 ### Reading  
 
-Each class meeting has one or two assigned readings—book chapters or journal articles—which you should complete before we meet. If a text is not readily available online, I've put a PDF of it in our class files on Canvas. If it is available online, I’ve linked it here, and you should download it yourself using our library resources. If you can’t get something, let me know so I can help you (and your classmates) out.
+Each class meeting has one or two assigned readings—book chapters or journal articles—which you should complete before we meet. If a text is not readily available online, I've put a PDF of it in our class files on Canvas. If it is available online, I’ve linked it here, and you should download it yourself using our library resources. If you can’t get something, let me know so I can help you (and your classmates) out. (Library subscriptions should get you access so long as you’re on a campus network; otherwise, you can set up a [VPN](https://access.tufts.edu/vpn), use a library [proxy](https://resources.libraries.tufts.edu/support/transform/index.php), or log in and search through [JumboSearch](https://tufts.primo.exlibrisgroup.com/discovery/search?query=any,contains,technologies%20of%20enchantment&tab=Everything&search_scope=MyInst_and_CI&vid=01TUN_INST:01TUN&lang=en&offset=0).) 
 
-While reading, look for main arguments, interesting passages, connections to other readings, or points of confusion. Minimally, you should be prepared to answer the question "What's one thing you found interesting about this text?" for every reading, for every class meeting. I expect that you’ll have the texts with you and be ready to refer to specific passages in them to support your claims and motivate your questions. You should do the readings with your own intelligence, not an artificial one.
+While reading, look for main arguments, interesting passages, connections to other readings, or points of confusion. Minimally, you should be prepared to answer the question "What's one thing you found interesting about this text?" for every reading, for every class meeting, but we’ll all get more out of class if you go beyond the minimum. I expect that you’ll have the texts with you and be ready to refer to specific passages in them to support your claims and motivate your questions. You should do the readings with your own intelligence, not an artificial one.
 
 > ### Reading encouragement program (up to 10%) 
 > It is very important to the functioning of this class that you read. If it turns out that people are having trouble finding the motivation to read, and this begins to impact class discussions, I will implement a *reading encouragement program*. This will either require short reading responses to each assigned text or collaborative annotation of the texts using an online tool. Points will come from the attendance part of the grade, adjusted for how far into the term we are.
 
 ### Trap Analysis (15%)  
 
-Following our day on operatory chains, you will choose a trap and analyze it, producing an operatory chain diagram and a short research memo about it.
+Once you learn what an “operatory chain” is, you will use this analytic method to analyze a trap of your choice, producing a diagram and a short research memo about the sequence of actions involved in the functioning of your trap.
 
 ### Trap Design (25%)  
 
-Culminating the first half of the class, you will, in groups, design and prototype a trap of your own to catch some kind of prey. This can be as literal or figurative as you like (informed by class materials, of course), and it will be accompanied by a report analyzing it according to class themes. We will have some time in class to work on these together and to present them.
+Before spring break, in groups, you will design and prototype a trap (in the expansive sense developed in class). You’ll present your trap in class and then submit a report analyzing it according to class themes, exploring its modeling of prey and its emplacement in broader social contexts.
 
 ### Interface Analysis (15%)  
 
-Following our day on the walkthrough method, you will choose a digital interface of some sort to analyze, examining the techniques it uses to influence and retain users.
+After learning about the “walkthrough method,” you will use it to analyze a digital interface of your choice, examining the techniques it uses to influence and retain users. You will submit a short research memo and screenshots documenting your walkthrough.
 
-### Final Project (25%)
+### Chatbot Study (25%)
 
-
+After spring break, in groups, you will study an AI chatbot as a technology of enchantment, cataloging its design features and learning as much as you can about its legal, economic, political, and other social contexts. We will all be studying the same chatbot, and groups will focus on particular kinds of context, according to your interests. On the last day of class, we will hold a poster session to share our work, and group-authored written reports will be due during finals period.
 
 ### Attendance (20%)  
 
@@ -89,37 +82,36 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 2.  **Tuesday 1/20: Contraptions and the Mind**
 
-    - Mason, Otis T. 1900. "Traps of the Amerinds—A Study in Psychology and Invention." _American Anthropologist_ 2 (4): 657–675.
-    - Wadley, Lyn. 2010. "[Were Snares and Traps Used in the Middle Stone Age and Does It Matter? A Review and a Case Study from Sibudu, South Africa](https://doi.org/10.1016/j.jhevol.2009.10.004)." _Journal of Human Evolution_ 58 (2): 179–92. 
-     > Only read the first two pages and the concluding remarks.
+    - Mason, Otis T. 1900. "[Traps of the Amerinds—A Study in Psychology and Invention](https://doi.org/10.1525/aa.1900.2.4.02a00050)." _American Anthropologist_ 2 (4): 657–675.
+    - Wadley, Lyn. 2019. "Ensnaring the Mind: Cognitive Implications of Setting Snares and Traps." In _Squeezing Minds From Stones_, ed. Overmann and Coolidge, 457–480. Oxford University Press.
 
     Pick three traps from the Pitt Rivers collection (see day 1) that you find interesting for whatever reason and note their accession numbers, e.g., 1999.29.10.
     
 
 3.  **Thursday 1/22: Style and Function**
 
-    - Lemonnier, Pierre. 1993. "Introduction." In _Technological Choices: Transformation in Material Cultures Since the Neolithic_, edited by Pierre Lemonnier. New York: Routledge, 1–35. 
+    - Lemonnier, Pierre. 1993. "Introduction." In _Technological Choices: Transformation in Material Cultures Since the Neolithic_, edited by Pierre Lemonnier, 1–35. Routledge. 
     - Seaver, Nick. 2013. "[The Lost Wanderers: Technology and the Auxiliary Motive](https://medium.com/anthropology-and-algorithms/the-lost-wanderers-866b60a297ee)." *Medium*.
 
 4.  **Tuesday 1/27: Operatory Chains**
 
     - Coupaye, Ludovic. 2022. "[Making 'Technology' Visible: Technical Activities and the Chaîne Opératoire](https://doi.org/10.1007/978-981-16-7084-8_2)." In _The Palgrave Handbook of the Anthropology of Technology_, ed. Bruun et al., 37–60. Springer.
 
-    Choose an arbitrary technical process and sketch out an operatory chain diagram, following the examples in Coupaye's text.
+    Choose a technical process (like sharpening a knife, brushing your teeth, or signing up for a social media platform) and sketch out an operatory chain diagram, following the examples in Coupaye's text.
 
 5.  **Thursday 1/29: Trap Theory**
 
     - Chiritoiu, Ana, and Chakad Ojani. 2024. "[Introduction: Capture as an Anthropological Catchword](https://doi.org/10.3167/sa.2024.680401)." _Social Analysis_ 68 (4): 1–18.
      > This piece is the introduction to a special issue on capture; it will refer to themes, theories, and thinkers that you haven't yet encountered, so take your time. Try to identify one or two ideas in here you find compelling enough to want to read more about.
 
-6.  **Tuesday 2/3: Traps and Cultural Context (or, Fishing)**
+6.  **Tuesday 2/3: Traps and Context (or, Fishing)**
 
     - Nahum-Claudel, Chloe. 2019. "[From Mastery to Subjection: An Embodied Ethics of Entrapment in Amazonia](https://doi.org/10.1177/1359183519828767)." _Journal of Material Culture_ 24 (4): 473–490.
     - Swanson, Heather Anne. 2019. "[The Entrapment of Trap Design: Materiality, Political Economy and the Shifting Worlds of Fixed Gear Fishing Equipment](https://doi.org/10.1177/1359183519828769)." _Journal of Material Culture_ 24 (4): 401–20.
 
 7.  **Thursday 2/5: Traps and Cunning**
 
-    - Singleton, Benedict. 2014. "[(Notes Towards) Speculative Design](https://xenopraxis.net/readings/singleton_speculativedesign.pdf)." In _Speculative Aesthetics_, ed. Mackay et al. Urbanomic.
+    - Singleton, Benedict. 2014. "[(Notes Towards) Speculative Design](https://xenopraxis.net/readings/singleton_speculativedesign.pdf)." In _Speculative Aesthetics_, ed. Robin Mackay, Luke Pendrell, and James Trafford, 20–25. Urbanomic.
     - Jabban, Sinan. 2024. "['One Step Ahead': Tales of Treasure Traps, Limitation, and Possibility in Northwestern Turkey](https://doi.org/10.3167/sa.2024.680403)." _Social Analysis_ 68 (4): 39–56.
 
     ##### <mark markdown="span">Form trap design groups by 2/6</mark>
@@ -127,18 +119,18 @@ You can miss two class meetings without penalty, and make up four more absences 
 8.  **Tuesday 2/10: Traps and Art**
 
     - Gell, Alfred. 1996. "[Vogel's Net: Traps as Artworks and Artworks as Traps](https://doi.org/10.1177/135918359600100102)." _Journal of Material Culture_ 1 (1): 15–38.
-    - Halloy, A. 2015. "[Pierre Smith's Mind Traps: The Origin and Ramifications of a Theory of Ritual Efficacy](https://doi.org/10.1177/1463499615594559)." _Anthropological Theory_ 15 (3): 358–74.
+    - Halloy, Arnaud. 2015. "[Pierre Smith's Mind Traps: The Origin and Ramifications of a Theory of Ritual Efficacy](https://doi.org/10.1177/1463499615594559)." _Anthropological Theory_ 15 (3): 358–74.
 
-9.  **Thursday 2/12: Traps and Art 2**
+9.  **Thursday 2/12: Traps and Art II**
 
-    - Gell, Alfred. 1992. "The Technology of Enchantment and the Enchantment of Technology." In _Anthropology, Art and Aesthetics_, ed. Coote and Shelton, 40–63. Oxford.
+    - Gell, Alfred. 1992. "The Technology of Enchantment and the Enchantment of Technology." In _Anthropology, Art and Aesthetics_, ed. Jeremy Coote and Anthony Shelton, 40–63. Clarendon Press.
     - Derlon, Brigitte, and Monique Jeudy-Ballini. 2010. "[The Theory of Enchantment and the Enchantment of Theory: The Art of Alfred Gell](https://doi.org/10.1002/j.1834-4461.2010.tb00076.x)." _Oceania_ 80 (2): 129–42.
 
     ##### <mark markdown="span">Trap analysis assignment due 2/13</mark>
 
 10. **Tuesday 2/17: Work day**
 
-    This day is set aside for groups to work together on their midterm project proposals.
+    This day is set aside for groups to work together on their midterm project proposals. *(I may need to move this session to another date, pending some outside arrangements.)*
 
     ##### No class 2/19 (Tufts Monday)
 
@@ -151,21 +143,21 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 12. **Thursday 2/26: Gambling**
 
-    - Schull, Natasha Dow. 2005. "[Digital Gambling: The Coincidence of Desire and Design](https://doi.org/10.1177/0002716204270435)." _The Annals of the American Academy of Political and Social Science_ 597: 65–81.
+    - Schull, Natasha Dow. 2005. "[Digital Gambling: The Coincidence of Desire and Design](https://doi.org/10.1177/0002716204270435)." _The Annals of the American Academy of Political and Social Science_ 597 (1): 65–81.
     - Pickles, Anthony. 2013. "['One-Man One-Man': How Slot Machines Facilitate Papua New Guineans' Shifting Relations to Each Other](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780203718872-15/one-man-one-man-anthony-pickles)." In _Qualitative Research in Gambling_, ed. Cassidy et al., 171–84. Routledge.
 
 13. **Tuesday 3/3: Control Societies**
 
-    - Deleuze, Gilles. 1992. "Postscript on the Societies of Control." *October* 59: 3–7.
+    - Deleuze, Gilles. 1992. "[Postscript on the Societies of Control](https://www.jstor.org/stable/778828)." *October* 59: 3–7.
     - Cheney-Lippold, John. 2011. "[A New Algorithmic Identity: Soft Biopolitics and the Modulation of Control](https://doi.org/10.1177/0263276411424420)." _Theory, Culture & Society_ 28 (6): 164–81.
 
 14. **Thursday 3/5: Care and Control**
 
     - Swancutt, Katherine. 2012. "[The Captive Guest: Spider Webs of Hospitality among the Nuosu of Southwest China](https://doi.org/10.1111/j.1467-9655.2012.01766.x)." _Journal of the Royal Anthropological Institute_ 18 (s1): S103–116.
-    - Ziv, Tali. 2023. "[The Trap: Care and Mystification in Carceral Governance](https://doi.org/10.1080/00141844.2023.2264527)." _Ethnos_, 1–26.
+    - Ziv, Tali. 2025. "[The Trap: Care and Mystification in Carceral Governance](https://doi.org/10.1080/00141844.2023.2264527)." _Ethnos_ 90 (2): 287–312.
 
-15. **Tuesday 3/10: Trap Presentations 1**
-16. **Thursday 3/12: Trap Presentations 2**
+15. **Tuesday 3/10: Trap Presentations**
+16. **Thursday 3/12: Trap Presentations**
 
     The week before spring break, groups will present their traps in class.
 
@@ -177,13 +169,13 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 18. **Thursday 3/26: Advertising**
 
-    - Cochoy, F. 2007. "[A Brief Theory of the 'Captation' of Publics: Understanding the Market with Little Red Riding Hood](https://doi.org/10.1177/0263276407084704)." _Theory, Culture & Society_ 24 (7–8): 203–23.
-    - Lien, Marianne. 1997. "Reaching the Average Norwegian: The Pizza Superiora Film Project." In *Marketing and Modernity*. Berg, 168–198.
+    - Cochoy, Franck. 2007. "[A Brief Theory of the 'Captation' of Publics: Understanding the Market with Little Red Riding Hood](https://doi.org/10.1177/0263276407084704)." _Theory, Culture & Society_ 24 (7–8): 203–23.
+    - Lien, Marianne. 1997. "Reaching the Average Norwegian: The Pizza Superiora Film Project." In *Marketing and Modernity*, 168–198. Berg.
 
 19. **Tuesday 3/31: Persuasive Design**
 
-    - Fogg, B. J., Gregory Cuellar, and David Danielson. 2009. "Motivating, Influencing, and Persuading Users: An Introduction to Captology." _Human Computer Interaction Fundamentals_, 109–22.
-    - Martin, Emily. 2022. "[Persuasive Technology and Personhood on Social Media](https://doi.org/10.1177/01622439221137038)." _Science, Technology, & Human Values_ 50 (6).
+    - Fogg, B. J., Gregory Cuellar, and David Danielson. 2009. "Motivating, Influencing, and Persuading Users: An Introduction to Captology." In _Human-Computer Interaction Fundamentals_, ed. Andrew Sears and Julie A. Jacko, 109–22. CRC Press.
+    - Martin, Emily. 2025. "[Persuasive Technology and Personhood on Social Media](https://doi.org/10.1177/01622439221137038)." _Science, Technology, & Human Values_ 50 (6): 1245–1265.
 
 20. **Thursday 4/2: Deceptive Patterns**
 
@@ -196,32 +188,33 @@ You can miss two class meetings without penalty, and make up four more absences 
 21. **Tuesday 4/7: Walkthrough Method**
 
     - Light, Ben, Jean Burgess, and Stefanie Duguay. 2018. "[The Walkthrough Method: An Approach to the Study of Apps](https://doi.org/10.1177/1461444816675438)." _New Media & Society_ 20 (3): 881–900.
-    - Dieter, Michael and Nathaniel Tkacz. 2020. "The Patterning of Finance/Security: A Designerly Walkthrough of Challenger Banking Apps." _Computational Culture_ 7.
+    - Dieter, Michael and Nathaniel Tkacz. 2020. "[The Patterning of Finance/Security: A Designerly Walkthrough of Challenger Banking Apps](http://computationalculture.net/the-patterning-of-finance-security/)." _Computational Culture_ 7.
 
 22. **Thursday 4/9: Spam**
 
-    - Brunton, Finn. 2019. "Spam." In _The SAGE Handbook of Web History_, edited by Niels Brügger and Ian Milligan, 564–76. London ; Thousand Oaks, California: SAGE Publications.
+    - Brunton, Finn. 2019. "Spam." In _The SAGE Handbook of Web History_, edited by Niels Brügger and Ian Milligan, 564–76. SAGE.
     - Ziewitz, Malte. 2019. "[Rethinking Gaming: The Ethical Work of Optimization in Web Search Engines](https://doi.org/10.1177/0306312719865607)." _Social Studies of Science_ 49 (5): 707–31.
 
 23. **Tuesday 4/14: Phishing**
 
     - McNealy, Jasmine E. 2022. "[Platforms as Phish Farms: Deceptive Social Engineering at Scale](https://doi.org/10.1177/14614448221099228)." _New Media & Society_ 24 (7): 1677–94.
-    - Dhamija, Rachna, J. D. Tygar, and Marti Hearst. 2006. "[Why Phishing Works](https://doi.org/10.1145/1124772.1124861)." In _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_, 581–90. Montréal, Québec, Canada: ACM.
+    - Dhamija, Rachna, J. D. Tygar, and Marti Hearst. 2006. "[Why Phishing Works](https://doi.org/10.1145/1124772.1124861)." _CHI '06_, 581–90. ACM.
 
 24. **Thursday 4/16: Scams**
 
-    - Burrell, Jenna. 2008. "Problematic Empowerment: West African Internet Scams as Strategic Misrepresentation." _Information Technologies & International Development_ 4 (4): 15–30.
+    - Burrell, Jenna. 2008. "[Problematic Empowerment: West African Internet Scams as Strategic Misrepresentation](https://itidjournal.org/index.php/itid/article/view/308)." _Information Technologies & International Development_ 4 (4): 15–30.
     - Swartz, Lana. 2022. "[Theorizing the 2017 Blockchain ICO Bubble as a Network Scam](https://doi.org/10.1177/14614448221099224)." _New Media & Society_ 24 (7): 1695–713.
 
     ##### <mark markdown="span">Interface analysis due 4/17</mark> 
 
-25. **Tuesday 4/21: Conversational AI Design** 
+25. **Tuesday 4/21: Chat** 
 
     - Rodwell, Elizabeth. 2025. "[Someone Behind This Technology: Conversation Designers in the Artificial Intelligence Loop](https://doi.org/10.1080/19378629.2025.2575366)." _Engineering Studies_. 
+    - Maeda, Takuya. 2025. "[Walkthrough of Anthropomorphic Features in AI Assistant Tools](https://arxiv.org/abs/2502.16345)." arXiv:2502.16345.
 
-26. **Thursday 4/23: Final Project Sharing**
+26. **Thursday 4/23: Poster Session**
 
-    On the last day of class, we will share our research for the final project with each other.
+    On the last day of class, we will share our research for the chatbot study with each other.
 
 ## Policies
 
@@ -254,6 +247,8 @@ You don't need to [register with the StAAR Center](https://students.tufts.edu/st
 Email is the best way to reach me. Expect a reply within a day or two; if you don't hear back, please nudge me. I try to stay off of email evenings and weekends.
 
 I hold office hours several days a week, with [online signups](https://calendly.com/nick-seaver/office-hours) to make sure there is enough time for everyone who wants it. Office hours are not just for emergencies or problems; they are open time I set aside for students. You can sign up for a slot to talk about class, your academic program in general, or whatever else you're interested in. Make use of this time as often as you like.
+
+If you’d like to send me a message about the class anonymously, you can find a link to my anonymous feedback form on Canvas.
 
 ### Academic Integrity and AI
 

@@ -27,7 +27,7 @@ This course has been designed to help you learn a few things:
 
 ## Assignments  
 
-Your work in this class will consist of regular reading, class attendance, and four major assignments: two analytic reports, in which you’ll use course methods to analyze objects of your choice (one trap and one digital interface), and two larger group-based projects, in which you’ll design a trap and study an AI chatbot.
+Your work in this course will consist of regular reading, class attendance, and four major assignments: two analytic reports, in which you’ll use course methods to analyze objects of your choice (one trap and one digital interface), and two larger group-based projects, in which you’ll design a trap and study an AI chatbot.
 
 You can see grading weight, primary deadlines, and brief descriptions here. More detailed descriptions, along with grading specifications, will be on the Canvas assignment pages, where you will also be submitting your work. (Note that the primary deadlines for the two big assignments correspond to in-class presentations. There are intermediate deadlines before then and final submissions after then, listed in the schedule below and on Canvas.)
 
@@ -35,8 +35,8 @@ You can see grading weight, primary deadlines, and brief descriptions here. More
 | ------------------ | -------------- | ------------ |
 | Trap analysis      | 15%            | 2/13         |
 | Trap design        | 25%            | 3/10         |
-| Interface analysis | 15%            | 4/17         |
-| Chatbot Study      | 25%            | 5/8          |
+| Interface analysis | 15%            | 4/10         |
+| Chatbot study      | 25%            | 4/23         |
 | Attendance         | 20%            | daily        |
 
 ### Reading  
@@ -114,8 +114,6 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Singleton, Benedict. 2014. "[(Notes Towards) Speculative Design](https://xenopraxis.net/readings/singleton_speculativedesign.pdf)." In _Speculative Aesthetics_, ed. Robin Mackay, Luke Pendrell, and James Trafford, 20–25. Urbanomic.
     - Jabban, Sinan. 2024. "['One Step Ahead': Tales of Treasure Traps, Limitation, and Possibility in Northwestern Turkey](https://doi.org/10.3167/sa.2024.680403)." _Social Analysis_ 68 (4): 39–56.
 
-    ##### <mark markdown="span">Form trap design groups by 2/6</mark>
-
 8.  **Tuesday 2/10: Traps and Art**
 
     - Gell, Alfred. 1996. "[Vogel's Net: Traps as Artworks and Artworks as Traps](https://doi.org/10.1177/135918359600100102)." _Journal of Material Culture_ 1 (1): 15–38.
@@ -128,13 +126,13 @@ You can miss two class meetings without penalty, and make up four more absences 
 
     ##### <mark markdown="span">Trap analysis assignment due 2/13</mark>
 
-10. **Tuesday 2/17: Work day**
+10. **Tuesday 2/17: Proposal planning day**
 
     This day is set aside for groups to work together on their midterm project proposals. *(I may need to move this session to another date, pending some outside arrangements.)*
 
+    ##### <mark markdown="span">Trap proposals due 2/18</mark>
+    
     ##### No class 2/19 (Tufts Monday)
-
-    ##### <mark markdown="span">Trap proposals due 2/23</mark>
 
 11. **Tuesday 2/24: Traps and Computers**
 
@@ -156,28 +154,14 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Swancutt, Katherine. 2012. "[The Captive Guest: Spider Webs of Hospitality among the Nuosu of Southwest China](https://doi.org/10.1111/j.1467-9655.2012.01766.x)." _Journal of the Royal Anthropological Institute_ 18 (s1): S103–116.
     - Ziv, Tali. 2025. "[The Trap: Care and Mystification in Carceral Governance](https://doi.org/10.1080/00141844.2023.2264527)." _Ethnos_ 90 (2): 287–312.
 
-15. **Tuesday 3/10: Trap Presentations**
-16. **Thursday 3/12: Trap Presentations**
+15. **Tuesday  3/10: <mark markdown="span">Trap Presentations</mark>**
+16. **Thursday 3/12: <mark markdown="span">Trap Presentations</mark>**
 
     The week before spring break, groups will present their traps in class.
 
     ##### Spring Break
 
-17. **Tuesday 3/24: Magic**
-
-    - Jones, Graham. 2011. "[An Apprenticeship in Cunning](https://doi.org/10.1525/california/9780520270466.001.0001)." In _Trade of the Tricks: Inside the Magician's Craft_, 34–76. UC Press. 
-
-18. **Thursday 3/26: Advertising**
-
-    - Cochoy, Franck. 2007. "[A Brief Theory of the 'Captation' of Publics: Understanding the Market with Little Red Riding Hood](https://doi.org/10.1177/0263276407084704)." _Theory, Culture & Society_ 24 (7–8): 203–23.
-    - Lien, Marianne. 1997. "Reaching the Average Norwegian: The Pizza Superiora Film Project." In *Marketing and Modernity*, 168–198. Berg.
-
-19. **Tuesday 3/31: Persuasive Design**
-
-    - Fogg, B. J., Gregory Cuellar, and David Danielson. 2009. "Motivating, Influencing, and Persuading Users: An Introduction to Captology." In _Human-Computer Interaction Fundamentals_, ed. Andrew Sears and Julie A. Jacko, 109–22. CRC Press.
-    - Martin, Emily. 2025. "[Persuasive Technology and Personhood on Social Media](https://doi.org/10.1177/01622439221137038)." _Science, Technology, & Human Values_ 50 (6): 1245–1265.
-
-20. **Thursday 4/2: Deceptive Patterns**
+17. **Tuesday 3/24: Deceptive Patterns**
 
     > These are three human-computer interaction papers that catalog types of "dark" or "deceptive" design patterns. Focus primarily on how they classify the patterns.
 
@@ -185,36 +169,54 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Mathur, Arunesh et al. 2019. "[Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites](https://doi.org/10.1145/3359183)." _CSCW_ 3: 1–32.
     - Monge Roffarello, Alberto, Kai Lukoff, and Luigi De Russis. 2023. "[Defining and Identifying Attention Capture Deceptive Designs in Digital Interfaces](https://doi.org/10.1145/3544548.3580729)." _CHI '23_, 1–19. ACM.
 
-21. **Tuesday 4/7: Walkthrough Method**
+18. **Thursday 3/26: Persuasive Design**
+
+    - Fogg, B. J., Gregory Cuellar, and David Danielson. 2009. "Motivating, Influencing, and Persuading Users: An Introduction to Captology." In _Human-Computer Interaction Fundamentals_, ed. Andrew Sears and Julie A. Jacko, 109–22. CRC Press.
+    - Martin, Emily. 2025. "[Persuasive Technology and Personhood on Social Media](https://doi.org/10.1177/01622439221137038)." _Science, Technology, & Human Values_ 50 (6): 1245–1265.
+
+    ##### <mark markdown="span">Trap design reports due 3/27</mark>
+
+19. **Tuesday 3/31: Walkthrough Method**
 
     - Light, Ben, Jean Burgess, and Stefanie Duguay. 2018. "[The Walkthrough Method: An Approach to the Study of Apps](https://doi.org/10.1177/1461444816675438)." _New Media & Society_ 20 (3): 881–900.
     - Dieter, Michael and Nathaniel Tkacz. 2020. "[The Patterning of Finance/Security: A Designerly Walkthrough of Challenger Banking Apps](http://computationalculture.net/the-patterning-of-finance-security/)." _Computational Culture_ 7.
 
-22. **Thursday 4/9: Spam**
+20. **Thursday 4/2: Chat**
+
+    - Rodwell, Elizabeth. 2025. "[Between Code and Culture: The Evolving Role of Conversation Designers and UX in AI Development](https://doi.org/10.1177/01622439251324884)." _Science, Technology, & Human Values_.
+    - Maeda, Takuya. 2025. "[Walkthrough of Anthropomorphic Features in AI Assistant Tools](https://arxiv.org/abs/2502.16345)." arXiv:2502.16345.
+
+    ##### <mark markdown="span">Chatbot study proposals due 4/6</mark>
+
+21. **Tuesday 4/7: Magic**
+
+    - Jones, Graham. 2011. "[An Apprenticeship in Cunning](https://doi.org/10.1525/california/9780520270466.001.0001)." In _Trade of the Tricks: Inside the Magician's Craft_, 34–76. UC Press. 
+
+22. **Thursday 4/9: Advertising**
+
+    - Cochoy, Franck. 2007. "[A Brief Theory of the 'Captation' of Publics: Understanding the Market with Little Red Riding Hood](https://doi.org/10.1177/0263276407084704)." _Theory, Culture & Society_ 24 (7–8): 203–23.
+    - Lien, Marianne. 1997. "Reaching the Average Norwegian: The Pizza Superiora Film Project." In *Marketing and Modernity*, 168–198. Berg.
+
+    ##### <mark markdown="span">Interface analysis due 4/10</mark>
+
+23. **Tuesday 4/14: Spam**
 
     - Brunton, Finn. 2019. "Spam." In _The SAGE Handbook of Web History_, edited by Niels Brügger and Ian Milligan, 564–76. SAGE.
     - Ziewitz, Malte. 2019. "[Rethinking Gaming: The Ethical Work of Optimization in Web Search Engines](https://doi.org/10.1177/0306312719865607)." _Social Studies of Science_ 49 (5): 707–31.
 
-23. **Tuesday 4/14: Phishing**
+24. **Thursday 4/16: Phishing**
 
     - McNealy, Jasmine E. 2022. "[Platforms as Phish Farms: Deceptive Social Engineering at Scale](https://doi.org/10.1177/14614448221099228)." _New Media & Society_ 24 (7): 1677–94.
     - Dhamija, Rachna, J. D. Tygar, and Marti Hearst. 2006. "[Why Phishing Works](https://doi.org/10.1145/1124772.1124861)." _CHI '06_, 581–90. ACM.
 
-24. **Thursday 4/16: Scams**
+25. **Tuesday 4/21: Scams**
 
     - Burrell, Jenna. 2008. "[Problematic Empowerment: West African Internet Scams as Strategic Misrepresentation](https://itidjournal.org/index.php/itid/article/view/308)." _Information Technologies & International Development_ 4 (4): 15–30.
     - Swartz, Lana. 2022. "[Theorizing the 2017 Blockchain ICO Bubble as a Network Scam](https://doi.org/10.1177/14614448221099224)." _New Media & Society_ 24 (7): 1695–713.
 
-    ##### <mark markdown="span">Interface analysis due 4/17</mark> 
+26. **Thursday 4/23: <mark markdown="span">Poster Session</mark>**
 
-25. **Tuesday 4/21: Chat** 
-
-    - Rodwell, Elizabeth. 2025. "[Someone Behind This Technology: Conversation Designers in the Artificial Intelligence Loop](https://doi.org/10.1080/19378629.2025.2575366)." _Engineering Studies_. 
-    - Maeda, Takuya. 2025. "[Walkthrough of Anthropomorphic Features in AI Assistant Tools](https://arxiv.org/abs/2502.16345)." arXiv:2502.16345.
-
-26. **Thursday 4/23: Poster Session**
-
-    On the last day of class, we will share our research for the chatbot study with each other.
+    On the last day of class, we will share our in-progress research for the chatbot study with each other.
 
 ## Policies
 
@@ -234,7 +236,7 @@ Because it is relatively easy to get full credit just for completing all the wor
 
 ### Late Work
 
-I am often flexible about deadlines, especially if you get in touch with me before they pass. I don't auto-deduct points based on how late an assignment is, but assignments turned in too late with no prior consultation may not get any credit. The general rule is that you should talk to me if you need flexibility; I don't want to make your life or mine harder for arbitrary reasons.
+I am often flexible about deadlines, especially if you get in touch with me before they pass. I don't auto-deduct points based on how late an assignment is, but assignments turned in too late or intermediate deadlines skipped with no prior consultation may not get any credit. The general rule is that you should talk to me if you need flexibility; I don't want to make your life or mine harder for arbitrary reasons.
 
 ### Accessibility
 

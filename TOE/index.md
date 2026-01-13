@@ -2,10 +2,7 @@
 title: Technologies of Enchantment
 layout: default
 ---
-
-<nav markdown="1">
 [Overview](#overview) [Assignments](#assignments) [Schedule](#schedule) [Policies](#policies)
-</nav>
 
 #### Spring 2026: ANTH 123    
 # Technologies of Enchantment    
@@ -46,7 +43,7 @@ You can see grading weight, primary deadlines, and brief descriptions here. More
 
 Each class meeting has one or two assigned readings—book chapters or journal articles—which you should complete before we meet. If a text is not readily available online, I've put a PDF of it in our class files on Canvas. If it is available online, I’ve linked it here, and you should download it yourself using our library resources. If you can’t get something, let me know so I can help you (and your classmates) out. Library subscriptions should get you access so long as you’re on a campus network; otherwise, you can set up a [VPN](https://access.tufts.edu/vpn), use a library [proxy](https://resources.libraries.tufts.edu/support/transform/index.php), or log in and search through [JumboSearch](https://tufts.primo.exlibrisgroup.com/discovery/search?query=any,contains,technologies%20of%20enchantment&tab=Everything&search_scope=MyInst_and_CI&vid=01TUN_INST:01TUN&lang=en&offset=0).
 
-While reading, look for main arguments, interesting passages, connections to other readings, or points of confusion. Minimally, you should be prepared to answer the question "What's one thing you found interesting about this text?" for every reading, for every class meeting, but we’ll all get more out of class if you go beyond the minimum. I expect that you’ll have the texts with you and be ready to refer to specific passages in them to support your claims and motivate your questions. You should do the readings with your own intelligence, not an artificial one.
+While reading, look for main arguments, interesting passages, connections to other readings, or points of confusion. Minimally, you should be prepared to answer the question "What's one thing you found interesting about this text?" for every reading, for every class meeting, but we’ll all get more out of class if you go beyond the minimum. I expect that you’ll have the texts with you and be ready to refer to specific passages in them to support your claims and motivate your questions. You should do the reading with your own intelligence, not an artificial one.
 
 > ### Reading encouragement program (up to 10%) 
 > It is very important to the functioning of this class that you read. If it turns out that people are having trouble finding the motivation to read, and this begins to impact class discussions, I will implement a *reading encouragement program*. This will either require short reading responses to each assigned text or collaborative annotation of the texts using an online tool. Points will come from the attendance part of the grade, adjusted for how far into the term we are.

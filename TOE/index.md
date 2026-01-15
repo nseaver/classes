@@ -96,7 +96,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 4.  **Tuesday 1/27: Operatory Chains**
 
-    - Coupaye, Ludovic. 2022. "[Making 'Technology' Visible: Technical Activities and the Chaîne Opératoire](https://doi.org/10.1007/978-981-16-7084-8_2)." In _The Palgrave Handbook of the Anthropology of Technology_, ed. Bruun et al., 37–60. Springer.
+    - Coupaye, Ludovic. 2022. "Making 'Technology' Visible: Technical Activities and the Chaîne Opératoire." In _The Palgrave Handbook of the Anthropology of Technology_, ed. Bruun et al., 37–60. Springer.
 
     Choose a technical process (like sharpening a knife, brushing your teeth, or signing up for a social media platform) and sketch out an operatory chain diagram, following the examples in Coupaye's text.
 
@@ -143,7 +143,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 12. **Thursday 2/26: Gambling**
 
     - Schull, Natasha Dow. 2005. "[Digital Gambling: The Coincidence of Desire and Design](https://doi.org/10.1177/0002716204270435)." _The Annals of the American Academy of Political and Social Science_ 597 (1): 65–81.
-    - Pickles, Anthony. 2013. "['One-Man One-Man': How Slot Machines Facilitate Papua New Guineans' Shifting Relations to Each Other](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780203718872-15/one-man-one-man-anthony-pickles)." In _Qualitative Research in Gambling_, ed. Cassidy et al., 171–84. Routledge.
+    - Pickles, Anthony. 2013. "'One-Man One-Man': How Slot Machines Facilitate Papua New Guineans' Shifting Relations to Each Other." In _Qualitative Research in Gambling_, ed. Cassidy et al., 171–84. Routledge.
 
 13. **Tuesday 3/3: Control Societies**
 
@@ -191,7 +191,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 21. **Tuesday 4/7: Magic**
 
-    - Jones, Graham. 2011. "[An Apprenticeship in Cunning](https://doi.org/10.1525/california/9780520270466.001.0001)." In _Trade of the Tricks: Inside the Magician's Craft_, 34–76. UC Press. 
+    - Jones, Graham. 2011. "An Apprenticeship in Cunning." In _Trade of the Tricks: Inside the Magician's Craft_, 34–76. UC Press. 
 
 22. **Thursday 4/9: Advertising**
 

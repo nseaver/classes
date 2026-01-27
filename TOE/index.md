@@ -267,4 +267,4 @@ I do not use plagiarism or AI detection systems like Turnitin because I don't tr
 
 Everything in this syllabus is subject to revision. Any changes will be discussed in class, and I won't impose them unilaterally unless something serious happens. This page is always the current, authoritative version.
 
-#### Version 2.0
+#### Version 2.1

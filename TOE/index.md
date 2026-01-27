@@ -120,18 +120,18 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Gell, Alfred. 1996. "[Vogel's Net: Traps as Artworks and Artworks as Traps](https://doi.org/10.1177/135918359600100102)." _Journal of Material Culture_ 1 (1): 15–38.
     - Halloy, Arnaud. 2015. "[Pierre Smith's Mind Traps: The Origin and Ramifications of a Theory of Ritual Efficacy](https://doi.org/10.1177/1463499615594559)." _Anthropological Theory_ 15 (3): 358–74.
 
-9.  **Thursday 2/12: Traps and Art II**
+9.  **Thursday 2/12: Trap Design working day** <mark markdown="span">(Tisch Library 303)</mark>
+
+    We will meet at the Digital Design Studio in Tisch Library. DDS staff will give a presentation, and groups will work together to develop their proposals in consultation with DDS staff.
+
+    ##### <mark markdown="span">Trap analysis assignment due 2/13</mark>
+    
+    ##### <mark markdown="span">Trap proposals due 2/16</mark>
+
+10. **Tuesday 2/17: Traps and Art II**
 
     - Gell, Alfred. 1992. "The Technology of Enchantment and the Enchantment of Technology." In _Anthropology, Art and Aesthetics_, ed. Jeremy Coote and Anthony Shelton, 40–63. Clarendon Press.
     - Derlon, Brigitte, and Monique Jeudy-Ballini. 2010. "[The Theory of Enchantment and the Enchantment of Theory: The Art of Alfred Gell](https://doi.org/10.1002/j.1834-4461.2010.tb00076.x)." _Oceania_ 80 (2): 129–42.
-
-    ##### <mark markdown="span">Trap analysis assignment due 2/13</mark>
-
-10. **Tuesday 2/17: Proposal planning day**
-
-    This day is set aside for groups to work together on their midterm project proposals. *(I may need to move this session to another date, pending some outside arrangements.)*
-
-    ##### <mark markdown="span">Trap proposals due 2/18</mark>
     
     ##### No class 2/19 (Tufts Monday)
 

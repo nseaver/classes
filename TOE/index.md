@@ -120,7 +120,7 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Gell, Alfred. 1996. "[Vogel's Net: Traps as Artworks and Artworks as Traps](https://doi.org/10.1177/135918359600100102)." _Journal of Material Culture_ 1 (1): 15–38.
     - Halloy, Arnaud. 2015. "[Pierre Smith's Mind Traps: The Origin and Ramifications of a Theory of Ritual Efficacy](https://doi.org/10.1177/1463499615594559)." _Anthropological Theory_ 15 (3): 358–74.
 
-9.  **Thursday 2/12: Trap Design working day** <mark markdown="span">(Tisch Library 303)</mark>
+9.  **Thursday 2/12: Trap Design working day <mark markdown="span">(Tisch Library 303)</mark>**
 
     We will meet at the Digital Design Studio in Tisch Library. DDS staff will give a presentation, and groups will work together to develop their proposals in consultation with DDS staff.
 

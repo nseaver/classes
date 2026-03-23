@@ -28,16 +28,16 @@ This course has been designed to help you learn a few things:
 
 ## Assignments  
 
-Your work in this course will consist of regular reading, class attendance, and four major assignments: two analytic reports, in which you’ll use course methods to analyze objects of your choice (one trap and one digital interface), and two larger group-based projects, in which you’ll design a trap and study an AI chatbot.
+Your work in this course will consist of regular reading, class attendance, and four major assignments: two analytic reports, in which you’ll use course methods to analyze objects of your choice (one trap and one digital interface), and two larger projects, in which you’ll design a trap and write a research paper.
 
-You can see grading weight, primary deadlines, and brief descriptions here. More detailed descriptions, along with grading specifications, will be on the Canvas assignment pages, where you will also be submitting your work. (Note that the primary deadlines for the two big assignments correspond to in-class presentations. There are intermediate deadlines before then and final submissions after then, listed in the schedule below and on Canvas.)
+You can see grading weight, primary deadlines, and brief descriptions here. More detailed descriptions, along with grading specifications, will be on the Canvas assignment pages, where you will also be submitting your work. (Note that some assignments have intermediate deadlines before and final submissions after the dates listed here. See the schedule below and Canvas for details.)
 
 | **Assignment**     | **Percentage** | **Deadline** |
 | ------------------ | -------------- | ------------ |
 | Trap analysis      | 15%            | 2/13         |
 | Trap design        | 25%            | 3/10         |
 | Interface analysis | 15%            | 4/10         |
-| Chatbot study      | 25%            | 4/23         |
+| Final project      | 25%            | 5/8          |
 | Attendance         | 20%            | daily        |
 
 ### Reading  
@@ -61,9 +61,9 @@ Before spring break, in groups, you will design and prototype a trap (in the exp
 
 After learning about the “walkthrough method,” you will use it to analyze a digital interface of your choice, examining the techniques it uses to influence and retain users. You will submit a short research memo and screenshots documenting your walkthrough.
 
-### Chatbot Study (25%)
+### Final Project (25%)
 
-After spring break, in groups, you will study an AI chatbot as a technology of enchantment, cataloging its design features and learning as much as you can about its legal, economic, political, and other social contexts. We will all be studying the same chatbot, and groups will focus on particular kinds of context, according to your interests. On the last day of class, we will hold a poster session to share our work, and group-authored written reports will be due during finals period.
+After spring break, in small groups (2-3 people), you will study the course chatbot as a technology of enchantment, analyzing its design features using the methods and concepts from the course. If you prefer to work individually, you may study the chatbot solo or propose an alternative topic for approval. Your paper must use one of the methods practiced in class — a walkthrough or an operatory chain — and engage with course readings to develop an argument. On the last day of class, we will share works in progress, and final papers will be due during finals period.
 
 ### Attendance (20%)  
 
@@ -187,7 +187,7 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Rodwell, Elizabeth. 2025. "[Between Code and Culture: The Evolving Role of Conversation Designers and UX in AI Development](https://doi.org/10.1177/01622439251324884)." _Science, Technology, & Human Values_.
     - Maeda, Takuya. 2025. "[Walkthrough of Anthropomorphic Features in AI Assistant Tools](https://arxiv.org/abs/2502.16345)." arXiv:2502.16345.
 
-    ##### <mark markdown="span">Chatbot study proposals due 4/6</mark>
+    ##### <mark markdown="span">Final project proposals due 4/6</mark>
 
 21. **Tuesday 4/7: Magic**
 
@@ -215,9 +215,13 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Burrell, Jenna. 2008. "[Problematic Empowerment: West African Internet Scams as Strategic Misrepresentation](https://itidjournal.org/index.php/itid/article/view/308)." _Information Technologies & International Development_ 4 (4): 15–30.
     - Swartz, Lana. 2022. "[Theorizing the 2017 Blockchain ICO Bubble as a Network Scam](https://doi.org/10.1177/14614448221099224)." _New Media & Society_ 24 (7): 1695–713.
 
-26. **Thursday 4/23: <mark markdown="span">Poster Session</mark>**
+    ##### <mark markdown="span">Handouts for Works in Progress day due 4/22</mark>
 
-    On the last day of class, we will share our in-progress research for the chatbot study with each other.
+26. **Thursday 4/23: <mark markdown="span">Works in Progress</mark>**
+
+    On the last day of class, we will share our in-progress research with each other.
+
+    ##### <mark markdown="span">Final papers due 5/8</mark>
 
 ## Policies
 

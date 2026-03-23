@@ -63,7 +63,7 @@ After learning about the “walkthrough method,” you will use it to analyze a 
 
 ### Final Project (25%)
 
-After spring break, in small groups (2-3 people), you will study the course chatbot as a technology of enchantment, analyzing its design features using the methods and concepts from the course. If you prefer to work individually, you may study the chatbot solo or propose an alternative topic for approval. Your paper must use one of the methods practiced in class — a walkthrough or an operatory chain — and engage with course readings to develop an argument. On the last day of class, we will share works in progress, and final papers will be due during finals period.
+After spring break, you will study an AI chatbot as a technology of enchantment, analyzing its design features using the methods and concepts from the course. You can work in a small group (2-3 people) or individually, and may propose an alternative topic for approval. On the last day of class, we will share work in progress, and final papers will be due during finals period.
 
 ### Attendance (20%)  
 
@@ -215,9 +215,9 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Burrell, Jenna. 2008. "[Problematic Empowerment: West African Internet Scams as Strategic Misrepresentation](https://itidjournal.org/index.php/itid/article/view/308)." _Information Technologies & International Development_ 4 (4): 15–30.
     - Swartz, Lana. 2022. "[Theorizing the 2017 Blockchain ICO Bubble as a Network Scam](https://doi.org/10.1177/14614448221099224)." _New Media & Society_ 24 (7): 1695–713.
 
-    ##### <mark markdown="span">Handouts for Works in Progress day due 4/22</mark>
+    ##### <mark markdown="span">Handouts for Work in Progress day due 4/22</mark>
 
-26. **Thursday 4/23: <mark markdown="span">Works in Progress</mark>**
+26. **Thursday 4/23: <mark markdown="span">Work in Progress</mark>**
 
     On the last day of class, we will share our in-progress research with each other.
 

@@ -32,7 +32,7 @@ Your work in this course will consist of regular reading, class attendance, and 
 
 You can see grading weight, primary deadlines, and brief descriptions here. More detailed descriptions, along with grading specifications, will be on the Canvas assignment pages, where you will also be submitting your work. (Note that some assignments have intermediate deadlines before and final submissions after the dates listed here. See the schedule below and Canvas for details.)
 
-| **Assignment**     | **Percentage** | **Deadline** |
+| **Assignment**     | **Percentage** | **Major deadline** |
 | ------------------ | -------------- | ------------ |
 | Trap analysis      | 15%            | 2/13         |
 | Trap design        | 25%            | 3/10         |

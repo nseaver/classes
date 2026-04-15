@@ -212,7 +212,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 25. **Tuesday 4/21: Scams**
 
-    - Burrell, Jenna. 2008. "[Problematic Empowerment: West African Internet Scams as Strategic Misrepresentation](https://itidjournal.org/index.php/itid/article/view/308)." _Information Technologies & International Development_ 4 (4): 15–30.
+    - Burrell, Jenna. 2008. "[Problematic Empowerment: West African Internet Scams as Strategic Misrepresentation](https://itidjournal.org/index.php/itid/article/download/308/308-746-2-PB.pdf)." _Information Technologies & International Development_ 4 (4): 15–30.
     - Swartz, Lana. 2022. "[Theorizing the 2017 Blockchain ICO Bubble as a Network Scam](https://doi.org/10.1177/14614448221099224)." _New Media & Society_ 24 (7): 1695–713.
 
     ##### <mark markdown="span">Handouts for Work in Progress day due by dawn on 4/23</mark>

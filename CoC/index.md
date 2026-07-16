@@ -2,6 +2,7 @@
 title: Cultures of Computing
 layout: default
 ---
+[Overview](#overview) [Assignments](#assignments) [Grading](#grading) [Schedule](#schedule) [Policies](#policies)
 
 #### Fall 2023: ANTH 136
 # Cultures of Computing
@@ -264,7 +265,7 @@ This course is intended to meet in person; if conditions change, I may need to m
 
 ### Availability
 
-I try to be available via email, and you should expect a reply within 24--48 hours. If you don't get a reply within two weekdays, please follow up. As a rule, I do not answer messages over the weekend or after 5pm the day before an assignment is due.
+I try to be available via email, and you should expect a reply within 24–48 hours. If you don't get a reply within two weekdays, please follow up. As a rule, I do not answer messages over the weekend or after 5pm the day before an assignment is due.
 
 I hold regularly scheduled [office hours](https://calendly.com/nick-seaver/office-hours) to make sure I have time to talk with the students who want to talk to me and to spread you out through the hour. Some students are unclear about the purpose of office hours: this is *your* time, and you should feel free to sign up to talk with me about anything regarding the course, anthropology, or general advice. You don't need to have a specific problem to sign up, and I enjoy talking with you outside the classroom context, so feel free to make use of them as often as you like.
 

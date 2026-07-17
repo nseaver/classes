@@ -359,7 +359,7 @@ blockquote p {
 
 .course-menu a {
   display: block;
-  padding: 1.3em 0;
+  padding: 1em 0;
   text-decoration: none !important;
   color: var(--color-text) !important;
 }
@@ -385,27 +385,6 @@ blockquote p {
   letter-spacing: 0.1em;
   color: var(--color-text-secondary);
   margin-top: 0.6em;
-}
-
-.course-menu .course-desc {
-  display: block;
-  font-size: 0.9em;
-  line-height: 1.5;
-  color: var(--color-text);
-  margin-top: 0.4em;
-}
-
-.menu-foot {
-  font-family: var(--font-mono);
-  font-size: 0.75em;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--color-text-secondary);
-  margin-top: 3em;
-}
-
-.menu-foot a {
-  text-decoration: none !important;
 }
 
 /* Horizontal rules if any */

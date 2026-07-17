@@ -3,7 +3,7 @@ title: Technologies of Enchantment
 description: "Mid-level course in anthropological theory: examines technologies made to entice, lure, and persuade, in social and cultural context. Compares the design, use, and reception of techniques ranging from animal trapping to user experience design."
 layout: default
 ---
-[Overview](#overview) [Assignments](#assignments) [Schedule](#schedule) [Policies](#policies)
+[Assignments](#assignments) [Schedule](#schedule) [Policies](#policies)
 
 #### Spring 2026: ANTH 123    
 # Technologies of Enchantment

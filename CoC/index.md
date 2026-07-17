@@ -2,7 +2,7 @@
 title: Cultures of Computing
 layout: default
 ---
-[Overview](#overview) [Assignments](#assignments) [Grading](#grading) [Schedule](#schedule) [Policies](#policies)
+[Assignments](#assignments) [Grading](#grading) [Schedule](#schedule) [Policies](#policies)
 
 #### Fall 2023: ANTH 136
 # Cultures of Computing

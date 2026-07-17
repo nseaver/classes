@@ -3,7 +3,7 @@ title: How to Pay Attention
 description: "Undergraduate seminar critically examining attention: how it is measured, valued, and managed in social, cultural, and technical contexts, from driver monitoring to AI."
 layout: default
 ---
-[Overview](#overview) [Schedule](#schedule) [Assignments](#assignments) [Grading](#grading) [Policies](#policies)
+[Schedule](#schedule) [Assignments](#assignments) [Grading](#grading) [Policies](#policies)
 
 #### Fall 2026: ANTH 189 / FMS 109 / STS 189
 # How to Pay Attention

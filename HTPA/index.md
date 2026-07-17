@@ -537,3 +537,15 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 Everything in this syllabus, from the readings, to the grade breakdown, to the details of assignments, is subject to change as the term unfolds. I encourage you to let me know how the class is working for you via email, during class, or, if you'd rather stay anonymous, via the feedback box linked on Canvas. Changes may result from your comments or my assessment of how things are working. Any potential changes will be discussed in class and announced via email.
 
 #### Version 1.0
+
+<style>
+@media print {
+  @page {
+    @bottom-center {
+      content: "ANTH 189 · Fall 2026 · " counter(page);
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 9pt;
+    }
+  }
+}
+</style>

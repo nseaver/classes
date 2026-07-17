@@ -278,3 +278,15 @@ My general principles are these: Most deadlines are adjustable. If a type of ass
 ### The Syllabus Is a Living Document
 
 This syllabus is a starting point for the course. It is subject to change as the term unfolds, in response to your feedback and my assessment of how things are going.
+
+<style>
+@media print {
+  @page {
+    @bottom-center {
+      content: "ANTH 136 · Fall 2023 · " counter(page);
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 9pt;
+    }
+  }
+}
+</style>

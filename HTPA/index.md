@@ -64,7 +64,7 @@ Because it is relatively easy to acquire points by completing all the work in th
 
 I want to meet with each of you individually, in person, outside of the classroom, at least once during the first month of the class. This is meant to give us a chance to get to know each other, for me to learn about your interests, and to encourage you to make more use of office hours through the rest of the semester.
 
-Sign up for a slot using the office hours link at the top of this syllabus.
+Sign up for a slot ^using the office hours link at the top of this syllabus.
 
 ### Reading
 
@@ -173,7 +173,7 @@ Following university expectations, this course is designed to meet in person; in
 
 I try to be a responsive emailer; you should expect a reply within 24–48 weekday hours of emailing me. If you don't get a reply in that window, please follow up—your message may have gotten buried. I generally don't answer emails over the weekend or after 5 pm. Email is the only electronic channel for this course, and I use it for logistics: if something has come up, or a deadline is in question, email me.
 
-I hold regular office hours to meet with students either via Zoom or in person. The sign-up link is at the top of this syllabus. This time is reserved for you, and you should feel free to use it to talk to me about anything: the course, your academic program in general, or whatever you're interested in. You don't need to have a specific problem to sign up, and I enjoy talking with you outside the classroom, so feel free to make use of office hours as often as you like.
+I hold regular office hours to meet with students either via Zoom or in person, which you can sign up for using the link above. This time is reserved for you, and you should feel free to use it to talk to me about anything: the course, your academic program in general, or whatever you're interested in. You don't need to have a specific problem to sign up, and I enjoy talking with you outside the classroom, so feel free to make use of office hours as often as you like.
 
 ### Late Work
 

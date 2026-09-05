@@ -91,7 +91,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 3.  **Thursday 1/22: Style and Function**
 
-    - Lemonnier, Pierre. 1993. "Introduction." In _Technological Choices: Transformation in Material Cultures Since the Neolithic_, edited by Pierre Lemonnier, 1–35. Routledge. 
+    - Lemonnier, Pierre. 1993. "Introduction." In _Technological Choices: Transformation in Material Cultures Since the Neolithic_, edited by Pierre Lemonnier, 1–35. Routledge.
     - Seaver, Nick. 2013. "[The Lost Wanderers: Technology and the Auxiliary Motive](https://medium.com/anthropology-and-algorithms/the-lost-wanderers-866b60a297ee)." *Medium*.
 
 4.  **Tuesday 1/27: Operatory Chains**
@@ -191,7 +191,7 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 21. **Tuesday 4/7: Magic**
 
-    - Jones, Graham. 2011. "An Apprenticeship in Cunning." In _Trade of the Tricks: Inside the Magician's Craft_, 34–76. UC Press. 
+    - Jones, Graham. 2011. "An Apprenticeship in Cunning." In _Trade of the Tricks: Inside the Magician's Craft_, 34–76. UC Press.
 
 22. **Thursday 4/9: Advertising**
 
@@ -272,3 +272,15 @@ I do not use plagiarism or AI detection systems like Turnitin because I don't tr
 Everything in this syllabus is subject to revision. Any changes will be discussed in class, and I won't impose them unilaterally unless something serious happens. This page is always the current, authoritative version.
 
 #### Version 2.2
+
+<style>
+@media print {
+  @page {
+    @bottom-center {
+      content: "ANTH 123 · Spring 2026 · " counter(page);
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 9pt;
+    }
+  }
+}
+</style>

@@ -430,13 +430,9 @@ hr {
     break-after: avoid;
   }
 
-  /* Page setup with footer */
+  /* Page setup. The footer is per course: publish_syllabi.sh appends an
+     @page block with that course's code and term to each published page. */
   @page {
     margin: 0.75in;
-    @bottom-center {
-      content: "ANTH 123 · Spring 2026 · " counter(page);
-      font-family: 'IBM Plex Mono', monospace;
-      font-size: 9pt;
-    }
   }
 }

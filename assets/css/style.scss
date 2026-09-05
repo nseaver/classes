@@ -170,8 +170,10 @@ h6 {
   margin-bottom: 0;
 }
 
-/* Instructor block - small mono, not uppercase */
-h4 + p {
+/* Instructor block - small mono, not uppercase. Scoped to the paragraph
+   under the title's dateline, so a body paragraph after any other h4
+   keeps the body style. */
+h1 + h4 + p {
   font-family: var(--font-mono);
   font-size: 0.8em;
   letter-spacing: 0.03em;
@@ -310,6 +312,12 @@ td {
   border-bottom: 1px solid var(--color-border);
 }
 
+/* Breathing room between columns, so narrow neighbours' headings never touch */
+th:not(:last-child),
+td:not(:last-child) {
+  padding-right: 1.5em;
+}
+
 tr:last-child td {
   border-bottom: 2px solid var(--color-text-secondary);
 }
@@ -402,7 +410,7 @@ hr {
   }
 
   /* Hide office hours link in header (keep the one in policies) */
-  h4 + p a[href*="calendly"] {
+  h1 + h4 + p a[href*="calendly"] {
     display: none;
   }
 

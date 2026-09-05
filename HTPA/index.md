@@ -9,7 +9,7 @@ layout: default
 # How to Pay Attention
 #### Tuesdays 9–11:30 AM · Eaton Hall 371
 
-Nick Seaver
+Nick Seaver  
 [nick.seaver@tufts.edu](mailto:nick.seaver@tufts.edu)
 
 ## Overview
@@ -200,7 +200,7 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
 ## Schedule
 
-The reading schedule is being finalized and will be posted here before our first meeting on 9/8. Every deadline is listed under Assignments above.
+The reading schedule is still being finalized and will be posted here before our first meeting on 9/8.
 
 
 ## The Syllabus Is a Living Document

@@ -109,7 +109,7 @@ I’ll check your notebooks weekly during class, stamping pages that meet the sp
 
 Note that if you are absent, then I can’t stamp your book, and you can’t get credit for the work. This is intentional: your preparation for class only matters when you come to class to share it with us. Once during the semester, I’ll accept these assignments late, in the following class period. (This is a de facto attendance policy; see more on that below.)
 
-### Portfolio (19 points, due Friday 12/18 by 5 pm)
+### Portfolio (19 points, due Friday 12/18)
 
 At the end of the semester, you’ll build a portfolio out of your commonplace book. The assignment is to read back through your notebook and make five selections from it to annotate and share. A “selection” is an exercise or one week’s reading notes. Annotations should be a clearly distinct layer of markings on top of the original (for instance, you may have copied out passages in pencil and you could return to them with colored pen, or you could layer in post-its on top of your old work) that expand on the original material, linking it to ideas from other weeks of the class, identifying something you missed the first time around, and generally drawing out themes that have come to interest you over the course of the semester.
 
@@ -127,7 +127,7 @@ You’ll have multiple prompts to choose from, and more details will be provided
 
 This semester, we are participating in the Writing Fellows program. The writing fellows are students who have been trained to help you improve your writing. For each paper, you will submit a draft, meet with a writing fellow to discuss it, and then submit a final revision for me to grade. Writing fellows will provide constructive feedback on writing, but they are not subject-matter experts, copy editors, or graders.
 
-Paper drafts are due in hard copy, in my mailbox in the Anthropology office in 110 Eaton, by noon on their Friday deadline. You’re welcome to turn them in earlier to me during our Tuesday class session. Revisions are due in the same mailbox by 5 pm on their deadline.
+Paper drafts are due in hard copy, in my mailbox in the Anthropology office in 110 Eaton, by noon on their Friday deadline. You’re welcome to turn them in earlier to me during our Tuesday class session. 
 
 **I cannot extend draft deadlines.** This is a condition of the Writing Fellows program, to ensure that the fellows have time to read and meet with students in time for you to make revisions. I’ll be taking those hard copies, looking them over, and giving them to the writing fellows on Friday afternoon, so a draft that arrives late will not reach the writing fellows in time to schedule a meeting.
 

@@ -64,7 +64,7 @@ Because it is relatively easy to acquire points by completing all the work in th
 
 I want to meet with each of you individually, in person, outside of the classroom, at least once during the first month of the class. This is meant to give us a chance to get to know each other, for me to learn about your interests, and to encourage you to make more use of office hours through the rest of the semester.
 
-Sign up for a slot ^using the office hours link at the top of this syllabus.
+Sign up for a slot using the office hours link at the top of this syllabus.
 
 ### Reading
 

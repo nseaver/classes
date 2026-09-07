@@ -217,7 +217,7 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
     #### Exercise: Drop everything and read
 
-    While doing the reading this week, keep track of the distractions that interrupt you. These may be things like notifications, friends knocking on the door, or your own mind wandering. Keep your commonplace book nearby and mark them down as they arise. Then make a diagram that represents your data. (There are some nice examples at www.dear-data.com/by-week.)
+    While doing the reading this week, keep track of the distractions that interrupt you. These may be things like notifications, friends knocking on the door, or your own mind wandering. Keep your commonplace book nearby and mark them down as they arise. Then make a diagram that represents your data. (There are some nice examples at [www.dear-data.com/by-week](https://www.dear-data.com/by-week).)
 
 3.  **9/22: Moving**
 
@@ -239,7 +239,7 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
     #### Exercise: Oh, you’re watching me
 
-    Watch someone at work. Look at how they look; attend to how they attend. What can you tell about the way they are dividing up and interpreting the things they see? (You can, of course, ask them.) Sketch the scene — it’s okay if you think you can’t draw, try anyway — and describe the basic operations of the work. Your drawing does not have to be figurative. For one way of doing it, look at Morgan O’Hara’s Live Transmission series at www.morganohara.art/live-transmission.
+    Watch someone at work. Look at how they look; attend to how they attend. What can you tell about the way they are dividing up and interpreting the things they see? (You can, of course, ask them.) Sketch the scene — it’s okay if you think you can’t draw, try anyway — and describe the basic operations of the work. Your drawing does not have to be figurative. For one way of doing it, look at Morgan O’Hara’s Live Transmission series at [www.morganohara.art/live-transmission](https://www.morganohara.art/live-transmission).
 
 5.  **10/6: Wait, What Are We Talking About?**
 
@@ -349,7 +349,7 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
     #### Exercise: Distraction reduction
 
-    ADHD accommodations take a variety of forms that carry with them different ideas about what attention is and what ADHD is. Look at one or two collections of accommodations and try to read their implicit theories of attention out of them. You can find two examples from the [Job Accommodation Network](https://askjan.org/disabilities/Attention-Deficit-Hyperactivity-Disorder-AD-HD.cfm) and the [Washington County School District in Utah](https://www.washk12.org/wp-content/uploads/sites/9/2023/04/section_504_accomodations.pdf); see the QR codes in the margin. Copy a few items of interest into your commonplace book. What do they assume attention is? What do they think ADHD requires, and how do they vary?
+    ADHD accommodations take a variety of forms that carry with them different ideas about what attention is and what ADHD is. Look at one or two collections of accommodations and try to read their implicit theories of attention out of them. You can find two examples from the [Job Accommodation Network](https://askjan.org/disabilities/Attention-Deficit-Hyperactivity-Disorder-AD-HD.cfm) and the [Washington County School District in Utah](https://www.washk12.org/wp-content/uploads/sites/9/2023/04/section_504_accomodations.pdf). Copy a few items of interest into your commonplace book. What do they assume attention is? What do they think ADHD requires, and how do they vary?
 
     ##### 12/16 · Paper 2 revision due by 5 pm · 12/18 · Portfolio due by 5 pm
 

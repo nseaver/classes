@@ -1,9 +1,10 @@
 ---
 ---
 
-/* The site index and the 404 page. Each course has its own sheet
-   (assets/css/<course>.scss, listed in _config.yml course_styles);
-   editing this one does not reach any syllabus. */
+/* TOE — Technologies of Enchantment (ANTH 123, Spring 2026).
+   This course's own stylesheet, standing alone: it shares nothing with
+   the other courses, so a change here reaches this page and no other.
+   Forked 2026-09-07 from the single shared sheet all three used. */
 
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400&display=swap');
 @import "jekyll-theme-minimal";

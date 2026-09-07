@@ -3,3 +3,7 @@ description: Nick Seaver's course materials
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
+
+# Directories that own a forked stylesheet at assets/css/<name>.scss.
+# _layouts/default.html links it instead of style.css.
+course_styles: [HTPA, TOE, CoC]

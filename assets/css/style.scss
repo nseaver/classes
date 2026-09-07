@@ -210,6 +210,13 @@ ul > li {
   margin-bottom: 0.3em;
 }
 
+/* An exercise heading inside a schedule week. The course-header h4 above sets
+   no top margin, which is right at the top of the page and wrong here, where
+   the heading follows a reading list and needs air to read as a new block. */
+ol > li h4 {
+  margin-top: 2em;
+}
+
 /* Schedule days - ol with nested content */
 ol > li + li {
   margin-top: 2em;

@@ -168,11 +168,6 @@ h5 {
   margin-bottom: 0.5em;
 }
 
-/* Two deadlines closing the same week are a pair, not two blocks */
-h5 + h5 {
-  margin-top: 0.5em;
-}
-
 /* Labels - "During class", "Specifications", etc. */
 h6 {
   font-family: var(--font-mono);
@@ -235,6 +230,13 @@ ol > li h4 {
 /* Bound to the week it closes, not centred between that week and the next */
 ol > li h5 {
   margin-top: 1em;
+}
+
+/* Two deadlines closing the same week are a pair. The selector has to carry
+   the `ol > li` above or that rule outweighs it and the pair sits as loose
+   as a lone deadline. */
+ol > li h5 + h5 {
+  margin-top: 0.5em;
 }
 
 /* Schedule days - ol with nested content */

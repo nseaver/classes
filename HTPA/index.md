@@ -203,9 +203,7 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
 1.  **9/8: Hello**
 
-
-    - Note: We’ll read this week’s pieces together in class.
-
+    We’ll read this week’s pieces together in class.
 
     - Cook, Joanna. 2018. "[Paying Attention to Attention](http://aotcpress.com/articles/paying-attention-attention/)." *Anthropology of This Century*.
     - Popova, Maria. 2016. "[Pioneering Psychologist William James on Attention, Multitasking, and the Mental Habit That Sets Great Minds Apart](https://www.themarginalian.org/2016/03/25/william-james-attention/)." *The Marginalian*.
@@ -216,7 +214,10 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
     - Selbin, Jesse Cordes. 2016. "['Read with Attention': John Cassell, John Ruskin, and the History of Close Reading](https://doi.org/10.2979/victorianstudies.58.3.04)." *Victorian Studies* 58 (3): 493–521.
     - Hayles, N. Katherine. 2007. "Hyper and Deep Attention: The Generational Divide in Cognitive Modes." *Profession*, 187–99.
     - Segalovitz, Yael. 2026. "['Probably Not Book Learned at All': The Gender of Attentive Reading in Woolf and Lispector](https://doi.org/10.1215/03335372-12186060)." *Poetics Today* 47 (1): 29–50.
-    - Exercise (Drop everything and read): While doing the reading this week, keep track of the distractions that interrupt you. These may be things like notifications, friends knocking on the door, or your own mind wandering. Keep your commonplace book nearby and mark them down as they arise. Then make a diagram that represents your data. (There are some nice examples at www.dear-data.com/by-week.)
+
+    #### Exercise: Drop everything and read
+
+    While doing the reading this week, keep track of the distractions that interrupt you. These may be things like notifications, friends knocking on the door, or your own mind wandering. Keep your commonplace book nearby and mark them down as they arise. Then make a diagram that represents your data. (There are some nice examples at [www.dear-data.com/by-week](https://www.dear-data.com/by-week).)
 
 3.  **9/22: Moving**
 
@@ -224,7 +225,10 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
     - Solnit, Rebecca. 2000. "The Mind at Three Miles an Hour." In *Wanderlust: A History of Walking*. Viking, 14–29.
     - Hirschauer, Stefan. 2005. "[On Doing Being a Stranger: The Practical Constitution of Civil Inattention](https://doi.org/10.1111/j.0021-8308.2005.00263.x)." *Journal for the Theory of Social Behaviour* 35 (1): 41–67.
     - Yancy, George. 2008. "[Elevators, Social Spaces and Racism: A Philosophical Analysis](https://doi.org/10.1177/0191453708094727)." *Philosophy & Social Criticism* 34 (8): 843–76.
-    - Exercise (Staying put): Go to a public place that you already frequent (either on campus, like the student center, or off-campus, like a coffee shop or museum). Stay put for one hour, immerse yourself in the scene, and take notes — as detailed as you can manage — about what surrounds you (you can draw pictures, make diagrams, whatever you like). Pay particular attention to how people in the setting are or are not attending to each other: Are they conspicuously ignoring each other? Seeking people out? How do they communicate their attentional states to each other? How do you know what you know about them? What might you not know? Do you think people are paying attention to you?
+
+    #### Exercise: Staying put
+
+    Go to a public place that you already frequent (either on campus, like the student center, or off-campus, like a coffee shop or museum). Stay put for one hour, immerse yourself in the scene, and take notes — as detailed as you can manage — about what surrounds you (you can draw pictures, make diagrams, whatever you like). Pay particular attention to how people in the setting are or are not attending to each other: Are they conspicuously ignoring each other? Seeking people out? How do they communicate their attentional states to each other? How do you know what you know about them? What might you not know? Do you think people are paying attention to you?
 
 4.  **9/29: Working**
 
@@ -232,17 +236,23 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
     - Akridge, Hunter, Alex Ahmed, Free S. Bàssïbét, Magally A. Miranda Alcázar, and Sarah Fox. 2026. "['Oh, You're Watching Me': Care Workers' Experiences of Surveillant Assemblages on the Platform and in the Home](https://doi.org/10.1177/14614448251315759)." *New Media & Society* 28 (4): 1730–49.
     - Levy, Karen. 2023. "RoboTruckers: The Double Threat of AI for Low-Wage Work." In *Data Driven: Truckers, Technology, and the New Workplace Surveillance*. Princeton University Press, 119–51.
     - Bassetti, Chiara. 2018. "[Airport Security Contradictions: Interorganizational Entanglements and Changing Work Practices](https://doi.org/10.1177/1466138117696513)." *Ethnography* 19 (3): 288–311.
-    - Exercise (Oh, you’re watching me): Watch someone at work. Look at how they look; attend to how they attend. What can you tell about the way they are dividing up and interpreting the things they see? (You can, of course, ask them.) Sketch the scene — it’s okay if you think you can’t draw, try anyway — and describe the basic operations of the work. Your drawing does not have to be figurative. For one way of doing it, look at Morgan O’Hara’s Live Transmission series at www.morganohara.art/live-transmission.
+
+    #### Exercise: Oh, you’re watching me
+
+    Watch someone at work. Look at how they look; attend to how they attend. What can you tell about the way they are dividing up and interpreting the things they see? (You can, of course, ask them.) Sketch the scene — it’s okay if you think you can’t draw, try anyway — and describe the basic operations of the work. Your drawing does not have to be figurative. For one way of doing it, look at Morgan O’Hara’s Live Transmission series at [www.morganohara.art/live-transmission](https://www.morganohara.art/live-transmission).
 
 5.  **10/6: Wait, What Are We Talking About?**
-
-    ##### 10/6 · Last day to schedule your first office hours visit
 
     - Schmidt, Benjamin. 2013. "The Rise of the American Attention Span." In *Paying Attention: Imagining and Measuring a Psychological Subject in America, 1886–1960*. PhD diss., Princeton University, 55–83.
     - Fernandez-Duque, Diego, and Mark L. Johnson. 2002. "[Cause and Effect Theories of Attention: The Role of Conceptual Metaphors](https://doi.org/10.1037/1089-2680.6.2.153)." *Review of General Psychology* 6 (2): 153–65.
     - Burnett, D. Graham. 2026. "[Human Attention as a Philosophical Problem: The Question, and the Nature of Questions](https://doi.org/10.1111/meta.70024)." *Metaphilosophy* 57 (1–2): 3–22.
     - Taylor, Henry. 2023. "[Attention as a Patchwork Concept](https://doi.org/10.1007/s13194-023-00538-5)" (excerpt). *European Journal for Philosophy of Science* 13 (3): 36.
-    - Exercise (Everyone knows?): Talk to 3–5 people outside of this class about what attention is. You should just ask them what they think attention is and let them answer in their own terms without you guiding them. Write down what they say and ask follow-up questions that you find interesting. Afterwards, look through their responses and think about these questions: What do they compare attention to? Do they use any interesting metaphors? How do they think about measuring it?
+
+    #### Exercise: Everyone knows?
+
+    Talk to 3–5 people outside of this class about what attention is. You should just ask them what they think attention is and let them answer in their own terms without you guiding them. Write down what they say and ask follow-up questions that you find interesting. Afterwards, look through their responses and think about these questions: What do they compare attention to? Do they use any interesting metaphors? How do they think about measuring it?
+
+    ##### 10/6 · Last day to schedule your first office hours visit
 
 6.  **10/13: Overload**
 
@@ -250,27 +260,36 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
     - Simmel, Georg. [1903] 1969. "The Metropolis and Mental Life." In *Classic Essays on the Culture of Cities*, edited by Richard Sennett. Appleton-Century-Crofts, 47–60.
     - Crary, Jonathan. 1998. "Attention and Modernity in the Nineteenth Century." In *Picturing Science, Producing Art*, edited by Caroline A. Jones and Peter Galison. Routledge, 475–99.
     - Levine, Nick. 2017. "[The Nature of the Glut: Information Overload in Postwar America](https://doi.org/10.1177/0952695116686016)." *History of the Human Sciences* 30 (1): 32–49.
-    - Exercise (Too much to know): Blair catalogs a variety of ways that people have coped with having more to read than they can manage. This week, you should take an inventory of your own strategies for coping with overload. This might involve your reading for school, social media content, news, or anything else you find overwhelming. Write down some of the techniques that you use. How do you decide what not to read? How do you keep track of things that you have decided are worth keeping? Where do things go when you want to find them again? Which of these techniques came built into something you already use? What do they depend on in order to function?
+
+    #### Exercise: Too much to know
+
+    Blair catalogs a variety of ways that people have coped with having more to read than they can manage. This week, you should take an inventory of your own strategies for coping with overload. This might involve your reading for school, social media content, news, or anything else you find overwhelming. Write down some of the techniques that you use. How do you decide what not to read? How do you keep track of things that you have decided are worth keeping? Where do things go when you want to find them again? Which of these techniques came built into something you already use? What do they depend on in order to function?
 
 7.  **10/20: Economy**
-
-    ##### 10/23 · Paper 1 draft due at noon
 
     - Simon, Herbert A. 1971. "Designing Organizations for an Information-Rich World." In *Computers, Communications, and the Public Interest*, edited by Martin Greenberger. Johns Hopkins Press, 37–47.
     - Bachmann, Philipp, and Gabriele Siegert. 2021. "[How to Buy, Sell, and Trade Attention: A Sociology of (Digital) Attention Markets](https://doi.org/10.1007/978-3-030-61619-9_10)." In *Handbook of Economic Sociology for the 21st Century*, edited by Andrea Maurer. Springer, 147–57.
     - Goldhaber, Michael H. 1997. "[The Attention Economy and the Net](https://firstmonday.org/ojs/index.php/fm/article/view/519/440)." *First Monday* 2 (4).
     - Mears, Ashley. 2023. "[Bringing Bourdieu to a Content Farm: Social Media Production Fields and the Cultural Economy of Attention](https://doi.org/10.1177/20563051231193027)." *Social Media + Society* 9 (3): 1–12.
-    - Exercise (Exchange theory): For this exercise, find a connection between the topic of your first paper and the idea that attention is essentially economic. In your commonplace book, describe something related to your paper topic (a technology, a kind of job, a particular person, a metaphor, anything) and think about it in economic terms. Who’s buying? Who’s selling? What exactly is being exchanged, and how is it being valued?
+
+    #### Exercise: Exchange theory
+
+    For this exercise, find a connection between the topic of your first paper and the idea that attention is essentially economic. In your commonplace book, describe something related to your paper topic (a technology, a kind of job, a particular person, a metaphor, anything) and think about it in economic terms. Who’s buying? Who’s selling? What exactly is being exchanged, and how is it being valued?
+
+    ##### 10/23 · Paper 1 draft due at noon
 
 8.  **10/27: Politics**
-
-    ##### 11/2 · Paper 1 revision due by 5 pm
 
     - Sarachild, Kathie. 1975. "Consciousness-Raising: A Radical Weapon." In *Feminist Revolution*. Redstockings, 144–50.
     - Turner, Fred. 2013. "Where Did All the Fascists Come From?" In *The Democratic Surround*. University of Chicago Press.
     - Bruns, Axel. 2019. "[Filter Bubble](https://doi.org/10.14763/2019.4.1426)." *Internet Policy Review* 8 (4).
     - Clark, Meredith D. 2020. "[DRAG THEM: A Brief Etymology of So-Called 'Cancel Culture'](https://doi.org/10.1177/2057047320961562)." *Communication and the Public* 5 (3–4): 88–92.
-    - Exercise (Expanding viewpoints): Centers for “viewpoint diversity” and “civil discourse” have multiplied on American campuses over the last few years. Find one or two, and read their mission statements and program descriptions. Copy down any sentences that describe the political problem or solution in terms of attention: bubbles, blind spots, listening, exposure, seeing the other side. What kind of attention does it think politics needs, and who is supposed to be doing it?
+
+    #### Exercise: Expanding viewpoints
+
+    Centers for “viewpoint diversity” and “civil discourse” have multiplied on American campuses over the last few years. Find one or two, and read their mission statements and program descriptions. Copy down any sentences that describe the political problem or solution in terms of attention: bubbles, blind spots, listening, exposure, seeing the other side. What kind of attention does it think politics needs, and who is supposed to be doing it?
+
+    ##### 11/2 · Paper 1 revision due by 5 pm
 
 9.  **11/3: Listening**
 
@@ -278,15 +297,20 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
     - Drott, Eric. 2020. "Fake Streams, Listening Bots, and Click Farms: Counterfeiting Attention in the Streaming Music Economy." *American Music* 38 (2): 153–75.
     - Gordon, Theodore. 2021. "['Androgynous Music': Pauline Oliveros's Early Cybernetic Improvisation](https://doi.org/10.1080/07494467.2021.2001939)." *Contemporary Music Review* 40 (4): 386–408.
     - Larkin, Brian. 2014. "[Techniques of Inattention: The Mediality of Loudspeakers in Nigeria](https://doi.org/10.1353/anq.2014.0067)." *Anthropological Quarterly* 87 (4): 989–1015.
-    - Exercise (Sound walk): This is a score for a performance piece by Pauline Oliveros: “Take a walk at night. Walk so silently that the bottoms of your feet become ears.” Perform it, alone or with one friend from outside the class, and write about your experience.
+
+    #### Exercise: Sound walk
+
+    This is a score for a performance piece by Pauline Oliveros: “Take a walk at night. Walk so silently that the bottoms of your feet become ears.” Perform it, alone or with one friend from outside the class, and write about your experience.
 
     ##### 11/10 · No class (Wednesday schedule)
 
 10. **11/17: Attentional Subjects**
 
-    - Note: Everyone reads the Hacking piece, and you will choose three of the six that follow it.
+    Everyone reads the Hacking piece, and you will choose three of the six that follow it.
+
     **Everyone**
     - Hacking, Ian. 1986. "Making Up People." In *Reconstructing Individualism*. Stanford University Press, 222–36.
+
     **Choose three**
     - Milman, Noriko. 2011. "Focused: How Students Construct Attentiveness in First-Grade Classrooms." *Sociological Studies of Children and Youth* 14: 99–124.
     - Messinger, Seth D. 2013. "Vigilance and Attention among U.S. Service Members and Veterans After Combat." *Anthropology of Consciousness* 24 (2): 191–207.
@@ -294,32 +318,42 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
     - Semel, Beth. 2022. "Listening Like a Computer: Attentional Tensions and Mechanized Care in Psychiatric Digital Phenotyping." *Science, Technology, & Human Values* 47 (2): 266–90.
     - Rao, Yichen. 2019. "[From Confucianism to Psychology: Rebooting Internet Addicts in China](https://doi.org/10.1037/hop0000111)." *History of Psychology* 22 (4): 328–50.
     - Hartmann, Marlene. 2021. "[The Totalizing Meritocracy of Heterosex: Subjectivity in NoFap](https://doi.org/10.1177/1363460720932387)." *Sexualities* 24 (3): 409–30.
-    - Exercise (Subject headings): Identify a kind of attentional subject out in the world, using the kinds of people studied in this week’s readings as examples. You might find one by thinking about your own experience, or by looking at online discourses, personality quizzes, marketing segments, special interest forums, or anywhere else people come up with labels for themselves or for other people. Write about it in your commonplace book: Where does this category of person come from? How are they understood to pay attention? What problems do they have? What powers do they have? Are there any kinds of discipline associated with this kind of person?
+
+    #### Exercise: Subject headings
+
+    Identify a kind of attentional subject out in the world, using the kinds of people studied in this week’s readings as examples. You might find one by thinking about your own experience, or by looking at online discourses, personality quizzes, marketing segments, special interest forums, or anywhere else people come up with labels for themselves or for other people. Write about it in your commonplace book: Where does this category of person come from? How are they understood to pay attention? What problems do they have? What powers do they have? Are there any kinds of discipline associated with this kind of person?
 
     ##### 11/24 · No class (use the extra time for your Paper 2 drafts!)
 
 11. **12/1: Looking**
 
-    ##### 12/4 · Paper 2 draft due at noon
-
-    - Note: This week we will be meeting in the Tufts University Art Gallery, in the Aidekman Arts Center at 40 Talbot Avenue.
+    This week we will be meeting in the Tufts University Art Gallery, in the Aidekman Arts Center at 40 Talbot Avenue.
 
     - Bishop, Claire. 2024. "Introduction: OS XXI, Disordering Attention." In *Disordered Attention: How We Look at Art and Performance Today*. Verso Books, 1–36.
     - Greenblatt, Stephen. 1991. "Resonance and Wonder." In *Exhibiting Cultures*, edited by Ivan Karp and Steven D. Lavine. Smithsonian Institution Press, 42–56.
     - Grasseni, Cristina. 2004. "[Skilled Vision: An Apprenticeship in Breeding Aesthetics](https://doi.org/10.1111/j.1469-8676.2004.tb00093.x)." *Social Anthropology* 12 (1): 41–55.
     - Campt, Tina M. 2017. "Quiet Soundings: The Grammar of Black Futurity." In *Listening to Images*. Duke University Press, 15–45.
-    - Exercise (Framing): Find something that has been framed. It could be framed by a literal picture frame, the edge of a screen, a window, a doorway, or anything else that carves up the visual field. Look at it: what do you see? What do you notice thanks to the frame? What does the frame cut out? Think about the boundary between what you can see and what you can’t.
+
+    #### Exercise: Framing
+
+    Find something that has been framed. It could be framed by a literal picture frame, the edge of a screen, a window, a doorway, or anything else that carves up the visual field. Look at it: what do you see? What do you notice thanks to the frame? What does the frame cut out? Think about the boundary between what you can see and what you can’t.
+
+    ##### 12/4 · Paper 2 draft due at noon
 
 12. **12/8: ADHD**
-
-    ##### 12/16 · Paper 2 revision due by 5 pm · 12/18 · Portfolio due by 5 pm
 
     - Lakoff, Andrew. 2000. "Adaptive Will: The Evolution of Attention Deficit Disorder." *Journal of the History of the Behavioral Sciences* 36 (2): 149–69.
     - Filipe, Angela Marques. 2023. "[The Other Face of Medical Globalization? Pharmaceutical Data, Prescribing Trends, and the Social Localization of Psychostimulants](https://doi.org/10.1057/s41292-022-00271-x)." *BioSocieties* 18 (2): 335–57.
     - Holroyd, Deanna. 2025. "['Why Is Everyone Self-Diagnosing with ADHD Nowadays?': The Affective Economy of ADHD TikTok](https://doi.org/10.1080/10304312.2025.2544777)." *Continuum* 40 (2): 238–51.
     - Fried, Talia, and Galia Plotkin-Amrami. 2025. "[From Looping to Rippling: Mothers, Diagnostic Expansion, and ADHD in Israeli Families of Diagnosed Children](https://doi.org/10.1080/01459740.2025.2578760)." *Medical Anthropology* 44 (7): 692–707.
-    - Exercise (Distraction reduction): ADHD accommodations take a variety of forms that carry with them different ideas about what attention is and what ADHD is. Look at one or two collections of accommodations and try to read their implicit theories of attention out of them. You can find two examples from the [Job Accommodation Network](https://askjan.org/disabilities/Attention-Deficit-Hyperactivity-Disorder-AD-HD.cfm) and the [Washington County School District in Utah](https://www.washk12.org/wp-content/uploads/sites/9/2023/04/section_504_accomodations.pdf). Copy a few items of interest into your commonplace book. What do they assume attention is? What do they think ADHD requires, and how do they vary?
 
+    #### Exercise: Distraction reduction
+
+    ADHD accommodations take a variety of forms that carry with them different ideas about what attention is and what ADHD is. Look at one or two collections of accommodations and try to read their implicit theories of attention out of them. You can find two examples from the [Job Accommodation Network](https://askjan.org/disabilities/Attention-Deficit-Hyperactivity-Disorder-AD-HD.cfm) and the [Washington County School District in Utah](https://www.washk12.org/wp-content/uploads/sites/9/2023/04/section_504_accomodations.pdf). Copy a few items of interest into your commonplace book. What do they assume attention is? What do they think ADHD requires, and how do they vary?
+
+    ##### 12/16 · Paper 2 revision due by 5 pm
+
+    ##### 12/18 · Portfolio due by 5 pm
 
 ## The Syllabus Is a Living Document
 

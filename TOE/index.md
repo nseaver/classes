@@ -74,12 +74,12 @@ You can miss two class meetings without penalty, and make up four more absences 
 
 1.  **Thursday 1/15: Technology and Enchantment**
 
+    ###### During class
+
     - Gell, Alfred. 1988. "[Technology and Magic](https://doi.org/10.2307/3033230)." _Anthropology Today_ 4 (2): 6–9.
     
     Browse through the [Pitt Rivers Museum collection of traps](http://tinyurl.com/pittriverstraps).
     > This should take you to search results. If it doesn't, follow these steps: Navigate to the collection advanced search page; pick "Object" from the buttons at the top; put "trap" in the Description field; hit "search." Then you can check the box at the left of the results to show only results containing images—there should be about 355 of them.
-
-    ###### During class
 
 2.  **Tuesday 1/20: Contraptions and the Mind**
 
@@ -87,6 +87,7 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Wadley, Lyn. 2019. "Ensnaring the Mind: Cognitive Implications of Setting Snares and Traps." In _Squeezing Minds From Stones_, ed. Overmann and Coolidge, 457–480. Oxford University Press.
 
     Pick three traps from the Pitt Rivers collection (see day 1) that you find interesting for whatever reason and note their accession numbers, e.g., 1999.29.10.
+    
 
 3.  **Thursday 1/22: Style and Function**
 
@@ -124,14 +125,14 @@ You can miss two class meetings without penalty, and make up four more absences 
     We will meet at the Digital Design Studio in Tisch Library. DDS staff will give a presentation, and groups will work together to develop their proposals in consultation with DDS staff.
 
     ##### <mark markdown="span">Trap analysis assignment due 2/13</mark>
-
+    
     ##### <mark markdown="span">Trap proposals due 2/16</mark>
 
 10. **Tuesday 2/17: Traps and Art II**
 
     - Gell, Alfred. 1992. "The Technology of Enchantment and the Enchantment of Technology." In _Anthropology, Art and Aesthetics_, ed. Jeremy Coote and Anthony Shelton, 40–63. Clarendon Press.
     - Derlon, Brigitte, and Monique Jeudy-Ballini. 2010. "[The Theory of Enchantment and the Enchantment of Theory: The Art of Alfred Gell](https://doi.org/10.1002/j.1834-4461.2010.tb00076.x)." _Oceania_ 80 (2): 129–42.
-
+    
     ##### No class 2/19 (Tufts Monday)
 
 11. **Tuesday 2/24: Traps and Computers**
@@ -155,7 +156,6 @@ You can miss two class meetings without penalty, and make up four more absences 
     - Ziv, Tali. 2025. "[The Trap: Care and Mystification in Carceral Governance](https://doi.org/10.1080/00141844.2023.2264527)." _Ethnos_ 90 (2): 287–312.
 
 15. **Tuesday  3/10: <mark markdown="span">Presentations</mark>**
-
 16. **Thursday 3/12: <mark markdown="span">Presentations</mark>**
 
     The week before spring break, groups will present their traps in class.

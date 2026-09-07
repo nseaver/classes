@@ -155,16 +155,22 @@ h3 {
   margin-bottom: 0.5em;
 }
 
-/* Break notes - h5 for schedule interruptions */
+/* A dated deadline inside a schedule week. It sits beside the exercise
+   heading, which is an h4 at 0.75em, uppercase and grey; at 0.9em, uppercase
+   and heavier it was the loudest thing in the week. Same size now, told apart
+   by being set in mixed case and in black, so the mono date does the work. */
 h5 {
   font-family: var(--font-mono);
-  font-size: 0.9em;
+  font-size: 0.75em;
   font-weight: 500;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--color-text-secondary);
+  color: var(--color-heading);
   margin-top: 2em;
   margin-bottom: 0.5em;
+}
+
+/* Two deadlines closing the same week are a pair, not two blocks */
+h5 + h5 {
+  margin-top: 0.5em;
 }
 
 /* Labels - "During class", "Specifications", etc. */
@@ -226,6 +232,11 @@ ol > li h4 {
   margin-top: 2em;
 }
 
+/* Bound to the week it closes, not centred between that week and the next */
+ol > li h5 {
+  margin-top: 1em;
+}
+
 /* Schedule days - ol with nested content */
 ol > li + li {
   margin-top: 2em;
@@ -240,7 +251,7 @@ ol > li {
 }
 
 ol > li > p:first-child {
-  margin: 0;
+  margin: 0 0 0.4em;
 }
 
 /* Activities - instruction paragraphs under schedule days */
@@ -262,6 +273,23 @@ ol > li > strong:first-child {
   white-space: pre-wrap;
 }
 
+/* Group labels standing over part of a reading list - "Everyone", "Choose
+   three". Their own paragraph, so a bold run inside a sentence is untouched.
+   Set like the h6 labels, and bound down to the list they name. */
+ol > li > p:not(:first-child) > strong:only-child {
+  font-family: var(--font-mono);
+  font-size: 0.85em;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-text-secondary);
+}
+
+ol > li > p:not(:first-child):has(> strong:only-child) {
+  margin-top: 1.2em;
+  padding-bottom: 0;
+}
+
 /* Readings - citation lists under schedule days */
 ol ul {
   list-style: none;
@@ -272,36 +300,11 @@ ol ul {
 
 ol ul li {
   margin-bottom: 0;
-  padding: 0.3em 0;
+  padding: 0.45em 0;
   font-size: 0.88em;
   color: var(--color-text);
   padding-left: 1.5em;
   text-indent: -1.5em;
-}
-
-/* Schedule notes - shared styles for all blockquote notes */
-ol ul li blockquote,
-ol > li > p + blockquote {
-  color: var(--color-text-secondary);
-  text-indent: 0;
-  margin: 0.5em 0 0 0;
-}
-
-/* Reading notes - inherit size from parent (already 0.88em) */
-ol ul li blockquote {
-  font-size: 1em;
-  padding-left: 1em;
-}
-
-/* Activity notes - after activity paragraphs, indented */
-ol > li > p:not(:first-of-type) + blockquote {
-  font-size: 0.88em;
-  margin-left: 1.5em;
-}
-
-/* Day notes - after day title, flush left */
-ol > li > p:first-of-type + blockquote {
-  font-size: 0.88em;
 }
 
 /* Tables */
@@ -328,6 +331,12 @@ td {
   border-bottom: 1px solid var(--color-border);
 }
 
+/* A short cell lines up with the first line of a neighbour that wrapped,
+   not with its middle */
+th, td {
+  vertical-align: baseline;
+}
+
 /* Breathing room between columns, so narrow neighbours' headings never touch */
 th:not(:last-child),
 td:not(:last-child) {
@@ -341,6 +350,11 @@ tr:last-child td {
 td:nth-child(2),
 td:nth-child(3) {
   font-family: var(--font-mono);
+}
+
+/* The deadline column wraps at narrow widths; even lines beat one orphan */
+td:nth-child(3) {
+  text-wrap: balance;
 }
 
 /* Italicized table cells = sub-items (indent + gray) */
@@ -444,9 +458,21 @@ hr {
     color: inherit;
   }
 
-  /* Avoid breaking inside schedule items */
+  /* The section rule is a hairline on screen; --color-accent goes black in
+     print, which turned it into a slab */
+  h2 {
+    border-bottom-width: 2px;
+  }
+
+  /* A week taller than a page cannot be kept whole, and trying leaves the
+     page before it half empty. Keep the week's heading with its readings
+     instead and let the rest break where it must. */
   ol > li {
-    break-inside: avoid;
+    break-inside: auto;
+  }
+
+  ol > li > p:first-child {
+    break-after: avoid;
   }
 
   /* Keep headings with following content */

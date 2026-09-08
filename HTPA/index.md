@@ -306,7 +306,7 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
 10. **11/17: Attentional Subjects**
 
-    Everyone reads the Hacking piece, and you will choose three of the six that follow it.
+    Everyone will read the Hacking piece, and you’ll choose three of the others.
 
     **Everyone**
     - Hacking, Ian. 1986. "Making Up People." In *Reconstructing Individualism*. Stanford University Press, 222–36.

@@ -129,6 +129,14 @@ h1 {
   color: var(--color-heading);
 }
 
+/* The course codes standing over the title. Anton's caps sit high in its em
+   box and Barlow's do not, so swapping the display face opened a gap here
+   that the h4's own margin no longer needs to add to. Scoped to the h4 that
+   precedes the title, so the exercise h4s inside a schedule week keep theirs. */
+h4:has(+ h1) {
+  margin-bottom: 0;
+}
+
 /* Dateline under title */
 h1 + h4 {
   margin-bottom: 1.5em;

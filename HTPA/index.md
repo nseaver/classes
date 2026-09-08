@@ -53,8 +53,8 @@ Your grade in this course is calculated out of 100 points, which are allocated a
 | Commonplace book: Reading notes            | 11         | weekly, from 9/15           |
 | Commonplace book: Exercises                | 11         | weekly, from 9/15           |
 | Commonplace book: Portfolio                | 19         | 12/18                       |
-| Paper 1                                    | 28         | draft 10/23 · revision 11/2 |
-| Paper 2                                    | 28         | draft 12/4 · revision 12/16 |
+| Paper 1                                    | 28         | draft 10/23 · revision 11/2 |
+| Paper 2                                    | 28         | draft 12/4 · revision 12/16 |
 
 I’ll convert your point score into a final letter grade following this structure: 0–59 F, 60–62 D-, 63–66 D, 67–69 D+, 70–72 C-, 73–76 C, 77–79 C+, 80–82 B-, 83–86 B, 87–89 B+, 90–92 A-, 93–100 A.
 

@@ -6,7 +6,7 @@
    the other courses, so a change here reaches this page and no other.
    Forked 2026-09-07 from the single shared sheet all three used. */
 
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@800&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400&display=swap');
 @import "jekyll-theme-minimal";
 
 /* Design tokens */
@@ -17,7 +17,10 @@
   --color-text: #1a1a1a;
   --color-text-secondary: #555;
   --color-border: #ccc;
-  --font-display: 'Anton', sans-serif;
+  /* Barlow ExtraBold, the packet covers' own display face — the printed
+     week headings are Barlow-800 uppercase (Resources/cover_mockup.py), so
+     the page title and the paper the students carry are set alike. */
+  --font-display: 'Barlow', sans-serif;
   --font-sans: 'IBM Plex Sans', -apple-system, sans-serif;
   --font-mono: 'IBM Plex Mono', monospace;
 }
@@ -116,10 +119,11 @@ h4 {
 h1 {
   font-family: var(--font-display);
   font-size: clamp(1.8em, 12vw, 5em);
-  font-weight: 400;
+  /* Anton is heavy at weight 400; Barlow is not, and needs its 800 */
+  font-weight: 800;
   line-height: 0.9;
   margin-bottom: 0.1em;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.01em;
   text-transform: uppercase;
   word-break: keep-all;
   color: var(--color-heading);

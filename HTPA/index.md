@@ -205,7 +205,7 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
     We’ll read this week’s pieces together in class.
 
-    - Cook, Joanna. 2018. "[Paying Attention to Attention](http://aotcpress.com/articles/paying-attention-attention/)." *Anthropology of This Century*.
+    - Cook, Joanna. 2018. "[Paying Attention to Attention](https://web.archive.org/web/20260505000451/http://aotcpress.com/articles/paying-attention-attention/)." *Anthropology of This Century*.
     - Popova, Maria. 2016. "[Pioneering Psychologist William James on Attention, Multitasking, and the Mental Habit That Sets Great Minds Apart](https://www.themarginalian.org/2016/03/25/william-james-attention/)." *The Marginalian*.
 
 2.  **9/15: Reading**
@@ -239,7 +239,7 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
     #### Exercise: Oh, you’re watching me
 
-    Watch someone at work. Look at how they look; attend to how they attend. What can you tell about the way they are dividing up and interpreting the things they see? (You can, of course, ask them.) Sketch the scene — it’s okay if you think you can’t draw, try anyway — and describe the basic operations of the work. Your drawing does not have to be figurative. For one way of doing it, look at Morgan O’Hara’s Live Transmission series at [www.morganohara.art/live-transmission](https://www.morganohara.art/live-transmission).
+    Watch someone at work. Look at how they look; attend to how they attend. What can you tell about the way they are dividing up and interpreting the things they see? (You can, of course, ask them.) Sketch the scene—it’s okay if you think you can’t draw, try anyway—and describe the basic operations of the work. Your drawing does not have to be figurative. For one way of doing it, look at Morgan O’Hara’s Live Transmission series at [www.morganohara.art/live-transmission](https://www.morganohara.art/live-transmission).
 
 5.  **10/6: Wait, What Are We Talking About?**
 

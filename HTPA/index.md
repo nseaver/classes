@@ -210,9 +210,9 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
 2.  **9/15: Reading**
 
-    - Sinykin, Dan, and Johanna Winant. 2025. "Introduction: What Close Reading Is." In *Close Reading for the Twenty-First Century*. Princeton University Press, 1–10.
+    - Sinykin, Dan, and Johanna Winant. 2025. "[Introduction: What Close Reading Is.](https://press.princeton.edu/books/paperback/9780691265704/close-reading-for-the-twenty-first-century)" In *Close Reading for the Twenty-First Century*. Princeton University Press, 1–10.
     - Selbin, Jesse Cordes. 2016. "['Read with Attention': John Cassell, John Ruskin, and the History of Close Reading](https://doi.org/10.2979/victorianstudies.58.3.04)." *Victorian Studies* 58 (3): 493–521.
-    - Hayles, N. Katherine. 2007. "Hyper and Deep Attention: The Generational Divide in Cognitive Modes." *Profession*, 187–99.
+    - Hayles, N. Katherine. 2007. "[Hyper and Deep Attention: The Generational Divide in Cognitive Modes.](https://www.jstor.org/stable/25595866)" *Profession*, 187–99.
     - Segalovitz, Yael. 2026. "['Probably Not Book Learned at All': The Gender of Attentive Reading in Woolf and Lispector](https://doi.org/10.1215/03335372-12186060)." *Poetics Today* 47 (1): 29–50.
 
     #### Exercise: Drop everything and read
@@ -221,8 +221,8 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
 3.  **9/22: Moving**
 
-    - Perec, Georges. 2010. "Approaches to What?" [1973], in *The Everyday Life Reader*, edited by Ben Highmore (Routledge, 2002), 176–78; and "Day 1," in *An Attempt at Exhausting a Place in Paris*, translated by Marc Lowenthal. Wakefield Press, 5–27.
-    - Solnit, Rebecca. 2000. "The Mind at Three Miles an Hour." In *Wanderlust: A History of Walking*. Viking, 14–29.
+    - Perec, Georges. 2010. "[Approaches to What?](https://www.routledge.com/The-Everyday-Life-Reader/Highmore/p/book/9780415230254)" [1973], in *The Everyday Life Reader*, edited by Ben Highmore (Routledge, 2002), 176–78; and "Day 1," in *An Attempt at Exhausting a Place in Paris*, translated by Marc Lowenthal. Wakefield Press, 5–27.
+    - Solnit, Rebecca. 2000. "[The Mind at Three Miles an Hour.](https://www.penguinrandomhouse.com/books/332360/wanderlust-by-rebecca-solnit/)" In *Wanderlust: A History of Walking*. Viking, 14–29.
     - Hirschauer, Stefan. 2005. "[On Doing Being a Stranger: The Practical Constitution of Civil Inattention](https://doi.org/10.1111/j.0021-8308.2005.00263.x)." *Journal for the Theory of Social Behaviour* 35 (1): 41–67.
     - Yancy, George. 2008. "[Elevators, Social Spaces and Racism: A Philosophical Analysis](https://doi.org/10.1177/0191453708094727)." *Philosophy & Social Criticism* 34 (8): 843–76.
 
@@ -232,9 +232,9 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
 4.  **9/29: Working**
 
-    - Zuboff, Shoshana. 1988. "Office Technology as Exile and Integration" (selection). In *In the Age of the Smart Machine: The Future of Work and Power*. Basic Books, 124–73.
+    - Zuboff, Shoshana. 1988. "[Office Technology as Exile and Integration](https://www.hachettebookgroup.com/titles/shoshana-zuboff/in-the-age-of-the-smart-machine/9780465032112/)" (selection). In *In the Age of the Smart Machine: The Future of Work and Power*. Basic Books, 124–73.
     - Akridge, Hunter, Alex Ahmed, Free S. Bàssïbét, Magally A. Miranda Alcázar, and Sarah Fox. 2026. "['Oh, You're Watching Me': Care Workers' Experiences of Surveillant Assemblages on the Platform and in the Home](https://doi.org/10.1177/14614448251315759)." *New Media & Society* 28 (4): 1730–49.
-    - Levy, Karen. 2023. "RoboTruckers: The Double Threat of AI for Low-Wage Work." In *Data Driven: Truckers, Technology, and the New Workplace Surveillance*. Princeton University Press, 119–51.
+    - Levy, Karen. 2023. "[RoboTruckers: The Double Threat of AI for Low-Wage Work.](https://press.princeton.edu/books/hardcover/9780691175300/data-driven)" In *Data Driven: Truckers, Technology, and the New Workplace Surveillance*. Princeton University Press, 119–51.
     - Bassetti, Chiara. 2018. "[Airport Security Contradictions: Interorganizational Entanglements and Changing Work Practices](https://doi.org/10.1177/1466138117696513)." *Ethnography* 19 (3): 288–311.
 
     #### Exercise: Oh, you’re watching me
@@ -243,7 +243,7 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
 5.  **10/6: Wait, What Are We Talking About?**
 
-    - Schmidt, Benjamin. 2013. "The Rise of the American Attention Span." In *Paying Attention: Imagining and Measuring a Psychological Subject in America, 1886–1960*. PhD diss., Princeton University, 55–83.
+    - Schmidt, Benjamin. 2013. "[The Rise of the American Attention Span.](https://dataspace.princeton.edu/handle/88435/dsp01m613mx718)" In *Paying Attention: Imagining and Measuring a Psychological Subject in America, 1886–1960*. PhD diss., Princeton University, 55–83.
     - Fernandez-Duque, Diego, and Mark L. Johnson. 2002. "[Cause and Effect Theories of Attention: The Role of Conceptual Metaphors](https://doi.org/10.1037/1089-2680.6.2.153)." *Review of General Psychology* 6 (2): 153–65.
     - Burnett, D. Graham. 2026. "[Human Attention as a Philosophical Problem: The Question, and the Nature of Questions](https://doi.org/10.1111/meta.70024)." *Metaphilosophy* 57 (1–2): 3–22.
     - Taylor, Henry. 2023. "[Attention as a Patchwork Concept](https://doi.org/10.1007/s13194-023-00538-5)" (excerpt). *European Journal for Philosophy of Science* 13 (3): 36.
@@ -258,7 +258,7 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
     - Blair, Ann. 2003. "[Reading Strategies for Coping With Information Overload ca. 1550–1700](https://doi.org/10.1353/jhi.2003.0014)." *Journal of the History of Ideas* 64 (1): 11–28.
     - Simmel, Georg. [1903] 1969. "The Metropolis and Mental Life." In *Classic Essays on the Culture of Cities*, edited by Richard Sennett. Appleton-Century-Crofts, 47–60.
-    - Crary, Jonathan. 1998. "Attention and Modernity in the Nineteenth Century." In *Picturing Science, Producing Art*, edited by Caroline A. Jones and Peter Galison. Routledge, 475–99.
+    - Crary, Jonathan. 1998. "[Attention and Modernity in the Nineteenth Century.](https://www.routledge.com/Picturing-Science-Producing-Art/Galison-Jones/p/book/9780415919128)" In *Picturing Science, Producing Art*, edited by Caroline A. Jones and Peter Galison. Routledge, 475–99.
     - Levine, Nick. 2017. "[The Nature of the Glut: Information Overload in Postwar America](https://doi.org/10.1177/0952695116686016)." *History of the Human Sciences* 30 (1): 32–49.
 
     #### Exercise: Too much to know
@@ -280,8 +280,8 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
 8.  **10/27: Politics**
 
-    - Sarachild, Kathie. 1975. "Consciousness-Raising: A Radical Weapon." In *Feminist Revolution*. Redstockings, 144–50.
-    - Turner, Fred. 2013. "Where Did All the Fascists Come From?" In *The Democratic Surround*. University of Chicago Press.
+    - Sarachild, Kathie. 1975. "[Consciousness-Raising: A Radical Weapon.](https://www.redstockings.org/feminist-revolution)" In *Feminist Revolution*. Redstockings, 144–50.
+    - Turner, Fred. 2013. "[Where Did All the Fascists Come From?](https://press.uchicago.edu/ucp/books/book/chicago/D/bo10509859.html)" In *The Democratic Surround*. University of Chicago Press.
     - Bruns, Axel. 2019. "[Filter Bubble](https://doi.org/10.14763/2019.4.1426)." *Internet Policy Review* 8 (4).
     - Clark, Meredith D. 2020. "[DRAG THEM: A Brief Etymology of So-Called 'Cancel Culture'](https://doi.org/10.1177/2057047320961562)." *Communication and the Public* 5 (3–4): 88–92.
 
@@ -293,8 +293,8 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
 9.  **11/3: Listening**
 
-    - Baade, Christina. 2018. "Lean Back: Songza, Ubiquitous Listening and Internet Music Radio for the Masses." *Radio Journal* 16 (1): 9–27.
-    - Drott, Eric. 2020. "Fake Streams, Listening Bots, and Click Farms: Counterfeiting Attention in the Streaming Music Economy." *American Music* 38 (2): 153–75.
+    - Baade, Christina. 2018. "[Lean Back: Songza, Ubiquitous Listening and Internet Music Radio for the Masses.](https://doi.org/10.1386/rjao.16.1.9_1)" *Radio Journal* 16 (1): 9–27.
+    - Drott, Eric. 2020. "[Fake Streams, Listening Bots, and Click Farms: Counterfeiting Attention in the Streaming Music Economy.](https://doi.org/10.5406/americanmusic.38.2.0153)" *American Music* 38 (2): 153–75.
     - Gordon, Theodore. 2021. "['Androgynous Music': Pauline Oliveros's Early Cybernetic Improvisation](https://doi.org/10.1080/07494467.2021.2001939)." *Contemporary Music Review* 40 (4): 386–408.
     - Larkin, Brian. 2014. "[Techniques of Inattention: The Mediality of Loudspeakers in Nigeria](https://doi.org/10.1353/anq.2014.0067)." *Anthropological Quarterly* 87 (4): 989–1015.
 
@@ -312,10 +312,10 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
     - Hacking, Ian. 1986. "Making Up People." In *Reconstructing Individualism*. Stanford University Press, 222–36.
 
     **Choose three**
-    - Milman, Noriko. 2011. "Focused: How Students Construct Attentiveness in First-Grade Classrooms." *Sociological Studies of Children and Youth* 14: 99–124.
-    - Messinger, Seth D. 2013. "Vigilance and Attention among U.S. Service Members and Veterans After Combat." *Anthropology of Consciousness* 24 (2): 191–207.
-    - Daston, Lorraine. 2004. "Attention and the Values of Nature in the Enlightenment." In *The Moral Authority of Nature*. University of Chicago Press, 100–26.
-    - Semel, Beth. 2022. "Listening Like a Computer: Attentional Tensions and Mechanized Care in Psychiatric Digital Phenotyping." *Science, Technology, & Human Values* 47 (2): 266–90.
+    - Milman, Noriko. 2011. "[Focused: How Students Construct Attentiveness in First-Grade Classrooms.](https://doi.org/10.1108/S1537-4661(2011)0000014009)" *Sociological Studies of Children and Youth* 14: 99–124.
+    - Messinger, Seth D. 2013. "[Vigilance and Attention among U.S. Service Members and Veterans After Combat.](https://doi.org/10.1111/anoc.12013)" *Anthropology of Consciousness* 24 (2): 191–207.
+    - Daston, Lorraine. 2004. "[Attention and the Values of Nature in the Enlightenment.](https://doi.org/10.7208/chicago/9780226136820.003.0005)" In *The Moral Authority of Nature*. University of Chicago Press, 100–26.
+    - Semel, Beth. 2022. "[Listening Like a Computer: Attentional Tensions and Mechanized Care in Psychiatric Digital Phenotyping.](https://doi.org/10.1177/01622439211026371)" *Science, Technology, & Human Values* 47 (2): 266–90.
     - Rao, Yichen. 2019. "[From Confucianism to Psychology: Rebooting Internet Addicts in China](https://doi.org/10.1037/hop0000111)." *History of Psychology* 22 (4): 328–50.
     - Hartmann, Marlene. 2021. "[The Totalizing Meritocracy of Heterosex: Subjectivity in NoFap](https://doi.org/10.1177/1363460720932387)." *Sexualities* 24 (3): 409–30.
 
@@ -329,10 +329,10 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
     This week we will be meeting in the Tufts University Art Gallery, in the Aidekman Arts Center at 40 Talbot Avenue.
 
-    - Bishop, Claire. 2024. "Introduction: OS XXI, Disordering Attention." In *Disordered Attention: How We Look at Art and Performance Today*. Verso Books, 1–36.
-    - Greenblatt, Stephen. 1991. "Resonance and Wonder." In *Exhibiting Cultures*, edited by Ivan Karp and Steven D. Lavine. Smithsonian Institution Press, 42–56.
+    - Bishop, Claire. 2024. "[Introduction: OS XXI, Disordering Attention.](https://www.versobooks.com/products/2942-disordered-attention)" In *Disordered Attention: How We Look at Art and Performance Today*. Verso Books, 1–36.
+    - Greenblatt, Stephen. 1991. "[Resonance and Wonder.](https://www.smithsonianbooks.com/store/museum-studies/exhibiting-cultures-the-poetics-and-politics-of-museum-display/)" In *Exhibiting Cultures*, edited by Ivan Karp and Steven D. Lavine. Smithsonian Institution Press, 42–56.
     - Grasseni, Cristina. 2004. "[Skilled Vision: An Apprenticeship in Breeding Aesthetics](https://doi.org/10.1111/j.1469-8676.2004.tb00093.x)." *Social Anthropology* 12 (1): 41–55.
-    - Campt, Tina M. 2017. "Quiet Soundings: The Grammar of Black Futurity." In *Listening to Images*. Duke University Press, 15–45.
+    - Campt, Tina M. 2017. "[Quiet Soundings: The Grammar of Black Futurity.](https://read.dukeupress.edu/books/book/2342/chapter/920647/)" In *Listening to Images*. Duke University Press, 15–45.
 
     #### Exercise: Framing
 
@@ -342,7 +342,7 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
 12. **12/8: ADHD**
 
-    - Lakoff, Andrew. 2000. "Adaptive Will: The Evolution of Attention Deficit Disorder." *Journal of the History of the Behavioral Sciences* 36 (2): 149–69.
+    - Lakoff, Andrew. 2000. "[Adaptive Will: The Evolution of Attention Deficit Disorder.](https://doi.org/10.1002/(SICI)1520-6696(200021)36:2%3C149::AID-JHBS3%3E3.0.CO;2-9)" *Journal of the History of the Behavioral Sciences* 36 (2): 149–69.
     - Filipe, Angela Marques. 2023. "[The Other Face of Medical Globalization? Pharmaceutical Data, Prescribing Trends, and the Social Localization of Psychostimulants](https://doi.org/10.1057/s41292-022-00271-x)." *BioSocieties* 18 (2): 335–57.
     - Holroyd, Deanna. 2025. "['Why Is Everyone Self-Diagnosing with ADHD Nowadays?': The Affective Economy of ADHD TikTok](https://doi.org/10.1080/10304312.2025.2544777)." *Continuum* 40 (2): 238–51.
     - Fried, Talia, and Galia Plotkin-Amrami. 2025. "[From Looping to Rippling: Mothers, Diagnostic Expansion, and ADHD in Israeli Families of Diagnosed Children](https://doi.org/10.1080/01459740.2025.2578760)." *Medical Anthropology* 44 (7): 692–707.

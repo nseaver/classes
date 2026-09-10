@@ -44,6 +44,16 @@ section {
   padding: 40px 20px;
 }
 
+/* jekyll-theme-minimal's `@media print, screen and (max-width: 960px)` sets
+   `div.wrapper { width: auto; margin: 0 }`, which outweighs the plain
+   `.wrapper` above and drops the column out of centre on every screen under
+   960px. Re-assert centring for screens only; print keeps the theme's rule. */
+@media screen {
+  div.wrapper {
+    margin: 0 auto;
+  }
+}
+
 /* Base typography */
 body {
   /* the theme sets its own margin and padding, which double .wrapper's
@@ -216,7 +226,12 @@ ol {
   list-style-position: outside;
 }
 
-@media (min-width: 600px) {
+/* Schedule numbers hang in the left margin, which is the wrapper's 20px
+   padding plus whatever the centred column leaves outside it. A two-digit
+   marker is ~35px wide, so the hang only clears the viewport edge once that
+   gutter is wide enough: 720px of viewport gives 60px. Below that the numbers
+   sit inside the list. */
+@media (min-width: 720px) {
   ol {
     padding-left: 0;
   }

@@ -232,7 +232,7 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
 4.  **9/29: Working**
 
-    - Zuboff, Shoshana. 1988. "[Office Technology as Exile and Integration](https://www.hachettebookgroup.com/titles/shoshana-zuboff/in-the-age-of-the-smart-machine/9780465032112/)" (selection). In *In the Age of the Smart Machine: The Future of Work and Power*. Basic Books, 124–73.
+    - Zuboff, Shoshana. 1988. "[Office Technology as Exile and Integration](https://www.hachettebookgroup.com/titles/shoshana-zuboff/in-the-age-of-the-smart-machine/9780465032112/)" (selection). In *In the Age of the Smart Machine: The Future of Work and Power*. Basic Books, 124–56.
     - Akridge, Hunter, Alex Ahmed, Free S. Bàssïbét, Magally A. Miranda Alcázar, and Sarah Fox. 2026. "['Oh, You're Watching Me': Care Workers' Experiences of Surveillant Assemblages on the Platform and in the Home](https://doi.org/10.1177/14614448251315759)." *New Media & Society* 28 (4): 1730–49.
     - Levy, Karen. 2023. "[RoboTruckers: The Double Threat of AI for Low-Wage Work](https://press.princeton.edu/books/hardcover/9780691175300/data-driven)." In *Data Driven: Truckers, Technology, and the New Workplace Surveillance*. Princeton University Press, 119–51.
     - Bassetti, Chiara. 2018. "[Airport Security Contradictions: Interorganizational Entanglements and Changing Work Practices](https://doi.org/10.1177/1466138117696513)." *Ethnography* 19 (3): 288–311.
@@ -282,6 +282,8 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
     - Sarachild, Kathie. 1975. "[Consciousness-Raising: A Radical Weapon](https://www.redstockings.org/feminist-revolution)." In *Feminist Revolution*. Redstockings, 144–50.
     - Turner, Fred. 2013. "[Where Did All the Fascists Come From?](https://press.uchicago.edu/ucp/books/book/chicago/D/bo10509859.html)" In *The Democratic Surround*. University of Chicago Press.
+
+        This chapter discusses Nazi propaganda and rallies.
     - Bruns, Axel. 2019. "[Filter Bubble](https://doi.org/10.14763/2019.4.1426)." *Internet Policy Review* 8 (4).
     - Clark, Meredith D. 2020. "[DRAG THEM: A Brief Etymology of So-Called 'Cancel Culture'](https://doi.org/10.1177/2057047320961562)." *Communication and the Public* 5 (3–4): 88–92.
 
@@ -311,13 +313,21 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
     **Everyone**
     - Hacking, Ian. 1986. "Making Up People." In *Reconstructing Individualism*. Stanford University Press, 222–36.
 
+        This chapter discusses suicide.
+
     **Choose three**
     - Milman, Noriko. 2011. "[Focused: How Students Construct Attentiveness in First-Grade Classrooms.](https://doi.org/10.1108/S1537-4661(2011)0000014009)" *Sociological Studies of Children and Youth* 14: 77–107.
     - Messinger, Seth D. 2013. "[Vigilance and Attention among U.S. Service Members and Veterans After Combat](https://doi.org/10.1111/anoc.12013)." *Anthropology of Consciousness* 24 (2): 191–207.
+
+        This article discusses PTSD and suicide.
     - Daston, Lorraine. 2004. "[Attention and the Values of Nature in the Enlightenment](https://doi.org/10.7208/chicago/9780226136820.003.0005)." In *The Moral Authority of Nature*. University of Chicago Press, 100–26.
     - Semel, Beth. 2022. "[Listening Like a Computer: Attentional Tensions and Mechanized Care in Psychiatric Digital Phenotyping](https://doi.org/10.1177/01622439211026371)." *Science, Technology, & Human Values* 47 (2): 266–90.
+
+        This article mentions self-harm.
     - Rao, Yichen. 2019. "[From Confucianism to Psychology: Rebooting Internet Addicts in China](https://doi.org/10.1037/hop0000111)." *History of Psychology* 22 (4): 328–50.
     - Hartmann, Marlene. 2021. "[The Totalizing Meritocracy of Heterosex: Subjectivity in NoFap](https://doi.org/10.1177/1363460720932387)." *Sexualities* 24 (3): 409–30.
+
+        This article quotes explicit sexual material and misogynist slurs.
 
     #### Exercise: Subject headings
 
@@ -331,6 +341,8 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
 
     - Bishop, Claire. 2024. "[Introduction: OS XXI, Disordering Attention](https://www.versobooks.com/products/2942-disordered-attention)." In *Disordered Attention: How We Look at Art and Performance Today*. Verso Books, 1–36.
     - Greenblatt, Stephen. 1991. "[Resonance and Wonder](https://www.smithsonianbooks.com/store/museum-studies/exhibiting-cultures-the-poetics-and-politics-of-museum-display/)." In *Exhibiting Cultures*, edited by Ivan Karp and Steven D. Lavine. Smithsonian Institution Press, 42–56.
+
+        This chapter discusses the Holocaust.
     - Grasseni, Cristina. 2004. "[Skilled Vision: An Apprenticeship in Breeding Aesthetics](https://doi.org/10.1111/j.1469-8676.2004.tb00093.x)." *Social Anthropology* 12 (1): 41–55.
     - Campt, Tina M. 2017. "[Quiet Soundings: The Grammar of Black Futurity](https://read.dukeupress.edu/books/book/2342/chapter/920647/)." In *Listening to Images*. Duke University Press, 15–45.
 

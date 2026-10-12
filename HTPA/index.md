@@ -314,7 +314,8 @@ Failure to abide by these norms is considered plagiarism, as laid out in the [Tu
     - Hacking, Ian. 1986. "Making Up People." In *Reconstructing Individualism*. Stanford University Press, 222–36.
 
         *Note: This chapter discusses suicide.*
-    - Three of these, chosen in class on 10/27:
+
+    **Three of these, chosen in class on 10/27**
     - Milman, Noriko. 2011. "[Focused: How Students Construct Attentiveness in First-Grade Classrooms.](https://doi.org/10.1108/S1537-4661(2011)0000014009)" *Sociological Studies of Children and Youth* 14: 77–107.
     - Messinger, Seth D. 2013. "[Vigilance and Attention among U.S. Service Members and Veterans After Combat](https://doi.org/10.1111/anoc.12013)." *Anthropology of Consciousness* 24 (2): 191–207.
 

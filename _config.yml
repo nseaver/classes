@@ -6,4 +6,4 @@ plugins:
 
 # Directories that own a forked stylesheet at assets/css/<name>.scss.
 # _layouts/default.html links it instead of style.css.
-course_styles: [HTPA, TOE, CoC]
+course_styles: [HTPA, TOE]

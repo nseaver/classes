@@ -21,10 +21,4 @@ layout: default
       <span class="course-meta">ANTH 123 · Spring 2026</span>
     </a>
   </li>
-  <li>
-    <a href="/CoC/">
-      <span class="course-title">Cultures of Computing</span>
-      <span class="course-meta">ANTH 136 · Fall 2023</span>
-    </a>
-  </li>
 </ul>
